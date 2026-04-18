@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b1020">
+  <title>Dossier Tracker Académico v4</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+</head>
+<body>
+  <div class="app-shell">
+
+    <!-- ── HEADER ──────────────────────────────────────────────────── -->
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">MONITOREO DIARIO · v4</p>
+        <h1 class="neon-title">Dossier Tracker Académico</h1>
+        <p class="beta-credit">Desarrollado por Elías Aguirre ·
+          <a href="mailto:aguirre.elias.gonzalo@gmail.com">aguirre.elias.gonzalo@gmail.com</a>
+        </p>
+        <p class="subtitle">Convocatorias, dossiers y recepción continua en educación, ciencias sociales, humanidades, sociología, política y dirección escolar. Enriquecido con SCImago, Latindex y CAICYT-CONICET.</p>
+      </div>
+      <div class="metrics-strip">
+        <div class="metric-card"><span>Revistas en catálogo</span><strong id="metric-sources">—</strong></div>
+        <div class="metric-card"><span>Revistas scrapeadas</span><strong id="metric-scraped">—</strong></div>
+        <div class="metric-card"><span>Conv. activas (con fecha)</span><strong id="metric-total">—</strong></div>
+        <div class="metric-card mc-dossier"><span>Dossiers / Especiales</span><strong id="metric-dossier">—</strong></div>
+        <div class="metric-card mc-perm"><span>Publicación continua</span><strong id="metric-permanent">—</strong></div>
+        <div class="metric-card mc-closed"><span>Convocatorias cerradas</span><strong id="metric-closed">—</strong></div>
+        <div class="metric-card mc-none"><span>Sin conv. visible</span><strong id="metric-sin-conv">—</strong></div>
+        <div class="metric-card"><span>Nuevas hoy</span><strong id="metric-new">—</strong></div>
+        <div class="metric-card"><span>Última actualización</span><strong id="metric-updated">—</strong></div>
+      </div>
+    </header>
+
+    <!-- ── FILTROS ──────────────────────────────────────────────────── -->
+    <section class="filters">
+      <label>
+        <span>Región</span>
+        <select id="filter-region"><option value="all">Todas</option></select>
+      </label>
+      <label>
+        <span>Tema</span>
+        <select id="filter-theme"><option value="all">Todos</option></select>
+      </label>
+      <label>
+        <span>Modo</span>
+        <select id="filter-mode">
+          <option value="all">Todos</option>
+          <option value="deadline">Con fecha límite</option>
+          <option value="permanent">Recepción continua</option>
+        </select>
+      </label>
+      <label>
+        <span>Cuartil / Calidad</span>
+        <select id="filter-quartile">
+          <option value="all">Todos</option>
+          <option value="Q1">Q1 — SCImago</option>
+          <option value="Q2">Q2 — SCImago</option>
+          <option value="Q3">Q3 — SCImago</option>
+          <option value="Q4">Q4 — SCImago</option>
+          <option value="NBRA">NBRA / CAICYT-CONICET</option>
+          <option value="Latindex">Latindex catálogo</option>
+        </select>
+      </label>
+      <label class="search-wrap">
+        <span>Buscar</span>
+        <input id="filter-search" type="search" placeholder="Revista, tema, país, palabra clave">
+      </label>
+    </section>
+
+    <!-- ── GRID PRINCIPAL ───────────────────────────────────────────── -->
+    <main class="dashboard-grid">
+
+      <!-- Panel 01 – Mapa -->
+      <section class="panel map-panel col-span-2">
+        <div class="panel-head">
+          <div><p class="panel-kicker">01</p><h2>Mapa de convocatorias</h2></div>
+          <div id="map-legend" class="legend-inline"></div>
+        </div>
+        <div id="map"></div>
+        <div class="panel-foot">
+          <span>● Sólido: convocatoria abierta con fecha</span>
+          <span>○ Hueco: recepción continua o permanente</span>
+          <span style="color:var(--red)">● Crítica (&lt;7d)</span>
+          <span style="color:var(--amber)">● Próxima (&lt;21d)</span>
+          <span style="color:var(--green)">● Abierta</span>
+        </div>
+      </section>
+
+      <!-- Panel 02 – Countdown -->
+      <section class="panel countdown-panel col-span-1">
+        <div class="panel-head">
+          <div><p class="panel-kicker">02</p><h2>Próximo vencimiento</h2></div>
+        </div>
+        <div id="countdown" class="countdown-display">—</div>
+        <div id="next-call-card" class="next-call-card"></div>
+        <div id="export-bar" class="export-bar"></div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Revista</th><th>Tema dossier</th><th>Calidad</th>
+                <th>Cierre</th><th>Falta</th><th>Ir</th>
+              </tr>
+            </thead>
+            <tbody id="upcoming-body"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- Panel 03 – Gráficos temáticos -->
+      <section class="panel theme-panel col-span-1">
+        <div class="panel-head">
+          <div><p class="panel-kicker">03</p><h2>Agrupamiento temático y calidad</h2></div>
+        </div>
+        <div class="chart-grid">
+          <div class="chart-card"><canvas id="themeChart"></canvas></div>
+          <div class="chart-card"><canvas id="countryChart"></canvas></div>
+          <div class="chart-card"><canvas id="quartileChart"></canvas></div>
+          <div class="chart-card"><canvas id="callTypeChart"></canvas></div>
+        </div>
+      </section>
+
+      <!-- Panel 04 – Radar estratégico -->
+      <section class="panel strategic-panel col-span-2">
+        <div class="panel-head">
+          <div><p class="panel-kicker">04</p><h2>Radar estratégico</h2></div>
+        </div>
+        <div id="strategic-list" class="strategic-list"></div>
+      </section>
+
+    </main>
+
+    <!-- ── RECEPCIÓN CONTINUA ─────────────────────────────────────── -->
+    <section class="panel continuous-panel">
+      <div class="panel-head">
+        <div><p class="panel-kicker">Extra</p><h2>Revistas con convocatoria continua</h2></div>
+      </div>
+      <div class="table-wrap continuous-wrap">
+        <table>
+          <thead>
+            <tr><th>Revista</th><th>País</th><th>Temas</th><th>Calidad / Cuartil</th><th>Modalidad</th><th>Ir</th></tr>
+          </thead>
+          <tbody id="continuous-body"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- ── CATÁLOGO MAESTRO ───────────────────────────────────────── -->
+    <section class="panel catalog-panel">
+      <div class="panel-head">
+        <div><p class="panel-kicker">Catálogo</p><h2>Catálogo maestro de revistas afines <span id="catalog-count"></span></h2></div>
+        <div class="catalog-search-wrap">
+          <input id="catalog-search" type="search" placeholder="Buscar por revista, área temática, cuartil…">
+        </div>
+      </div>
+      <div class="table-wrap catalog-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Revista</th><th>País</th><th>Área temática</th>
+              <th class="col-q">Q / Calidad</th><th>SJR</th><th>Latindex</th>
+              <th>Estado</th><th>Tipo</th><th>Conf.</th><th>Ir</th>
+            </tr>
+          </thead>
+          <tbody id="catalog-body"></tbody>
+        </table>
+      </div>
+    </section>
+
+  </div><!-- /.app-shell -->
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <!-- SheetJS para exportar Excel desde el browser -->
+  <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
