@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "source_name": "Historia de la Educación. Anuario",
+    "source_url": "https://www.saiehe.org.ar/anuario/revista",
+    "title": "Anuario de Historia de la Educación",
+    "url": "https://www.saiehe.org.ar/anuario/revista",
+    "region": "Argentina",
+    "language": "es",
+    "tags": [
+      "historia de la educación",
+      "educación"
+    ],
+    "summary": "Anuario de Historia de la Educación Historia de la Educación Anuario Investigación Sociedad Argentina de Investigación y Enseñanza en Historia de la Educación Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Anuario de Historia de la Educación Anuario de Historia de la Educación Actual Archivos Avisos Envíos Política editorial…",
+    "score": 7.6,
+    "deadline_text": null,
+    "deadline_iso": null,
+    "publication_date_text": null,
+    "publication_date_iso": null,
+    "status": "permanente",
+    "country": "Argentina",
+    "city": "Buenos Aires",
+    "latitude": -34.6037,
+    "longitude": -58.3816,
+    "call_mode": "permanent",
+    "source_kind": "revista",
+    "themes": [
+      "educación",
+      "sociología",
+      "política",
+      "humanidades",
+      "ciencias sociales"
+    ],
+    "strategic_score": 78,
+    "urgency": "continua",
+    "days_left": null,
+    "dossier_topic": "Anuario de Historia de la Educación",
+    "quartile": null,
+    "quality_label": "NBRA",
+    "quality_source": "CAICYT-CONICET",
+    "sjr": null,
+    "h_index": null,
+    "open_access": false,
+    "issn": "2313-9277",
+    "latindex_catalogada": false,
+    "latindex_subtemas": [],
+    "call_type": "continua",
+    "url_confidence": ""
+  }
+]
