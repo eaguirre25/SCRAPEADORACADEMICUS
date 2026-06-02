@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "source_name": "Archivos de Ciencias de la Educación",
+    "source_url": "https://www.archivosdeciencias.fahce.unlp.edu.ar/",
+    "title": "Agendas emergentes y enfoques situados en los estudios sobre la evaluación académica y de la investigación: introducción al dosier",
+    "url": "https://www.archivosdeciencias.fahce.unlp.edu.ar/article/view/Archivose181",
+    "region": "Argentina",
+    "language": "es",
+    "tags": [
+      "educación",
+      "ciencias de la educación"
+    ],
+    "summary": "Agendas emergentes y enfoques situados en los estudios sobre la evaluación académica y de la investigación: introducción al dosier | Archivos de Ciencias de la Educación Navegación principal Contenido principal Barra lateral Registrarse Entrar Toggle navigation Archivos de Ciencias de la Educación Revistas de la FaHCE Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Historia de la revista…",
+    "score": 4.4,
+    "deadline_text": "29 (2026",
+    "deadline_iso": "2026-06-29",
+    "publication_date_text": "2026-06-01",
+    "publication_date_iso": "2026-06-01",
+    "status": "abierta",
+    "country": "Argentina",
+    "city": "La Plata",
+    "latitude": -34.9205,
+    "longitude": -57.9536,
+    "call_mode": "deadline",
+    "source_kind": "revista",
+    "themes": [
+      "educación",
+      "política",
+      "humanidades",
+      "ciencias sociales"
+    ],
+    "strategic_score": 66,
+    "urgency": "abierta",
+    "days_left": 27,
+    "dossier_topic": "Agendas emergentes y enfoques situados en los estudios sobre la evaluación académica y de la investigación: introducción al dosier",
+    "quartile": null,
+    "quality_label": "NBRA",
+    "quality_source": "CAICYT-CONICET",
+    "sjr": null,
+    "h_index": null,
+    "open_access": false,
+    "issn": "2346-8866",
+    "latindex_catalogada": false,
+    "latindex_subtemas": [],
+    "call_type": "dossier",
+    "url_confidence": ""
+  }
+]
