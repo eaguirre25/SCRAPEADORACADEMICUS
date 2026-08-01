@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "source_name": "Revista Chilena de Pedagogía",
+    "source_url": "https://revistadepedagogia.uchile.cl/index.php/RCHP/announcement",
+    "title": "Revista Chilena de Pedagogía: Announcements",
+    "url": "https://revistadepedagogia.uchile.cl/index.php/RCHP/gateway/plugin/AnnouncementFeedGatewayPlugin/atom",
+    "region": "Chile",
+    "language": "es",
+    "tags": [
+      "educación",
+      "pedagogía",
+      "escuela",
+      "política educativa"
+    ],
+    "summary": "https://revistadepedagogia.uchile.cl/index.php/RCHP/gateway/plugin/AnnouncementFeedGatewayPlugin/atom Revista Chilena de Pedagogía: Announcements 2026-05-01T04:13:50+00:00 Open Journal Systems <p>The <em>Revista Chilena de Pedagogía</em> <span style=\"font-size: 0.875rem;\">is a publication of the Department of Pedagogical Studies of the Faculty of Philosophy and Humanities, established as a pluralistic space for the…",
+    "score": 11.2,
+    "deadline_text": "2026",
+    "deadline_iso": "2026-08-01",
+    "publication_date_text": null,
+    "publication_date_iso": null,
+    "status": "abierta",
+    "country": "Chile",
+    "city": "Santiago",
+    "latitude": -33.4489,
+    "longitude": -70.6693,
+    "call_mode": "deadline",
+    "source_kind": "revista",
+    "themes": [
+      "educación",
+      "política",
+      "humanidades"
+    ],
+    "strategic_score": 74,
+    "urgency": "crítica",
+    "days_left": 0,
+    "dossier_topic": "Revista Chilena de Pedagogía: s",
+    "quartile": null,
+    "quality_label": null,
+    "quality_source": null,
+    "sjr": null,
+    "h_index": null,
+    "open_access": false,
+    "issn": null,
+    "latindex_catalogada": false,
+    "latindex_subtemas": [],
+    "call_type": "convocatoria",
+    "url_confidence": ""
+  }
+]
