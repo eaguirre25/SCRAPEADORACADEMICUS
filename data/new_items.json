@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "source_name": "Contextos de Educación",
+    "source_url": "https://www2.hum.unrc.edu.ar/ojs/index.php/contextos/announcement",
+    "title": "Announcements",
+    "url": "https://www2.hum.unrc.edu.ar/ojs/index.php/contextos/user/setLocale/en?source=%2Fojs%2Findex.php%2Fcontextos%2Fannouncement",
+    "region": "Argentina",
+    "language": "es",
+    "tags": [
+      "educación",
+      "ciencias de la educación",
+      "recepción continua"
+    ],
+    "summary": "Announcements | CONTEXTOS DE EDUCACION Skip to main content Skip to main navigation menu Skip to site footer Open Menu Current Announcements Archives Submissions Privacy Statement Política de acceso abierto Política de cargos para autores y autoras Licencia y Términos de uso Uso de herramientas de inteligencia artificial About About the Journal Editorial Team Contact Previous issues Search Register Login Home /…",
+    "score": 8.0,
+    "deadline_text": null,
+    "deadline_iso": null,
+    "publication_date_text": null,
+    "publication_date_iso": null,
+    "status": "permanente",
+    "country": "Argentina",
+    "city": "Río Cuarto",
+    "latitude": -33.1307,
+    "longitude": -64.3499,
+    "call_mode": "permanent",
+    "source_kind": "revista",
+    "themes": [
+      "educación",
+      "política"
+    ],
+    "strategic_score": 68,
+    "urgency": "continua",
+    "days_left": null,
+    "dossier_topic": "s",
+    "quartile": null,
+    "quality_label": null,
+    "quality_source": null,
+    "sjr": null,
+    "h_index": null,
+    "open_access": false,
+    "issn": null,
+    "latindex_catalogada": false,
+    "latindex_subtemas": [],
+    "call_type": "continua",
+    "url_confidence": ""
+  }
+]
