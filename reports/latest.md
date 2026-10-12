@@ -1,6 +1,6 @@
-# Dossier diario de convocatorias | 2026-10-11
+# Dossier diario de convocatorias | 2026-10-12
 
-- Nuevas: **0** | Total relevantes: **46**
+- Nuevas: **0** | Total relevantes: **49**
 
 ## Novedades del día
 
@@ -20,6 +20,18 @@ No aparecieron convocatorias nuevas respecto del historial guardado.
 - Enlace: https://revistas.unne.edu.ar/index.php/dpd/announcement/view/34
 
 Convocatoria Dossier "Experiencias formativas en la pospandemia: avances y desafíos para las carreras universitarias en salud" | De Prácticas y Discursos Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos /…
+
+### Envíos
+
+- Fuente: **Políticas Educativas – PolEd**
+- País / ciudad: **Brasil / Porto Alegre**
+- Temas: **educación, política, humanidades, ciencias sociales**
+- Puntaje estratégico: **74**
+- Estado: **abierta**
+- Cierre: **su (2026-10-18)**
+- Enlace: https://seer.ufrgs.br/index.php/Poled/about/submissions
+
+Envíos | Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Envíos Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para comprobar el estado de los envíos…
 
 ### Submissão
 
@@ -427,6 +439,30 @@ Convocatoria Dossier temático. La escuela secundaria: problemas, experiencias y
 - Enlace: https://educacion.uncuyo.edu.ar/categorias/index/convocatorias
 
 Convocatorias - Facultad de Educación Saltar a contenido principal UNCUYO UNCUYO Facultades | Escuelas | Institutos Secretarías Ingresantes Buscar Buscar Buscar Facultad de Educación Buscar Buscar Institucional Institucional La Facultad Organización Institucional Secretarías y Dependencias Departamento de Comunicación Consejo Directivo Ordenanzas y Resoluciones La Facultad en los medios Plan Estratégico 2030…
+
+### Políticas Educativas – PolEd
+
+- Fuente: **Políticas Educativas – PolEd**
+- País / ciudad: **Brasil / Porto Alegre**
+- Temas: **educación, política, ciencias sociales**
+- Puntaje estratégico: **68**
+- Estado: **abierta**
+- Cierre: **2006–2026: 20 años 202 (2046-10-12)**
+- Enlace: https://seer.ufrgs.br/poled
+
+Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años 2026-10-01 Leer más Leer más acerca…
+
+### Políticas Educativas – PolEd
+
+- Fuente: **Políticas Educativas – PolEd**
+- País / ciudad: **Brasil / Porto Alegre**
+- Temas: **educación, política, ciencias sociales**
+- Puntaje estratégico: **68**
+- Estado: **abierta**
+- Cierre: **2006–2026: 20 años 202 (2046-10-12)**
+- Enlace: https://seer.ufrgs.br/poled#homepageAnnouncements
+
+Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años 2026-10-01 Leer más Leer más acerca…
 
 ### Historia y sociedad
 
