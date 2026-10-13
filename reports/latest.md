@@ -1,6 +1,6 @@
-# Dossier diario de convocatorias | 2026-10-12
+# Dossier diario de convocatorias | 2026-10-13
 
-- Nuevas: **0** | Total relevantes: **49**
+- Nuevas: **0** | Total relevantes: **46**
 
 ## Novedades del día
 
@@ -143,19 +143,6 @@ REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir a
 - Enlace: https://educacion.uncuyo.edu.ar/buscar_tag/index/?tag=convocatoria
 
 Facultad de Educación Saltar a contenido principal UNCUYO UNCUYO Facultades | Escuelas | Institutos Secretarías Ingresantes Buscar Buscar Buscar Facultad de Educación Buscar Buscar Institucional Institucional La Facultad Organización Institucional Secretarías y Dependencias Departamento de Comunicación Consejo Directivo Ordenanzas y Resoluciones La Facultad en los medios Plan Estratégico 2030 Carreras Carreras…
-
-### Avisos
-
-- Fuente: **Historia de la Educación. Anuario**
-- País / ciudad: **Argentina / Buenos Aires**
-- Temas: **educación, sociología, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **79**
-- Estado: **abierta**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **11/11 (2026-11-11)**
-- Enlace: https://www.saiehe.org.ar/anuario/revista/announcement
-
-Avisos | Anuario de Historia de la Educación Historia de la Educación Anuario Investigación Sociedad Argentina de Investigación y Enseñanza en Historia de la Educación Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Anuario de Historia de la Educación Actual Archivos Avisos Envíos Política editorial Acceso abierto, derechos de autor y gratuidad Revisión por pares…
 
 ### Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas educativas”
 
@@ -447,7 +434,7 @@ Convocatorias - Facultad de Educación Saltar a contenido principal UNCUYO UNCUY
 - Temas: **educación, política, ciencias sociales**
 - Puntaje estratégico: **68**
 - Estado: **abierta**
-- Cierre: **2006–2026: 20 años 202 (2046-10-12)**
+- Cierre: **2006–2026: 20 años 202 (2046-10-13)**
 - Enlace: https://seer.ufrgs.br/poled
 
 Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años 2026-10-01 Leer más Leer más acerca…
@@ -459,7 +446,7 @@ Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegac
 - Temas: **educación, política, ciencias sociales**
 - Puntaje estratégico: **68**
 - Estado: **abierta**
-- Cierre: **2006–2026: 20 años 202 (2046-10-12)**
+- Cierre: **2006–2026: 20 años 202 (2046-10-13)**
 - Enlace: https://seer.ufrgs.br/poled#homepageAnnouncements
 
 Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años 2026-10-01 Leer más Leer más acerca…
@@ -547,18 +534,6 @@ Convocatorias | Raigal Ir al contenido principal Ir al menú de navegación prin
 
 UNMDP > Facultad de Humanidades > Publicaciones > Revistas Revista de Educación Usuario/a Nombre de usuario/a Contraseña No cerrar sesión Notificaciones Vista Suscribirse Contenido de la revista Buscar Ámbito de la búsqueda Todo Autores/as Título Resumen Términos de la indexación Texto completo Examinar Por número Por autor/a Por título Otras revistas Categorías Palabras clave aprendizaje didáctica docencia…
 
-### Anuario de Historia de la Educación
-
-- Fuente: **Historia de la Educación. Anuario**
-- País / ciudad: **Argentina / Buenos Aires**
-- Temas: **educación, sociología, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **78**
-- Estado: **permanente**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Enlace: https://www.saiehe.org.ar/anuario/revista
-
-Anuario de Historia de la Educación Historia de la Educación Anuario Investigación Sociedad Argentina de Investigación y Enseñanza en Historia de la Educación Ir al contenido principal Ir al menú de navegación principal Ir al número actual Ir al pie de página del sitio Open Menu Anuario de Historia de la Educación Anuario de Historia de la Educación Actual Archivos Avisos Envíos Política editorial Acceso abierto,…
-
 ### Announcements
 
 - Fuente: **Contextos de Educación**
@@ -592,19 +567,6 @@ Sobre la revista | Delito y Sociedad Ir al contenido principal Ir al menú de na
 - Enlace: https://bibliotecavirtual.unl.edu.ar/publicaciones/index.php/ElTacoenlaBrea/autores/index
 
 Para autores | El Taco en la Brea Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu El Taco en la Brea Último número Números anteriores Acerca de La Revista Buenas Prácticas Editoriales Cabecera editorial Contacto Estructura editorial Para autores Recepción de trabajos Normas de evaluación Indizaciones Buscar Registrarse Entrar Inicio / Para autores Para autores…
-
-### Quid 16. Revista del Área de Estudios Urbanos
-
-- Fuente: **Quid 16**
-- País / ciudad: **Argentina / Buenos Aires**
-- Temas: **sociología, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **70**
-- Estado: **permanente**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Latindex: catalogada ✔
-- Enlace: https://publicaciones.sociales.uba.ar/index.php/quid16
-
-Quid 16. Revista del Área de Estudios Urbanos Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Ir al número actual Ir al pie de página del sitio Open Menu Quid 16. Revista del Área de Estudios Urbanos Acerca de Cabecera editorial Contacto Sobre la revista Envíos Declaración de privacidad Actual Archivos Avisos Buscar Registrarse Entrar Destacados Convocatoria…
 
 ### Sobre la revista
 
