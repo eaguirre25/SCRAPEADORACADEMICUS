@@ -1,20 +1,10 @@
-# Dossier diario de convocatorias | 2026-10-14
+# Dossier diario de convocatorias | 2026-10-15
 
-- Nuevas: **1** | Total relevantes: **49**
+- Nuevas: **0** | Total relevantes: **49**
 
 ## Novedades del día
 
-### La Incubadora de Empresas UNCuyo abre una nueva convocatoria para transformar ideas en empresas
-
-- Fuente: **Traslaciones / convocatoria UNCuyo**
-- País / ciudad: **Argentina / Mendoza**
-- Temas: **educación, política, humanidades**
-- Puntaje estratégico: **55**
-- Estado: **abierta**
-- Cierre: **25 de octubre (2026-10-25)**
-- Enlace: https://educacion.uncuyo.edu.ar/la-incubadora-de-empresas-uncuyo-abre-una-nueva-convocatoria-para-transformar-ideas-en-empresas
-
-La Incubadora de Empresas UNCuyo abre una nueva convocatoria para transformar ideas en empresas - Facultad de Educación Saltar a contenido principal UNCUYO UNCUYO Facultades | Escuelas | Institutos Secretarías Ingresantes Buscar Buscar Buscar Facultad de Educación Buscar Buscar Institucional Institucional La Facultad Organización Institucional Secretarías y Dependencias Departamento de Comunicación Consejo…
+No aparecieron convocatorias nuevas respecto del historial guardado.
 
 ## Convocatorias de esta corrida
 
@@ -120,7 +110,7 @@ La Incubadora de Empresas UNCuyo abre una nueva convocatoria para transformar id
 - Fuente: **Archivos de Ciencias de la Educación**
 - País / ciudad: **Argentina / La Plata**
 - Temas: **educación, sociología, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **79**
+- Puntaje estratégico: **82**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
 - Cierre: **29 (2026 (2026-10-29)**
@@ -469,7 +459,7 @@ Convocatorias - Facultad de Educación Saltar a contenido principal UNCUYO UNCUY
 - Temas: **educación, política, ciencias sociales**
 - Puntaje estratégico: **68**
 - Estado: **abierta**
-- Cierre: **2006–2026: 20 años 202 (2046-10-14)**
+- Cierre: **2006–2026: 20 años 202 (2046-10-15)**
 - Enlace: https://seer.ufrgs.br/poled
 
 Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años 2026-10-01 Leer más Leer más acerca…
@@ -481,7 +471,7 @@ Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegac
 - Temas: **educación, política, ciencias sociales**
 - Puntaje estratégico: **68**
 - Estado: **abierta**
-- Cierre: **2006–2026: 20 años 202 (2046-10-14)**
+- Cierre: **2006–2026: 20 años 202 (2046-10-15)**
 - Enlace: https://seer.ufrgs.br/poled#homepageAnnouncements
 
 Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años 2026-10-01 Leer más Leer más acerca…
