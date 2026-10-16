@@ -1,25 +1,12 @@
-# Dossier diario de convocatorias | 2026-10-15
+# Dossier diario de convocatorias | 2026-10-16
 
-- Nuevas: **0** | Total relevantes: **49**
+- Nuevas: **0** | Total relevantes: **46**
 
 ## Novedades del día
 
 No aparecieron convocatorias nuevas respecto del historial guardado.
 
 ## Convocatorias de esta corrida
-
-### Convocatoria Dossier "Experiencias formativas en la pospandemia: avances y desafíos para las carreras universitarias en salud"
-
-- Fuente: **De Prácticas y Discursos**
-- País / ciudad: **Argentina / Corrientes**
-- Temas: **educación, sociología, humanidades, ciencias sociales**
-- Puntaje estratégico: **82**
-- Estado: **abierta**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **15 de octubre del 2026 (2026-10-15)**
-- Enlace: https://revistas.unne.edu.ar/index.php/dpd/announcement/view/34
-
-Convocatoria Dossier "Experiencias formativas en la pospandemia: avances y desafíos para las carreras universitarias en salud" | De Prácticas y Discursos Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos /…
 
 ### Envíos
 
@@ -105,6 +92,18 @@ Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colo
 
 La Incubadora de Empresas UNCuyo abre una nueva convocatoria para transformar ideas en empresas - Facultad de Educación Saltar a contenido principal UNCUYO UNCUYO Facultades | Escuelas | Institutos Secretarías Ingresantes Buscar Buscar Buscar Facultad de Educación Buscar Buscar Institucional Institucional La Facultad Organización Institucional Secretarías y Dependencias Departamento de Comunicación Consejo…
 
+### Resultados para "convocatoria"
+
+- Fuente: **Traslaciones / convocatoria UNCuyo**
+- País / ciudad: **Argentina / Mendoza**
+- Temas: **educación, política, humanidades**
+- Puntaje estratégico: **55**
+- Estado: **abierta**
+- Cierre: **lunes 26 de octubre (2026-10-26)**
+- Enlace: https://educacion.uncuyo.edu.ar/buscar_tag/index/?tag=convocatoria
+
+Facultad de Educación Saltar a contenido principal UNCUYO UNCUYO Facultades | Escuelas | Institutos Secretarías Ingresantes Buscar Buscar Buscar Facultad de Educación Buscar Buscar Institucional Institucional La Facultad Organización Institucional Secretarías y Dependencias Departamento de Comunicación Consejo Directivo Ordenanzas y Resoluciones La Facultad en los medios Plan Estratégico 2030 Carreras Carreras…
+
 ### Agendas emergentes y enfoques situados en los estudios sobre la evaluación académica y de la investigación: introducción al dosier
 
 - Fuente: **Archivos de Ciencias de la Educación**
@@ -143,31 +142,6 @@ REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir a
 - Enlace: https://revista.saap.org.ar/#homepageAnnouncements
 
 REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
-
-### Resultados para "convocatoria"
-
-- Fuente: **Traslaciones / convocatoria UNCuyo**
-- País / ciudad: **Argentina / Mendoza**
-- Temas: **educación, política, humanidades**
-- Puntaje estratégico: **52**
-- Estado: **abierta**
-- Cierre: **10 de noviembre de 2026 a (2026-11-10)**
-- Enlace: https://educacion.uncuyo.edu.ar/buscar_tag/index/?tag=convocatoria
-
-Facultad de Educación Saltar a contenido principal UNCUYO UNCUYO Facultades | Escuelas | Institutos Secretarías Ingresantes Buscar Buscar Buscar Facultad de Educación Buscar Buscar Institucional Institucional La Facultad Organización Institucional Secretarías y Dependencias Departamento de Comunicación Consejo Directivo Ordenanzas y Resoluciones La Facultad en los medios Plan Estratégico 2030 Carreras Carreras…
-
-### Avisos
-
-- Fuente: **Historia de la Educación. Anuario**
-- País / ciudad: **Argentina / Buenos Aires**
-- Temas: **educación, sociología, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **79**
-- Estado: **abierta**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **11/11 (2026-11-11)**
-- Enlace: https://www.saiehe.org.ar/anuario/revista/announcement
-
-Avisos | Anuario de Historia de la Educación Historia de la Educación Anuario Investigación Sociedad Argentina de Investigación y Enseñanza en Historia de la Educación Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Anuario de Historia de la Educación Actual Archivos Avisos Envíos Política editorial Acceso abierto, derechos de autor y gratuidad Revisión por pares…
 
 ### Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas educativas”
 
@@ -459,7 +433,7 @@ Convocatorias - Facultad de Educación Saltar a contenido principal UNCUYO UNCUY
 - Temas: **educación, política, ciencias sociales**
 - Puntaje estratégico: **68**
 - Estado: **abierta**
-- Cierre: **2006–2026: 20 años 202 (2046-10-15)**
+- Cierre: **2006–2026: 20 años 202 (2046-10-16)**
 - Enlace: https://seer.ufrgs.br/poled
 
 Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años 2026-10-01 Leer más Leer más acerca…
@@ -471,7 +445,7 @@ Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegac
 - Temas: **educación, política, ciencias sociales**
 - Puntaje estratégico: **68**
 - Estado: **abierta**
-- Cierre: **2006–2026: 20 años 202 (2046-10-15)**
+- Cierre: **2006–2026: 20 años 202 (2046-10-16)**
 - Enlace: https://seer.ufrgs.br/poled#homepageAnnouncements
 
 Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años 2026-10-01 Leer más Leer más acerca…
@@ -558,18 +532,6 @@ Convocatorias | Raigal Ir al contenido principal Ir al menú de navegación prin
 - Enlace: https://fh.mdp.edu.ar/revistas/index.php/r_educ/index
 
 UNMDP > Facultad de Humanidades > Publicaciones > Revistas Revista de Educación Usuario/a Nombre de usuario/a Contraseña No cerrar sesión Notificaciones Vista Suscribirse Contenido de la revista Buscar Ámbito de la búsqueda Todo Autores/as Título Resumen Términos de la indexación Texto completo Examinar Por número Por autor/a Por título Otras revistas Categorías Palabras clave aprendizaje didáctica docencia…
-
-### Anuario de Historia de la Educación
-
-- Fuente: **Historia de la Educación. Anuario**
-- País / ciudad: **Argentina / Buenos Aires**
-- Temas: **educación, sociología, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **78**
-- Estado: **permanente**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Enlace: https://www.saiehe.org.ar/anuario/revista
-
-Anuario de Historia de la Educación Historia de la Educación Anuario Investigación Sociedad Argentina de Investigación y Enseñanza en Historia de la Educación Ir al contenido principal Ir al menú de navegación principal Ir al número actual Ir al pie de página del sitio Open Menu Anuario de Historia de la Educación Anuario de Historia de la Educación Actual Archivos Avisos Envíos Política editorial Acceso abierto,…
 
 ### Announcements
 
