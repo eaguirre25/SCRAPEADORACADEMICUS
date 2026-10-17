@@ -1,6 +1,6 @@
-# Dossier diario de convocatorias | 2026-10-16
+# Dossier diario de convocatorias | 2026-10-17
 
-- Nuevas: **0** | Total relevantes: **46**
+- Nuevas: **0** | Total relevantes: **47**
 
 ## Novedades del día
 
@@ -142,6 +142,19 @@ REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir a
 - Enlace: https://revista.saap.org.ar/#homepageAnnouncements
 
 REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
+
+### Avisos
+
+- Fuente: **Historia de la Educación. Anuario**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **educación, sociología, política, humanidades, ciencias sociales**
+- Puntaje estratégico: **79**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **11/11 (2026-11-11)**
+- Enlace: https://www.saiehe.org.ar/anuario/revista/announcement
+
+Avisos | Anuario de Historia de la Educación Historia de la Educación Anuario Investigación Sociedad Argentina de Investigación y Enseñanza en Historia de la Educación Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Anuario de Historia de la Educación Actual Archivos Avisos Envíos Política editorial Acceso abierto, derechos de autor y gratuidad Revisión por pares…
 
 ### Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas educativas”
 
@@ -433,7 +446,7 @@ Convocatorias - Facultad de Educación Saltar a contenido principal UNCUYO UNCUY
 - Temas: **educación, política, ciencias sociales**
 - Puntaje estratégico: **68**
 - Estado: **abierta**
-- Cierre: **2006–2026: 20 años 202 (2046-10-16)**
+- Cierre: **2006–2026: 20 años 202 (2046-10-17)**
 - Enlace: https://seer.ufrgs.br/poled
 
 Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años 2026-10-01 Leer más Leer más acerca…
@@ -445,7 +458,7 @@ Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegac
 - Temas: **educación, política, ciencias sociales**
 - Puntaje estratégico: **68**
 - Estado: **abierta**
-- Cierre: **2006–2026: 20 años 202 (2046-10-16)**
+- Cierre: **2006–2026: 20 años 202 (2046-10-17)**
 - Enlace: https://seer.ufrgs.br/poled#homepageAnnouncements
 
 Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años 2026-10-01 Leer más Leer más acerca…
@@ -498,18 +511,6 @@ Sobre la revista | Cuadernos del Ciesal Ir al contenido principal Ir al menú de
 
 Anúncios | Revista Exitus Ir para o conteúdo principal Ir para o menu de navegação principal Ir para o rodapé Open Menu Atual Arquivos Indexadores Avaliadores ad hoc 2026 2025 2024 2023 2022 2021 2020 2019 Template Anúncios Sobre Sobre a Revista Ética e boas práticas na publicação Submissões Equipe Editorial Declaração de Privacidade Contato Buscar Cadastro Acesso Início / Anúncios Anúncios Suspensão de novas…
 
-### Envíos
-
-- Fuente: **Chuy. Revista de Estudios Literarios Latinoamericanos**
-- País / ciudad: **Argentina / Buenos Aires**
-- Temas: **política, humanidades, ciencias sociales**
-- Puntaje estratégico: **67**
-- Estado: **permanente**
-- Cierre: **5000 (5000-10-01)**
-- Enlace: https://revistas.untref.edu.ar/index.php/chuy/about/submissions
-
-Envíos | Chuy. Revista de Estudios Literarios Latinoamericanos Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Pelcc Buscar Buscar Registrarse Entrar Inicio / Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para comprobar el…
-
 ### Convocatorias
 
 - Fuente: **Raigal**
@@ -532,6 +533,18 @@ Convocatorias | Raigal Ir al contenido principal Ir al menú de navegación prin
 - Enlace: https://fh.mdp.edu.ar/revistas/index.php/r_educ/index
 
 UNMDP > Facultad de Humanidades > Publicaciones > Revistas Revista de Educación Usuario/a Nombre de usuario/a Contraseña No cerrar sesión Notificaciones Vista Suscribirse Contenido de la revista Buscar Ámbito de la búsqueda Todo Autores/as Título Resumen Términos de la indexación Texto completo Examinar Por número Por autor/a Por título Otras revistas Categorías Palabras clave aprendizaje didáctica docencia…
+
+### Anuario de Historia de la Educación
+
+- Fuente: **Historia de la Educación. Anuario**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **educación, sociología, política, humanidades, ciencias sociales**
+- Puntaje estratégico: **78**
+- Estado: **permanente**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Enlace: https://www.saiehe.org.ar/anuario/revista
+
+Anuario de Historia de la Educación Historia de la Educación Anuario Investigación Sociedad Argentina de Investigación y Enseñanza en Historia de la Educación Ir al contenido principal Ir al menú de navegación principal Ir al número actual Ir al pie de página del sitio Open Menu Anuario de Historia de la Educación Anuario de Historia de la Educación Actual Archivos Avisos Envíos Política editorial Acceso abierto,…
 
 ### Announcements
 
