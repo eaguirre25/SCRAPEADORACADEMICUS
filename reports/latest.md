@@ -1,6 +1,6 @@
-# Dossier diario de convocatorias | 2026-10-17
+# Dossier diario de convocatorias | 2026-10-18
 
-- Nuevas: **0** | Total relevantes: **47**
+- Nuevas: **0** | Total relevantes: **45**
 
 ## Novedades del día
 
@@ -15,7 +15,7 @@ No aparecieron convocatorias nuevas respecto del historial guardado.
 - Temas: **educación, política, humanidades, ciencias sociales**
 - Puntaje estratégico: **74**
 - Estado: **abierta**
-- Cierre: **su (2026-10-18)**
+- Cierre: **su (2026-10-25)**
 - Enlace: https://seer.ufrgs.br/index.php/Poled/about/submissions
 
 Envíos | Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Envíos Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para comprobar el estado de los envíos…
@@ -27,7 +27,7 @@ Envíos | Políticas Educativas – PolEd Ir al contenido principal Ir al menú 
 - Temas: **educación, política**
 - Puntaje estratégico: **64**
 - Estado: **abierta**
-- Cierre: **de do (2026-10-18)**
+- Cierre: **de do (2026-10-25)**
 - Enlace: https://periodicos.ufmg.br/index.php/edrevista/about/submissions
 
 Submissão | Educação em Revista Ir para o conteúdo principal Ir para o menu de navegação principal Ir para o rodapé Open Menu Sobre Histórico Comissão Editorial Política Editorial Atual Edições anteriores Submissões Templates Edições para impressão Notícias Contato Pareceristas Ad Hoc Buscar Cadastro Acesso Início / Submissão Submissão O cadastro no sistema e posterior acesso, por meio de login e senha, são…
@@ -39,7 +39,7 @@ Submissão | Educação em Revista Ir para o conteúdo principal Ir para o menu 
 - Temas: **sociología, política, humanidades**
 - Puntaje estratégico: **66**
 - Estado: **abierta**
-- Cierre: **do (2026-10-18)**
+- Cierre: **do (2026-10-25)**
 - Enlace: https://revistas.unal.edu.co/index.php/hisysoc/about/submissions
 
 Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colombia Estamos preparando el portal para usted. Nacional / Bibliotecas Sedes UNAL Bogotá Medellín Manizales Palmira La Paz Amazonía Orinoquía Tumaco Caribe Menú Calendario académico Correo institucional Estructura UNAL ♙ Comunidad UNAL Buscar Servicios PT_BR Inglês Espanhol Buscar en las revistas UNAL Buscar Inicio Revistas Buscar…
@@ -51,7 +51,7 @@ Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colo
 - Temas: **sociología, política, humanidades**
 - Puntaje estratégico: **66**
 - Estado: **abierta**
-- Cierre: **do (2026-10-18)**
+- Cierre: **do (2026-10-25)**
 - Enlace: https://revistas.unal.edu.co/index.php/hisysoc/about/submissions#authorGuidelines
 
 Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colombia Estamos preparando el portal para usted. Nacional / Bibliotecas Sedes UNAL Bogotá Medellín Manizales Palmira La Paz Amazonía Orinoquía Tumaco Caribe Menú Calendario académico Correo institucional Estructura UNAL ♙ Comunidad UNAL Buscar Servicios PT_BR Inglês Espanhol Buscar en las revistas UNAL Buscar Inicio Revistas Buscar…
@@ -63,7 +63,7 @@ Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colo
 - Temas: **sociología, política, humanidades**
 - Puntaje estratégico: **66**
 - Estado: **abierta**
-- Cierre: **do (2026-10-18)**
+- Cierre: **do (2026-10-25)**
 - Enlace: https://revistas.unal.edu.co/index.php/hisysoc/about/submissions#privacyStatement
 
 Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colombia Estamos preparando el portal para usted. Nacional / Bibliotecas Sedes UNAL Bogotá Medellín Manizales Palmira La Paz Amazonía Orinoquía Tumaco Caribe Menú Calendario académico Correo institucional Estructura UNAL ♙ Comunidad UNAL Buscar Servicios PT_BR Inglês Espanhol Buscar en las revistas UNAL Buscar Inicio Revistas Buscar…
@@ -75,7 +75,7 @@ Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colo
 - Temas: **sociología, política, humanidades**
 - Puntaje estratégico: **66**
 - Estado: **abierta**
-- Cierre: **do (2026-10-18)**
+- Cierre: **do (2026-10-25)**
 - Enlace: https://revistas.unal.edu.co/index.php/hisysoc/about/submissions#onlineSubmissions
 
 Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colombia Estamos preparando el portal para usted. Nacional / Bibliotecas Sedes UNAL Bogotá Medellín Manizales Palmira La Paz Amazonía Orinoquía Tumaco Caribe Menú Calendario académico Correo institucional Estructura UNAL ♙ Comunidad UNAL Buscar Servicios PT_BR Inglês Espanhol Buscar en las revistas UNAL Buscar Inicio Revistas Buscar…
@@ -122,7 +122,7 @@ Agendas emergentes y enfoques situados en los estudios sobre la evaluación acad
 - Fuente: **Revista SAAP**
 - País / ciudad: **Argentina / Buenos Aires**
 - Temas: **sociología, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **79**
+- Puntaje estratégico: **82**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
 - Cierre: **y noviembre (2026-11-01)**
@@ -135,26 +135,13 @@ REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir a
 - Fuente: **Revista SAAP**
 - País / ciudad: **Argentina / Buenos Aires**
 - Temas: **sociología, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **79**
+- Puntaje estratégico: **82**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
 - Cierre: **y noviembre (2026-11-01)**
 - Enlace: https://revista.saap.org.ar/#homepageAnnouncements
 
 REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
-
-### Avisos
-
-- Fuente: **Historia de la Educación. Anuario**
-- País / ciudad: **Argentina / Buenos Aires**
-- Temas: **educación, sociología, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **79**
-- Estado: **abierta**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **11/11 (2026-11-11)**
-- Enlace: https://www.saiehe.org.ar/anuario/revista/announcement
-
-Avisos | Anuario de Historia de la Educación Historia de la Educación Anuario Investigación Sociedad Argentina de Investigación y Enseñanza en Historia de la Educación Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Anuario de Historia de la Educación Actual Archivos Avisos Envíos Política editorial Acceso abierto, derechos de autor y gratuidad Revisión por pares…
 
 ### Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas educativas”
 
@@ -446,7 +433,7 @@ Convocatorias - Facultad de Educación Saltar a contenido principal UNCUYO UNCUY
 - Temas: **educación, política, ciencias sociales**
 - Puntaje estratégico: **68**
 - Estado: **abierta**
-- Cierre: **2006–2026: 20 años 202 (2046-10-17)**
+- Cierre: **2006–2026: 20 años 202 (2046-10-18)**
 - Enlace: https://seer.ufrgs.br/poled
 
 Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años 2026-10-01 Leer más Leer más acerca…
@@ -458,7 +445,7 @@ Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegac
 - Temas: **educación, política, ciencias sociales**
 - Puntaje estratégico: **68**
 - Estado: **abierta**
-- Cierre: **2006–2026: 20 años 202 (2046-10-17)**
+- Cierre: **2006–2026: 20 años 202 (2046-10-18)**
 - Enlace: https://seer.ufrgs.br/poled#homepageAnnouncements
 
 Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años 2026-10-01 Leer más Leer más acerca…
@@ -511,6 +498,18 @@ Sobre la revista | Cuadernos del Ciesal Ir al contenido principal Ir al menú de
 
 Anúncios | Revista Exitus Ir para o conteúdo principal Ir para o menu de navegação principal Ir para o rodapé Open Menu Atual Arquivos Indexadores Avaliadores ad hoc 2026 2025 2024 2023 2022 2021 2020 2019 Template Anúncios Sobre Sobre a Revista Ética e boas práticas na publicação Submissões Equipe Editorial Declaração de Privacidade Contato Buscar Cadastro Acesso Início / Anúncios Anúncios Suspensão de novas…
 
+### Envíos
+
+- Fuente: **Chuy. Revista de Estudios Literarios Latinoamericanos**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **política, humanidades, ciencias sociales**
+- Puntaje estratégico: **67**
+- Estado: **permanente**
+- Cierre: **5000 (5000-10-01)**
+- Enlace: https://revistas.untref.edu.ar/index.php/chuy/about/submissions
+
+Envíos | Chuy. Revista de Estudios Literarios Latinoamericanos Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Pelcc Buscar Buscar Registrarse Entrar Inicio / Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para comprobar el…
+
 ### Convocatorias
 
 - Fuente: **Raigal**
@@ -521,30 +520,6 @@ Anúncios | Revista Exitus Ir para o conteúdo principal Ir para o menu de naveg
 - Enlace: https://raigal.unvm.edu.ar/ojs/index.php/raigal/convocatorias
 
 Convocatorias | Raigal Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Anteriores Acerca de Equipo editorial Sobre la revista Envíos Declaración de privacidad Preservación y archivo Contacto Indexada en... Convocatorias Avisos Buscar Registrarse Entrar Inicio / Convocatorias Convocatorias Llamado para el dossier temático de Raigal N°13 “Inteligencia…
-
-### https://fh.mdp.edu.ar/revistas/index.php/r_educ/index
-
-- Fuente: **Revista de educación (Mar del Plata)**
-- País / ciudad: **Argentina / Mar del Plata**
-- Temas: **educación, sociología, humanidades**
-- Puntaje estratégico: **78**
-- Estado: **permanente**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Enlace: https://fh.mdp.edu.ar/revistas/index.php/r_educ/index
-
-UNMDP > Facultad de Humanidades > Publicaciones > Revistas Revista de Educación Usuario/a Nombre de usuario/a Contraseña No cerrar sesión Notificaciones Vista Suscribirse Contenido de la revista Buscar Ámbito de la búsqueda Todo Autores/as Título Resumen Términos de la indexación Texto completo Examinar Por número Por autor/a Por título Otras revistas Categorías Palabras clave aprendizaje didáctica docencia…
-
-### Anuario de Historia de la Educación
-
-- Fuente: **Historia de la Educación. Anuario**
-- País / ciudad: **Argentina / Buenos Aires**
-- Temas: **educación, sociología, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **78**
-- Estado: **permanente**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Enlace: https://www.saiehe.org.ar/anuario/revista
-
-Anuario de Historia de la Educación Historia de la Educación Anuario Investigación Sociedad Argentina de Investigación y Enseñanza en Historia de la Educación Ir al contenido principal Ir al menú de navegación principal Ir al número actual Ir al pie de página del sitio Open Menu Anuario de Historia de la Educación Anuario de Historia de la Educación Actual Archivos Avisos Envíos Política editorial Acceso abierto,…
 
 ### Announcements
 
