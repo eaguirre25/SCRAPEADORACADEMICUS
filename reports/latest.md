@@ -1,6 +1,6 @@
-# Dossier diario de convocatorias | 2026-10-20
+# Dossier diario de convocatorias | 2026-10-21
 
-- Nuevas: **0** | Total relevantes: **46**
+- Nuevas: **0** | Total relevantes: **45**
 
 ## Novedades del día
 
@@ -19,18 +19,6 @@ No aparecieron convocatorias nuevas respecto del historial guardado.
 - Enlace: https://seer.ufrgs.br/index.php/Poled/about/submissions
 
 Envíos | Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Envíos Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para comprobar el estado de los envíos…
-
-### Submissão
-
-- Fuente: **Educação em Revista**
-- País / ciudad: **Brasil / Belo Horizonte**
-- Temas: **educación, política**
-- Puntaje estratégico: **64**
-- Estado: **abierta**
-- Cierre: **de do (2026-10-25)**
-- Enlace: https://periodicos.ufmg.br/index.php/edrevista/about/submissions
-
-Submissão | Educação em Revista Ir para o conteúdo principal Ir para o menu de navegação principal Ir para o rodapé Open Menu Sobre Histórico Comissão Editorial Política Editorial Atual Edições anteriores Submissões Templates Edições para impressão Notícias Contato Pareceristas Ad Hoc Buscar Cadastro Acesso Início / Submissão Submissão O cadastro no sistema e posterior acesso, por meio de login e senha, são…
 
 ### Historia y sociedad
 
@@ -433,7 +421,7 @@ Convocatorias - Facultad de Educación Saltar a contenido principal UNCUYO UNCUY
 - Temas: **educación, política, ciencias sociales**
 - Puntaje estratégico: **68**
 - Estado: **abierta**
-- Cierre: **2006–2026: 20 años 202 (2046-10-20)**
+- Cierre: **2006–2026: 20 años 202 (2046-10-21)**
 - Enlace: https://seer.ufrgs.br/poled
 
 Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años 2026-10-01 Leer más Leer más acerca…
@@ -445,7 +433,7 @@ Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegac
 - Temas: **educación, política, ciencias sociales**
 - Puntaje estratégico: **68**
 - Estado: **abierta**
-- Cierre: **2006–2026: 20 años 202 (2046-10-20)**
+- Cierre: **2006–2026: 20 años 202 (2046-10-21)**
 - Enlace: https://seer.ufrgs.br/poled#homepageAnnouncements
 
 Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años 2026-10-01 Leer más Leer más acerca…
