@@ -1,6 +1,6 @@
-# Dossier diario de convocatorias | 2026-10-22
+# Dossier diario de convocatorias | 2026-10-23
 
-- Nuevas: **0** | Total relevantes: **30**
+- Nuevas: **0** | Total relevantes: **45**
 
 ## Novedades del día
 
@@ -19,6 +19,18 @@ No aparecieron convocatorias nuevas respecto del historial guardado.
 - Enlace: https://seer.ufrgs.br/index.php/Poled/about/submissions
 
 Envíos | Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Envíos Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para comprobar el estado de los envíos…
+
+### Submissão
+
+- Fuente: **Educação em Revista**
+- País / ciudad: **Brasil / Belo Horizonte**
+- Temas: **educación, política**
+- Puntaje estratégico: **64**
+- Estado: **abierta**
+- Cierre: **de do (2026-10-25)**
+- Enlace: https://periodicos.ufmg.br/index.php/edrevista/about/submissions
+
+Submissão | Educação em Revista Ir para o conteúdo principal Ir para o menu de navegação principal Ir para o rodapé Open Menu Sobre Histórico Comissão Editorial Política Editorial Atual Edições anteriores Submissões Templates Edições para impressão Notícias Contato Pareceristas Ad Hoc Buscar Cadastro Acesso Início / Submissão Submissão O cadastro no sistema e posterior acesso, por meio de login e senha, são…
 
 ### Historia y sociedad
 
@@ -92,6 +104,19 @@ La Incubadora de Empresas UNCuyo abre una nueva convocatoria para transformar id
 
 Facultad de Educación Saltar a contenido principal UNCUYO UNCUYO Facultades | Escuelas | Institutos Secretarías Ingresantes Buscar Buscar Buscar Facultad de Educación Buscar Buscar Institucional Institucional La Facultad Organización Institucional Secretarías y Dependencias Departamento de Comunicación Consejo Directivo Ordenanzas y Resoluciones La Facultad en los medios Plan Estratégico 2030 Carreras Carreras…
 
+### Agendas emergentes y enfoques situados en los estudios sobre la evaluación académica y de la investigación: introducción al dosier
+
+- Fuente: **Archivos de Ciencias de la Educación**
+- País / ciudad: **Argentina / La Plata**
+- Temas: **educación, sociología, política, humanidades, ciencias sociales**
+- Puntaje estratégico: **82**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **29 (2026 (2026-10-29)**
+- Enlace: https://www.archivosdeciencias.fahce.unlp.edu.ar/article/view/Archivose181
+
+Agendas emergentes y enfoques situados en los estudios sobre la evaluación académica y de la investigación: introducción al dosier | Archivos de Ciencias de la Educación Navegación principal Contenido principal Barra lateral Registrarse Entrar Toggle navigation Archivos de Ciencias de la Educación Revistas de la FaHCE Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Historia de la revista…
+
 ### REVISTA SAAP
 
 - Fuente: **Revista SAAP**
@@ -117,6 +142,110 @@ REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir a
 - Enlace: https://revista.saap.org.ar/#homepageAnnouncements
 
 REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
+
+### Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas educativas”
+
+- Fuente: **Revista Análisis de las Prácticas**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **educación, sociología, política, humanidades**
+- Puntaje estratégico: **76**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **11 de diciembre de 2026 (2026-12-11)**
+- Enlace: https://portalrevistas.unipe.edu.ar/index.php/analisispracticas/announcement/view/20
+
+Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas educativas” | Revista Análisis de las Prácticas Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos /…
+
+### Avisos
+
+- Fuente: **Revista Análisis de las Prácticas**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **educación, sociología, política**
+- Puntaje estratégico: **76**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **11 de diciembre de 2026 (2026-12-11)**
+- Enlace: https://portalrevistas.unipe.edu.ar/index.php/analisispracticas/announcement
+
+Avisos | Revista Análisis de las Prácticas Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos Avisos Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas…
+
+### Avisos
+
+- Fuente: **Revista Análisis de las Prácticas**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **educación, sociología, política**
+- Puntaje estratégico: **76**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **11 de diciembre de 2026 (2026-12-11)**
+- Enlace: https://portalrevistas.unipe.edu.ar/index.php/analisispracticas/announcement#pkp_content_main
+
+Avisos | Revista Análisis de las Prácticas Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos Avisos Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas…
+
+### Avisos
+
+- Fuente: **Revista Análisis de las Prácticas**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **educación, sociología, política**
+- Puntaje estratégico: **76**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **11 de diciembre de 2026 (2026-12-11)**
+- Enlace: https://portalrevistas.unipe.edu.ar/index.php/analisispracticas/announcement#siteNav
+
+Avisos | Revista Análisis de las Prácticas Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos Avisos Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas…
+
+### Avisos
+
+- Fuente: **Revista Análisis de las Prácticas**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **educación, sociología, política**
+- Puntaje estratégico: **76**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **11 de diciembre de 2026 (2026-12-11)**
+- Enlace: https://portalrevistas.unipe.edu.ar/index.php/analisispracticas/announcement#pkp_content_footer
+
+Avisos | Revista Análisis de las Prácticas Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos Avisos Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas…
+
+### Avisos
+
+- Fuente: **Revista Análisis de las Prácticas**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **educación, sociología, política**
+- Puntaje estratégico: **76**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **11 de diciembre de 2026 (2026-12-11)**
+- Enlace: https://portalrevistas.unipe.edu.ar/index.php/analisispracticas/user/setLocale/es_ES?source=%2Findex.php%2Fanalisispracticas%2Fannouncement
+
+Avisos | Revista Análisis de las Prácticas Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos Avisos Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas…
+
+### Announcements
+
+- Fuente: **Revista Análisis de las Prácticas**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **educación, sociología, política**
+- Puntaje estratégico: **76**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **11 de diciembre de 2026 (2026-12-11)**
+- Enlace: https://portalrevistas.unipe.edu.ar/index.php/analisispracticas/user/setLocale/en_US?source=%2Findex.php%2Fanalisispracticas%2Fannouncement
+
+Announcements | Revista Análisis de las Prácticas Skip to main content Skip to main navigation menu Skip to site footer Open Menu Current Archives Announcements About About the Journal Submissions Editorial Team Privacy Statement Contact Search Register Login Home / Announcements Announcements Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas…
+
+### Anúncios
+
+- Fuente: **Revista Análisis de las Prácticas**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **educación, sociología, política**
+- Puntaje estratégico: **76**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **11 de diciembre de 2026 (2026-12-11)**
+- Enlace: https://portalrevistas.unipe.edu.ar/index.php/analisispracticas/user/setLocale/pt_BR?source=%2Findex.php%2Fanalisispracticas%2Fannouncement
+
+Anúncios | Revista Análisis de las Prácticas Ir para o conteúdo principal Ir para o menu de navegação principal Ir para o rodapé Open Menu Atual Arquivos Anúncios Sobre Sobre a Revista Submissões Equipe Editorial Declaração de Privacidade Contato Buscar Cadastro Acesso Início / Anúncios Anúncios Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas…
 
 ### Avisos
 
@@ -144,6 +273,19 @@ Envíos | Latinoamericana de Estudios Educativos toggle menu Registrarse Entrar 
 
 ### Envíos
 
+- Fuente: **Sociohistórica**
+- País / ciudad: **Argentina / La Plata**
+- Temas: **educación, sociología, política, humanidades, ciencias sociales**
+- Puntaje estratégico: **76**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **a una (2027-01-01)**
+- Enlace: https://www.sociohistorica.fahce.unlp.edu.ar/about/submissions
+
+Envíos | Sociohistórica Navegación principal Contenido principal Barra lateral Registrarse Entrar Toggle navigation Sociohistórica Revistas de la FaHCE Actual Avisos Archivos Acerca de Sobre la revista Envíos Equipo editorial Contacto Buscar Inicio Envíos Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para comprobar el estado de los envíos recientes. Ir a Iniciar sesión a…
+
+### Envíos
+
 - Fuente: **Revista SAAP**
 - País / ciudad: **Argentina / Buenos Aires**
 - Temas: **educación, política**
@@ -157,6 +299,19 @@ Envíos | REVISTA SAAP Ir al contenido principal Ir al menú de navegación prin
 
 ### Envíos
 
+- Fuente: **Archivos de Ciencias de la Educación**
+- País / ciudad: **Argentina / La Plata**
+- Temas: **educación, política, humanidades**
+- Puntaje estratégico: **65**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **a una (2027-01-01)**
+- Enlace: https://www.archivosdeciencias.fahce.unlp.edu.ar/about/submissions
+
+Envíos | Archivos de Ciencias de la Educación Navegación principal Contenido principal Barra lateral Registrarse Entrar Toggle navigation Archivos de Ciencias de la Educación Revistas de la FaHCE Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Historia de la revista Contacto Buscar Inicio Envíos Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para…
+
+### Envíos
+
 - Fuente: **De Prácticas y Discursos**
 - País / ciudad: **Argentina / Corrientes**
 - Temas: **educación, sociología, política, ciencias sociales**
@@ -167,6 +322,19 @@ Envíos | REVISTA SAAP Ir al contenido principal Ir al menú de navegación prin
 - Enlace: https://revistas.unne.edu.ar/index.php/dpd/about/submissions
 
 Envíos | De Prácticas y Discursos Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Envíos Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para comprobar el estado de los envíos…
+
+### Envíos
+
+- Fuente: **Revista Análisis de las Prácticas**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **educación, política**
+- Puntaje estratégico: **55**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **a una (2027-01-01)**
+- Enlace: https://portalrevistas.unipe.edu.ar/index.php/analisispracticas/about/submissions
+
+Envíos | Revista Análisis de las Prácticas Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Envíos Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para comprobar el estado de los…
 
 ### Envíos
 
@@ -194,6 +362,19 @@ Envíos | Clío & Asociados. La historia enseñada Ir al contenido principal Ir 
 
 Propuestas de Dossier Temático | REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP Buscar Registrarse Entrar Inicio / Propuestas de Dossier…
 
+### Convocatoria a Dossier temático “La dimensión colectiva del trabajo docente”
+
+- Fuente: **Revista Análisis de las Prácticas**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **educación, sociología, política**
+- Puntaje estratégico: **76**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **05-06 (2027-05-06)**
+- Enlace: https://portalrevistas.unipe.edu.ar/index.php/analisispracticas/announcement/view/13
+
+Convocatoria a Dossier temático “La dimensión colectiva del trabajo docente” | Revista Análisis de las Prácticas Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos / Convocatoria a Dossier temático “La dimensión…
+
 ### Convocatoria al Dossier Perspectivas y Desafíos en la Investigación Cualitativa: Método y Experiencias.
 
 - Fuente: **De Prácticas y Discursos**
@@ -220,6 +401,19 @@ Convocatoria al Dossier Perspectivas y Desafíos en la Investigación Cualitativ
 
 CONVOCATORIA PARA PROPUESTAS DE DOSSIER - REVISTA SAAP | REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP Buscar Registrarse Entrar Inicio…
 
+### Convocatoria Dossier temático. La escuela secundaria: problemas, experiencias y perspectivas.
+
+- Fuente: **Revista Análisis de las Prácticas**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **educación, sociología, política, humanidades**
+- Puntaje estratégico: **76**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **20 de agosto (2027-08-20)**
+- Enlace: https://portalrevistas.unipe.edu.ar/index.php/analisispracticas/announcement/view/11
+
+Convocatoria Dossier temático. La escuela secundaria: problemas, experiencias y perspectivas. | Revista Análisis de las Prácticas Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos / Convocatoria Dossier temático. La…
+
 ### Convocatorias
 
 - Fuente: **Traslaciones / convocatoria UNCuyo**
@@ -239,7 +433,7 @@ Convocatorias - Facultad de Educación Saltar a contenido principal UNCUYO UNCUY
 - Temas: **educación, política, ciencias sociales**
 - Puntaje estratégico: **68**
 - Estado: **abierta**
-- Cierre: **2006–2026: 20 años 202 (2046-10-22)**
+- Cierre: **2006–2026: 20 años 202 (2046-10-23)**
 - Enlace: https://seer.ufrgs.br/poled
 
 Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años 2026-10-01 Leer más Leer más acerca…
@@ -251,7 +445,7 @@ Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegac
 - Temas: **educación, política, ciencias sociales**
 - Puntaje estratégico: **68**
 - Estado: **abierta**
-- Cierre: **2006–2026: 20 años 202 (2046-10-22)**
+- Cierre: **2006–2026: 20 años 202 (2046-10-23)**
 - Enlace: https://seer.ufrgs.br/poled#homepageAnnouncements
 
 Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años 2026-10-01 Leer más Leer más acerca…
