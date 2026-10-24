@@ -1,10 +1,21 @@
-# Dossier diario de convocatorias | 2026-10-23
+# Dossier diario de convocatorias | 2026-10-24
 
-- Nuevas: **0** | Total relevantes: **45**
+- Nuevas: **1** | Total relevantes: **43**
 
 ## Novedades del día
 
-No aparecieron convocatorias nuevas respecto del historial guardado.
+### Prórroga del Dossier "Experiencias formativas en la pospandemia: avances y desafíos para las carreras universitarias en salud"
+
+- Fuente: **De Prácticas y Discursos**
+- País / ciudad: **Argentina / Corrientes**
+- Temas: **educación, sociología, humanidades, ciencias sociales**
+- Puntaje estratégico: **79**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **15 de noviembre del 2026 (2026-11-15)**
+- Enlace: https://revistas.unne.edu.ar/index.php/dpd/announcement/view/34
+
+Prórroga del Dossier "Experiencias formativas en la pospandemia: avances y desafíos para las carreras universitarias en salud" | De Prácticas y Discursos Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos / Prórroga…
 
 ## Convocatorias de esta corrida
 
@@ -142,6 +153,19 @@ REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir a
 - Enlace: https://revista.saap.org.ar/#homepageAnnouncements
 
 REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
+
+### Prórroga del Dossier "Experiencias formativas en la pospandemia: avances y desafíos para las carreras universitarias en salud"
+
+- Fuente: **De Prácticas y Discursos**
+- País / ciudad: **Argentina / Corrientes**
+- Temas: **educación, sociología, humanidades, ciencias sociales**
+- Puntaje estratégico: **79**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **15 de noviembre del 2026 (2026-11-15)**
+- Enlace: https://revistas.unne.edu.ar/index.php/dpd/announcement/view/34
+
+Prórroga del Dossier "Experiencias formativas en la pospandemia: avances y desafíos para las carreras universitarias en salud" | De Prácticas y Discursos Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos / Prórroga…
 
 ### Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas educativas”
 
@@ -336,19 +360,6 @@ Envíos | De Prácticas y Discursos Ir al contenido principal Ir al menú de nav
 
 Envíos | Revista Análisis de las Prácticas Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Envíos Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para comprobar el estado de los…
 
-### Envíos
-
-- Fuente: **Clío y Asociados**
-- País / ciudad: **Argentina / Santa Fe**
-- Temas: **educación, política, humanidades**
-- Puntaje estratégico: **55**
-- Estado: **abierta**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **a una (2027-01-01)**
-- Enlace: https://bibliotecavirtual.unl.edu.ar/publicaciones/index.php/ClioyAsociados/es/about/submissions
-
-Envíos | Clío & Asociados. La historia enseñada Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Clío & Asociados. La historia enseñada Último número Números anteriores Acerca de La Revista Equipo editorial Evaluación Evaluadores Guía de buenas prácticas editoriales Bases de datos e índices Instituciones editoras Para autores Normas editoriales Envíos Llamados y…
-
 ### Propuestas de Dossier Temático
 
 - Fuente: **Revista SAAP**
@@ -433,7 +444,7 @@ Convocatorias - Facultad de Educación Saltar a contenido principal UNCUYO UNCUY
 - Temas: **educación, política, ciencias sociales**
 - Puntaje estratégico: **68**
 - Estado: **abierta**
-- Cierre: **2006–2026: 20 años 202 (2046-10-23)**
+- Cierre: **2006–2026: 20 años 202 (2046-10-24)**
 - Enlace: https://seer.ufrgs.br/poled
 
 Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años 2026-10-01 Leer más Leer más acerca…
@@ -445,7 +456,7 @@ Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegac
 - Temas: **educación, política, ciencias sociales**
 - Puntaje estratégico: **68**
 - Estado: **abierta**
-- Cierre: **2006–2026: 20 años 202 (2046-10-23)**
+- Cierre: **2006–2026: 20 años 202 (2046-10-24)**
 - Enlace: https://seer.ufrgs.br/poled#homepageAnnouncements
 
 Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años 2026-10-01 Leer más Leer más acerca…
@@ -521,6 +532,18 @@ Convocatorias | Raigal Ir al contenido principal Ir al menú de navegación prin
 
 UNMDP > Facultad de Humanidades > Publicaciones > Revistas Revista de Educación Usuario/a Nombre de usuario/a Contraseña No cerrar sesión Notificaciones Vista Suscribirse Contenido de la revista Buscar Ámbito de la búsqueda Todo Autores/as Título Resumen Términos de la indexación Texto completo Examinar Por número Por autor/a Por título Otras revistas Categorías Palabras clave Argentina aprendizaje didáctica…
 
+### Anuario de Historia de la Educación
+
+- Fuente: **Historia de la Educación. Anuario**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **educación, sociología, política, humanidades, ciencias sociales**
+- Puntaje estratégico: **78**
+- Estado: **permanente**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Enlace: https://www.saiehe.org.ar/anuario/revista
+
+Anuario de Historia de la Educación Historia de la Educación Anuario Investigación Sociedad Argentina de Investigación y Enseñanza en Historia de la Educación Ir al contenido principal Ir al menú de navegación principal Ir al número actual Ir al pie de página del sitio Open Menu Anuario de Historia de la Educación Anuario de Historia de la Educación Actual Archivos Avisos Envíos Política editorial Acceso abierto,…
+
 ### Announcements
 
 - Fuente: **Contextos de Educación**
@@ -531,38 +554,3 @@ UNMDP > Facultad de Humanidades > Publicaciones > Revistas Revista de Educación
 - Enlace: https://www2.hum.unrc.edu.ar/ojs/index.php/contextos/user/setLocale/en?source=%2Fojs%2Findex.php%2Fcontextos%2Fannouncement
 
 Announcements | CONTEXTOS DE EDUCACION Skip to main content Skip to main navigation menu Skip to site footer Open Menu Current Announcements Archives Submissions Privacy Statement Política de acceso abierto Política de cargos para autores y autoras Licencia y Términos de uso Uso de herramientas de inteligencia artificial About About the Journal Editorial Team Contact Previous issues Search Register Login Home /…
-
-### Sobre la revista
-
-- Fuente: **Delito y Sociedad**
-- País / ciudad: **Argentina / Santa Fe**
-- Temas: **sociología, política, ciencias sociales**
-- Puntaje estratégico: **78**
-- Estado: **permanente**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Enlace: https://bibliotecavirtual.unl.edu.ar/publicaciones/index.php/DelitoySociedad/about/index
-
-Sobre la revista | Delito y Sociedad Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Delito y Sociedad Último número Números anteriores Acerca de Sobre la revista Estructura editorial Contacto Indexaciones Envíos Buscar Registrarse Entrar Inicio / Sobre la revista Sobre la revista Delito y Sociedad. Revista de Ciencias Sociales es una publicación semestral,…
-
-### Para autores
-
-- Fuente: **El Taco en la Brea**
-- País / ciudad: **Argentina / Santa Fe**
-- Temas: **política, humanidades**
-- Puntaje estratégico: **64**
-- Estado: **permanente**
-- Enlace: https://bibliotecavirtual.unl.edu.ar/publicaciones/index.php/ElTacoenlaBrea/autores/index
-
-Para autores | El Taco en la Brea Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu El Taco en la Brea Último número Números anteriores Acerca de La Revista Buenas Prácticas Editoriales Cabecera editorial Contacto Estructura editorial Para autores Recepción de trabajos Normas de evaluación Indizaciones Buscar Registrarse Entrar Inicio / Para autores Para autores…
-
-### Sobre la revista
-
-- Fuente: **Documentos y Aportes en Administración Pública y Gestión Estatal**
-- País / ciudad: **Argentina / Santa Fe**
-- Temas: **política, humanidades, ciencias sociales**
-- Puntaje estratégico: **57**
-- Estado: **permanente**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Enlace: https://bibliotecavirtual.unl.edu.ar/publicaciones/index.php/DocumentosyAportes/about/index
-
-Sobre la revista | Documentos y Aportes en Administración Pública y Gestión Estatal Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Documentos y Aportes en Administración Pública y Gestión Estatal Último número Números anteriores Acerca de Sobre la revista Estructura editorial Evaluación Contacto Envíos Avisos Buscar Registrarse Entrar Inicio / Sobre la revista…
