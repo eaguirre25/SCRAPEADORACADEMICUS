@@ -1,4 +1,4 @@
-# Dossier diario de convocatorias | 2026-10-25
+# Dossier diario de convocatorias | 2026-10-26
 
 - Nuevas: **0** | Total relevantes: **46**
 
@@ -7,18 +7,6 @@
 No aparecieron convocatorias nuevas respecto del historial guardado.
 
 ## Convocatorias de esta corrida
-
-### Resultados para "convocatoria"
-
-- Fuente: **Traslaciones / convocatoria UNCuyo**
-- País / ciudad: **Argentina / Mendoza**
-- Temas: **educación, política, humanidades**
-- Puntaje estratégico: **55**
-- Estado: **abierta**
-- Cierre: **lunes 26 de octubre (2026-10-26)**
-- Enlace: https://educacion.uncuyo.edu.ar/buscar_tag/index/?tag=convocatoria
-
-Facultad de Educación Saltar a contenido principal UNCUYO UNCUYO Facultades | Escuelas | Institutos Secretarías Ingresantes Buscar Buscar Buscar Facultad de Educación Buscar Buscar Institucional Institucional La Facultad Organización Institucional Secretarías y Dependencias Departamento de Comunicación Consejo Directivo Ordenanzas y Resoluciones La Facultad en los medios Plan Estratégico 2030 Carreras Carreras…
 
 ### Agendas emergentes y enfoques situados en los estudios sobre la evaluación académica y de la investigación: introducción al dosier
 
@@ -439,6 +427,18 @@ Convocatorias - Facultad de Educación Saltar a contenido principal UNCUYO UNCUY
 
 La Incubadora de Empresas UNCuyo abre una nueva convocatoria para transformar ideas en empresas - Facultad de Educación Saltar a contenido principal UNCUYO UNCUYO Facultades | Escuelas | Institutos Secretarías Ingresantes Buscar Buscar Buscar Facultad de Educación Buscar Buscar Institucional Institucional La Facultad Organización Institucional Secretarías y Dependencias Departamento de Comunicación Consejo…
 
+### Resultados para "convocatoria"
+
+- Fuente: **Traslaciones / convocatoria UNCuyo**
+- País / ciudad: **Argentina / Mendoza**
+- Temas: **educación, política, humanidades**
+- Puntaje estratégico: **49**
+- Estado: **abierta**
+- Cierre: **lunes 26 de octubre (2027-10-26)**
+- Enlace: https://educacion.uncuyo.edu.ar/buscar_tag/index/?tag=convocatoria
+
+Facultad de Educación Saltar a contenido principal UNCUYO UNCUYO Facultades | Escuelas | Institutos Secretarías Ingresantes Buscar Buscar Buscar Facultad de Educación Buscar Buscar Institucional Institucional La Facultad Organización Institucional Secretarías y Dependencias Departamento de Comunicación Consejo Directivo Ordenanzas y Resoluciones La Facultad en los medios Plan Estratégico 2030 Carreras Carreras…
+
 ### Políticas Educativas – PolEd
 
 - Fuente: **Políticas Educativas – PolEd**
@@ -446,7 +446,7 @@ La Incubadora de Empresas UNCuyo abre una nueva convocatoria para transformar id
 - Temas: **educación, política, ciencias sociales**
 - Puntaje estratégico: **68**
 - Estado: **abierta**
-- Cierre: **2006–2026: 20 años 202 (2046-10-25)**
+- Cierre: **2006–2026: 20 años 202 (2046-10-26)**
 - Enlace: https://seer.ufrgs.br/poled
 
 Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años 2026-10-01 Leer más Leer más acerca…
@@ -458,7 +458,7 @@ Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegac
 - Temas: **educación, política, ciencias sociales**
 - Puntaje estratégico: **68**
 - Estado: **abierta**
-- Cierre: **2006–2026: 20 años 202 (2046-10-25)**
+- Cierre: **2006–2026: 20 años 202 (2046-10-26)**
 - Enlace: https://seer.ufrgs.br/poled#homepageAnnouncements
 
 Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años 2026-10-01 Leer más Leer más acerca…
