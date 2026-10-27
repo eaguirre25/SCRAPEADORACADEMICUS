@@ -1,4 +1,4 @@
-# Dossier diario de convocatorias | 2026-10-26
+# Dossier diario de convocatorias | 2026-10-27
 
 - Nuevas: **0** | Total relevantes: **46**
 
@@ -132,12 +132,24 @@ Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colo
 
 Prórroga del Dossier "Experiencias formativas en la pospandemia: avances y desafíos para las carreras universitarias en salud" | De Prácticas y Discursos Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos / Prórroga…
 
+### Resultados para "convocatoria"
+
+- Fuente: **Traslaciones / convocatoria UNCuyo**
+- País / ciudad: **Argentina / Mendoza**
+- Temas: **educación, política, humanidades**
+- Puntaje estratégico: **60**
+- Estado: **abierta**
+- Cierre: **lunes 16 de noviembre (2026-11-16)**
+- Enlace: https://educacion.uncuyo.edu.ar/buscar_tag/index/?tag=convocatoria
+
+Facultad de Educación Saltar a contenido principal UNCUYO UNCUYO Facultades | Escuelas | Institutos Secretarías Ingresantes Buscar Buscar Buscar Facultad de Educación Buscar Buscar Institucional Institucional La Facultad Organización Institucional Secretarías y Dependencias Departamento de Comunicación Consejo Directivo Ordenanzas y Resoluciones La Facultad en los medios Plan Estratégico 2030 Carreras Carreras…
+
 ### Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas educativas”
 
 - Fuente: **Revista Análisis de las Prácticas**
 - País / ciudad: **Argentina / Buenos Aires**
 - Temas: **educación, sociología, política, humanidades**
-- Puntaje estratégico: **76**
+- Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
 - Cierre: **11 de diciembre de 2026 (2026-12-11)**
@@ -150,7 +162,7 @@ Convocatoria a Dossier temático “Políticas públicas y discursos sobre la es
 - Fuente: **Revista Análisis de las Prácticas**
 - País / ciudad: **Argentina / Buenos Aires**
 - Temas: **educación, sociología, política**
-- Puntaje estratégico: **76**
+- Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
 - Cierre: **11 de diciembre de 2026 (2026-12-11)**
@@ -163,7 +175,7 @@ Avisos | Revista Análisis de las Prácticas Ir al contenido principal Ir al men
 - Fuente: **Revista Análisis de las Prácticas**
 - País / ciudad: **Argentina / Buenos Aires**
 - Temas: **educación, sociología, política**
-- Puntaje estratégico: **76**
+- Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
 - Cierre: **11 de diciembre de 2026 (2026-12-11)**
@@ -176,7 +188,7 @@ Avisos | Revista Análisis de las Prácticas Ir al contenido principal Ir al men
 - Fuente: **Revista Análisis de las Prácticas**
 - País / ciudad: **Argentina / Buenos Aires**
 - Temas: **educación, sociología, política**
-- Puntaje estratégico: **76**
+- Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
 - Cierre: **11 de diciembre de 2026 (2026-12-11)**
@@ -189,7 +201,7 @@ Avisos | Revista Análisis de las Prácticas Ir al contenido principal Ir al men
 - Fuente: **Revista Análisis de las Prácticas**
 - País / ciudad: **Argentina / Buenos Aires**
 - Temas: **educación, sociología, política**
-- Puntaje estratégico: **76**
+- Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
 - Cierre: **11 de diciembre de 2026 (2026-12-11)**
@@ -202,7 +214,7 @@ Avisos | Revista Análisis de las Prácticas Ir al contenido principal Ir al men
 - Fuente: **Revista Análisis de las Prácticas**
 - País / ciudad: **Argentina / Buenos Aires**
 - Temas: **educación, sociología, política**
-- Puntaje estratégico: **76**
+- Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
 - Cierre: **11 de diciembre de 2026 (2026-12-11)**
@@ -215,7 +227,7 @@ Avisos | Revista Análisis de las Prácticas Ir al contenido principal Ir al men
 - Fuente: **Revista Análisis de las Prácticas**
 - País / ciudad: **Argentina / Buenos Aires**
 - Temas: **educación, sociología, política**
-- Puntaje estratégico: **76**
+- Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
 - Cierre: **11 de diciembre de 2026 (2026-12-11)**
@@ -228,7 +240,7 @@ Announcements | Revista Análisis de las Prácticas Skip to main content Skip to
 - Fuente: **Revista Análisis de las Prácticas**
 - País / ciudad: **Argentina / Buenos Aires**
 - Temas: **educación, sociología, política**
-- Puntaje estratégico: **76**
+- Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
 - Cierre: **11 de diciembre de 2026 (2026-12-11)**
@@ -427,18 +439,6 @@ Convocatorias - Facultad de Educación Saltar a contenido principal UNCUYO UNCUY
 
 La Incubadora de Empresas UNCuyo abre una nueva convocatoria para transformar ideas en empresas - Facultad de Educación Saltar a contenido principal UNCUYO UNCUYO Facultades | Escuelas | Institutos Secretarías Ingresantes Buscar Buscar Buscar Facultad de Educación Buscar Buscar Institucional Institucional La Facultad Organización Institucional Secretarías y Dependencias Departamento de Comunicación Consejo…
 
-### Resultados para "convocatoria"
-
-- Fuente: **Traslaciones / convocatoria UNCuyo**
-- País / ciudad: **Argentina / Mendoza**
-- Temas: **educación, política, humanidades**
-- Puntaje estratégico: **49**
-- Estado: **abierta**
-- Cierre: **lunes 26 de octubre (2027-10-26)**
-- Enlace: https://educacion.uncuyo.edu.ar/buscar_tag/index/?tag=convocatoria
-
-Facultad de Educación Saltar a contenido principal UNCUYO UNCUYO Facultades | Escuelas | Institutos Secretarías Ingresantes Buscar Buscar Buscar Facultad de Educación Buscar Buscar Institucional Institucional La Facultad Organización Institucional Secretarías y Dependencias Departamento de Comunicación Consejo Directivo Ordenanzas y Resoluciones La Facultad en los medios Plan Estratégico 2030 Carreras Carreras…
-
 ### Políticas Educativas – PolEd
 
 - Fuente: **Políticas Educativas – PolEd**
@@ -446,7 +446,7 @@ Facultad de Educación Saltar a contenido principal UNCUYO UNCUYO Facultades | E
 - Temas: **educación, política, ciencias sociales**
 - Puntaje estratégico: **68**
 - Estado: **abierta**
-- Cierre: **2006–2026: 20 años 202 (2046-10-26)**
+- Cierre: **2006–2026: 20 años 202 (2046-10-27)**
 - Enlace: https://seer.ufrgs.br/poled
 
 Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años 2026-10-01 Leer más Leer más acerca…
@@ -458,7 +458,7 @@ Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegac
 - Temas: **educación, política, ciencias sociales**
 - Puntaje estratégico: **68**
 - Estado: **abierta**
-- Cierre: **2006–2026: 20 años 202 (2046-10-26)**
+- Cierre: **2006–2026: 20 años 202 (2046-10-27)**
 - Enlace: https://seer.ufrgs.br/poled#homepageAnnouncements
 
 Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años 2026-10-01 Leer más Leer más acerca…
