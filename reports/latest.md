@@ -1,6 +1,6 @@
-# Dossier diario de convocatorias | 2026-10-28
+# Dossier diario de convocatorias | 2026-10-29
 
-- Nuevas: **0** | Total relevantes: **45**
+- Nuevas: **0** | Total relevantes: **44**
 
 ## Novedades del día
 
@@ -434,7 +434,7 @@ La Incubadora de Empresas UNCuyo abre una nueva convocatoria para transformar id
 - Temas: **educación, política, ciencias sociales**
 - Puntaje estratégico: **68**
 - Estado: **abierta**
-- Cierre: **2006–2026: 20 años 202 (2046-10-28)**
+- Cierre: **2006–2026: 20 años 202 (2046-10-29)**
 - Enlace: https://seer.ufrgs.br/poled
 
 Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años 2026-10-01 Leer más Leer más acerca…
@@ -446,7 +446,7 @@ Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegac
 - Temas: **educación, política, ciencias sociales**
 - Puntaje estratégico: **68**
 - Estado: **abierta**
-- Cierre: **2006–2026: 20 años 202 (2046-10-28)**
+- Cierre: **2006–2026: 20 años 202 (2046-10-29)**
 - Enlace: https://seer.ufrgs.br/poled#homepageAnnouncements
 
 Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años 2026-10-01 Leer más Leer más acerca…
@@ -486,18 +486,6 @@ Recepción continua para la edición N° 18 de la revista "del Prudente saber...
 - Enlace: https://cuadernosdelciesal.unr.edu.ar/index.php/inicio/about
 
 Sobre la revista | Cuadernos del Ciesal Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Entrar Inicio / Sobre la revista Sobre la revista Enfoque y Alcance Cuadernos del CIESAL es una revista de periodicidad semestral (enero a junio y julio a diciembre) y…
-
-### Envíos
-
-- Fuente: **Chuy. Revista de Estudios Literarios Latinoamericanos**
-- País / ciudad: **Argentina / Buenos Aires**
-- Temas: **política, humanidades, ciencias sociales**
-- Puntaje estratégico: **67**
-- Estado: **permanente**
-- Cierre: **5000 (5000-10-01)**
-- Enlace: https://revistas.untref.edu.ar/index.php/chuy/about/submissions
-
-Envíos | Chuy. Revista de Estudios Literarios Latinoamericanos Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Pelcc Buscar Buscar Registrarse Entrar Inicio / Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para comprobar el…
 
 ### Convocatorias
 
