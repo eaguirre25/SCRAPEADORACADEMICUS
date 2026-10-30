@@ -1,25 +1,22 @@
-# Dossier diario de convocatorias | 2026-10-29
+# Dossier diario de convocatorias | 2026-10-30
 
-- Nuevas: **0** | Total relevantes: **44**
+- Nuevas: **1** | Total relevantes: **49**
 
 ## Novedades del día
 
-No aparecieron convocatorias nuevas respecto del historial guardado.
+### DOSSIER TEMÁTICO nº 01/2027- La reforma de la educación secundaria: desafíos y contradicciones
+
+- Fuente: **Políticas Educativas – PolEd**
+- País / ciudad: **Brasil / Porto Alegre**
+- Temas: **educación, política, humanidades, ciencias sociales**
+- Puntaje estratégico: **68**
+- Estado: **abierta**
+- Cierre: **01/2027 (2027-01-01)**
+- Enlace: https://seer.ufrgs.br/index.php/Poled/announcement/view/2258
+
+DOSSIER TEMÁTICO nº 01/2027- La reforma de la educación secundaria: desafíos y contradicciones | Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos / DOSSIER TEMÁTICO nº 01/2027- La…
 
 ## Convocatorias de esta corrida
-
-### Agendas emergentes y enfoques situados en los estudios sobre la evaluación académica y de la investigación: introducción al dosier
-
-- Fuente: **Archivos de Ciencias de la Educación**
-- País / ciudad: **Argentina / La Plata**
-- Temas: **educación, sociología, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **82**
-- Estado: **abierta**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **29 (2026 (2026-10-29)**
-- Enlace: https://www.archivosdeciencias.fahce.unlp.edu.ar/article/view/Archivose181
-
-Agendas emergentes y enfoques situados en los estudios sobre la evaluación académica y de la investigación: introducción al dosier | Archivos de Ciencias de la Educación Navegación principal Contenido principal Barra lateral Registrarse Entrar Toggle navigation Archivos de Ciencias de la Educación Revistas de la FaHCE Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Historia de la revista…
 
 ### REVISTA SAAP
 
@@ -118,6 +115,19 @@ Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colo
 - Enlace: https://revistas.unal.edu.co/index.php/hisysoc/about/submissions#onlineSubmissions
 
 Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colombia Estamos preparando el portal para usted. Nacional / Bibliotecas Sedes UNAL Bogotá Medellín Manizales Palmira La Paz Amazonía Orinoquía Tumaco Caribe Menú Calendario académico Correo institucional Estructura UNAL ♙ Comunidad UNAL Buscar Servicios PT_BR Inglês Espanhol Buscar en las revistas UNAL Buscar Inicio Revistas Buscar…
+
+### Avisos
+
+- Fuente: **Historia de la Educación. Anuario**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **educación, sociología, política, humanidades, ciencias sociales**
+- Puntaje estratégico: **82**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **11/11 (2026-11-11)**
+- Enlace: https://www.saiehe.org.ar/anuario/revista/announcement
+
+Avisos | Anuario de Historia de la Educación Historia de la Educación Anuario Investigación Sociedad Argentina de Investigación y Enseñanza en Historia de la Educación Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Anuario de Historia de la Educación Actual Archivos Avisos Envíos Política editorial Acceso abierto, derechos de autor y gratuidad Revisión por pares…
 
 ### Prórroga del Dossier "Experiencias formativas en la pospandemia: avances y desafíos para las carreras universitarias en salud"
 
@@ -235,6 +245,54 @@ Announcements | Revista Análisis de las Prácticas Skip to main content Skip to
 - Enlace: https://portalrevistas.unipe.edu.ar/index.php/analisispracticas/user/setLocale/pt_BR?source=%2Findex.php%2Fanalisispracticas%2Fannouncement
 
 Anúncios | Revista Análisis de las Prácticas Ir para o conteúdo principal Ir para o menu de navegação principal Ir para o rodapé Open Menu Atual Arquivos Anúncios Sobre Sobre a Revista Submissões Equipe Editorial Declaração de Privacidade Contato Buscar Cadastro Acesso Início / Anúncios Anúncios Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas…
+
+### Políticas Educativas – PolEd
+
+- Fuente: **Políticas Educativas – PolEd**
+- País / ciudad: **Brasil / Porto Alegre**
+- Temas: **educación, política, ciencias sociales**
+- Puntaje estratégico: **68**
+- Estado: **abierta**
+- Cierre: **01/2027 (2027-01-01)**
+- Enlace: https://seer.ufrgs.br/poled
+
+Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos DOSSIER TEMÁTICO nº 01/2027- La reforma de la educación secundaria: desafíos y…
+
+### Políticas Educativas – PolEd
+
+- Fuente: **Políticas Educativas – PolEd**
+- País / ciudad: **Brasil / Porto Alegre**
+- Temas: **educación, política, ciencias sociales**
+- Puntaje estratégico: **68**
+- Estado: **abierta**
+- Cierre: **01/2027 (2027-01-01)**
+- Enlace: https://seer.ufrgs.br/poled#homepageAnnouncements
+
+Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos DOSSIER TEMÁTICO nº 01/2027- La reforma de la educación secundaria: desafíos y…
+
+### Avisos
+
+- Fuente: **Políticas Educativas – PolEd**
+- País / ciudad: **Brasil / Porto Alegre**
+- Temas: **educación, política, ciencias sociales**
+- Puntaje estratégico: **68**
+- Estado: **abierta**
+- Cierre: **01/2027 (2027-01-01)**
+- Enlace: https://seer.ufrgs.br/index.php/Poled/announcement
+
+Avisos | Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos Avisos DOSSIER TEMÁTICO nº 01/2027- La reforma de la educación secundaria: desafíos y contradicciones 2026-10-29 COMITÉ…
+
+### DOSSIER TEMÁTICO nº 01/2027- La reforma de la educación secundaria: desafíos y contradicciones
+
+- Fuente: **Políticas Educativas – PolEd**
+- País / ciudad: **Brasil / Porto Alegre**
+- Temas: **educación, política, humanidades, ciencias sociales**
+- Puntaje estratégico: **68**
+- Estado: **abierta**
+- Cierre: **01/2027 (2027-01-01)**
+- Enlace: https://seer.ufrgs.br/index.php/Poled/announcement/view/2258
+
+DOSSIER TEMÁTICO nº 01/2027- La reforma de la educación secundaria: desafíos y contradicciones | Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos / DOSSIER TEMÁTICO nº 01/2027- La…
 
 ### Avisos
 
@@ -427,30 +485,6 @@ Convocatorias - Facultad de Educación Saltar a contenido principal UNCUYO UNCUY
 
 La Incubadora de Empresas UNCuyo abre una nueva convocatoria para transformar ideas en empresas - Facultad de Educación Saltar a contenido principal UNCUYO UNCUYO Facultades | Escuelas | Institutos Secretarías Ingresantes Buscar Buscar Buscar Facultad de Educación Buscar Buscar Institucional Institucional La Facultad Organización Institucional Secretarías y Dependencias Departamento de Comunicación Consejo…
 
-### Políticas Educativas – PolEd
-
-- Fuente: **Políticas Educativas – PolEd**
-- País / ciudad: **Brasil / Porto Alegre**
-- Temas: **educación, política, ciencias sociales**
-- Puntaje estratégico: **68**
-- Estado: **abierta**
-- Cierre: **2006–2026: 20 años 202 (2046-10-29)**
-- Enlace: https://seer.ufrgs.br/poled
-
-Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años 2026-10-01 Leer más Leer más acerca…
-
-### Políticas Educativas – PolEd
-
-- Fuente: **Políticas Educativas – PolEd**
-- País / ciudad: **Brasil / Porto Alegre**
-- Temas: **educación, política, ciencias sociales**
-- Puntaje estratégico: **68**
-- Estado: **abierta**
-- Cierre: **2006–2026: 20 años 202 (2046-10-29)**
-- Enlace: https://seer.ufrgs.br/poled#homepageAnnouncements
-
-Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años 2026-10-01 Leer más Leer más acerca…
-
 ### Historia y sociedad
 
 - Fuente: **Historia y Sociedad**
@@ -487,6 +521,30 @@ Recepción continua para la edición N° 18 de la revista "del Prudente saber...
 
 Sobre la revista | Cuadernos del Ciesal Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Entrar Inicio / Sobre la revista Sobre la revista Enfoque y Alcance Cuadernos del CIESAL es una revista de periodicidad semestral (enero a junio y julio a diciembre) y…
 
+### Anúncios
+
+- Fuente: **Revista Exitus**
+- País / ciudad: **Brasil / Santarém**
+- Temas: **educación, política**
+- Puntaje estratégico: **55**
+- Estado: **permanente**
+- Cierre: **15 (2 (2027-02-15)**
+- Enlace: https://portaldeperiodicos.ufopa.edu.br/index.php/revistaexitus/announcement
+
+Anúncios | Revista Exitus Ir para o conteúdo principal Ir para o menu de navegação principal Ir para o rodapé Open Menu Atual Arquivos Indexadores Avaliadores ad hoc 2026 2025 2024 2023 2022 2021 2020 2019 Template Anúncios Sobre Sobre a Revista Ética e boas práticas na publicação Submissões Equipe Editorial Declaração de Privacidade Contato Buscar Cadastro Acesso Início / Anúncios Anúncios Suspensão de novas…
+
+### Envíos
+
+- Fuente: **Chuy. Revista de Estudios Literarios Latinoamericanos**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **política, humanidades, ciencias sociales**
+- Puntaje estratégico: **67**
+- Estado: **permanente**
+- Cierre: **5000 (5000-10-01)**
+- Enlace: https://revistas.untref.edu.ar/index.php/chuy/about/submissions
+
+Envíos | Chuy. Revista de Estudios Literarios Latinoamericanos Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Pelcc Buscar Buscar Registrarse Entrar Inicio / Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para comprobar el…
+
 ### Convocatorias
 
 - Fuente: **Raigal**
@@ -509,6 +567,18 @@ Convocatorias | Raigal Ir al contenido principal Ir al menú de navegación prin
 - Enlace: https://fh.mdp.edu.ar/revistas/index.php/r_educ/index
 
 UNMDP > Facultad de Humanidades > Publicaciones > Revistas Revista de Educación Usuario/a Nombre de usuario/a Contraseña No cerrar sesión Notificaciones Vista Suscribirse Contenido de la revista Buscar Ámbito de la búsqueda Todo Autores/as Título Resumen Términos de la indexación Texto completo Examinar Por número Por autor/a Por título Otras revistas Categorías Palabras clave Argentina aprendizaje didáctica…
+
+### Anuario de Historia de la Educación
+
+- Fuente: **Historia de la Educación. Anuario**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **educación, sociología, política, humanidades, ciencias sociales**
+- Puntaje estratégico: **78**
+- Estado: **permanente**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Enlace: https://www.saiehe.org.ar/anuario/revista
+
+Anuario de Historia de la Educación Historia de la Educación Anuario Investigación Sociedad Argentina de Investigación y Enseñanza en Historia de la Educación Ir al contenido principal Ir al menú de navegación principal Ir al número actual Ir al pie de página del sitio Open Menu Anuario de Historia de la Educación Anuario de Historia de la Educación Actual Archivos Avisos Envíos Política editorial Acceso abierto,…
 
 ### Announcements
 
