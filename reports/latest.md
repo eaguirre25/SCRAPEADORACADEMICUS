@@ -1,20 +1,10 @@
-# Dossier diario de convocatorias | 2026-10-30
+# Dossier diario de convocatorias | 2026-10-31
 
-- Nuevas: **1** | Total relevantes: **49**
+- Nuevas: **0** | Total relevantes: **47**
 
 ## Novedades del día
 
-### DOSSIER TEMÁTICO nº 01/2027- La reforma de la educación secundaria: desafíos y contradicciones
-
-- Fuente: **Políticas Educativas – PolEd**
-- País / ciudad: **Brasil / Porto Alegre**
-- Temas: **educación, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **68**
-- Estado: **abierta**
-- Cierre: **01/2027 (2027-01-01)**
-- Enlace: https://seer.ufrgs.br/index.php/Poled/announcement/view/2258
-
-DOSSIER TEMÁTICO nº 01/2027- La reforma de la educación secundaria: desafíos y contradicciones | Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos / DOSSIER TEMÁTICO nº 01/2027- La…
+No aparecieron convocatorias nuevas respecto del historial guardado.
 
 ## Convocatorias de esta corrida
 
@@ -115,19 +105,6 @@ Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colo
 - Enlace: https://revistas.unal.edu.co/index.php/hisysoc/about/submissions#onlineSubmissions
 
 Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colombia Estamos preparando el portal para usted. Nacional / Bibliotecas Sedes UNAL Bogotá Medellín Manizales Palmira La Paz Amazonía Orinoquía Tumaco Caribe Menú Calendario académico Correo institucional Estructura UNAL ♙ Comunidad UNAL Buscar Servicios PT_BR Inglês Espanhol Buscar en las revistas UNAL Buscar Inicio Revistas Buscar…
-
-### Avisos
-
-- Fuente: **Historia de la Educación. Anuario**
-- País / ciudad: **Argentina / Buenos Aires**
-- Temas: **educación, sociología, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **82**
-- Estado: **abierta**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **11/11 (2026-11-11)**
-- Enlace: https://www.saiehe.org.ar/anuario/revista/announcement
-
-Avisos | Anuario de Historia de la Educación Historia de la Educación Anuario Investigación Sociedad Argentina de Investigación y Enseñanza en Historia de la Educación Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Anuario de Historia de la Educación Actual Archivos Avisos Envíos Política editorial Acceso abierto, derechos de autor y gratuidad Revisión por pares…
 
 ### Prórroga del Dossier "Experiencias formativas en la pospandemia: avances y desafíos para las carreras universitarias en salud"
 
@@ -567,18 +544,6 @@ Convocatorias | Raigal Ir al contenido principal Ir al menú de navegación prin
 - Enlace: https://fh.mdp.edu.ar/revistas/index.php/r_educ/index
 
 UNMDP > Facultad de Humanidades > Publicaciones > Revistas Revista de Educación Usuario/a Nombre de usuario/a Contraseña No cerrar sesión Notificaciones Vista Suscribirse Contenido de la revista Buscar Ámbito de la búsqueda Todo Autores/as Título Resumen Términos de la indexación Texto completo Examinar Por número Por autor/a Por título Otras revistas Categorías Palabras clave Argentina aprendizaje didáctica…
-
-### Anuario de Historia de la Educación
-
-- Fuente: **Historia de la Educación. Anuario**
-- País / ciudad: **Argentina / Buenos Aires**
-- Temas: **educación, sociología, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **78**
-- Estado: **permanente**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Enlace: https://www.saiehe.org.ar/anuario/revista
-
-Anuario de Historia de la Educación Historia de la Educación Anuario Investigación Sociedad Argentina de Investigación y Enseñanza en Historia de la Educación Ir al contenido principal Ir al menú de navegación principal Ir al número actual Ir al pie de página del sitio Open Menu Anuario de Historia de la Educación Anuario de Historia de la Educación Actual Archivos Avisos Envíos Política editorial Acceso abierto,…
 
 ### Announcements
 
