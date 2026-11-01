@@ -1,12 +1,189 @@
-# Dossier diario de convocatorias | 2026-10-31
+# Dossier diario de convocatorias | 2026-11-01
 
-- Nuevas: **0** | Total relevantes: **47**
+- Nuevas: **1** | Total relevantes: **60**
 
 ## Novedades del día
 
-No aparecieron convocatorias nuevas respecto del historial guardado.
+### Educação & Sociedade
+
+- Fuente: **Educação & Sociedade**
+- País / ciudad: **Brasil / Campinas**
+- Temas: **educación, sociología, política, humanidades, ciencias sociales**
+- Puntaje estratégico: **61**
+- Estado: **abierta**
+- Cierre: **a (2026-11-01)**
+- Enlace: https://www.scielo.br/j/es/
+
+Educação & Sociedade menu Menu Brasil Lista alfabética de revistas Lista temática de revistas Buscar Métricas (abre em nova aba) Sobre o SciELO Brasil Contactos Notificar error SciELO.org - Rede SciELO (abre em nova aba) Colecciones nacionales y temáticas (abre em nova aba) Lista alfabética de revistas (abre em nova aba) Lista de revistas por asunto (abre em nova aba) Buscar (abre em nova aba) Métricas (abre em…
 
 ## Convocatorias de esta corrida
+
+### Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas educativas”
+
+- Fuente: **Revista Análisis de las Prácticas**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **educación, sociología, política, humanidades**
+- Puntaje estratégico: **82**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **a (2026-11-01)**
+- Enlace: https://portalrevistas.unipe.edu.ar/index.php/analisispracticas/announcement/view/20
+
+Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas educativas” | Revista Análisis de las Prácticas Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos /…
+
+### Avisos
+
+- Fuente: **Revista Análisis de las Prácticas**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **educación, sociología, política**
+- Puntaje estratégico: **82**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **a (2026-11-01)**
+- Enlace: https://portalrevistas.unipe.edu.ar/index.php/analisispracticas/announcement
+
+Avisos | Revista Análisis de las Prácticas Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos Avisos Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas…
+
+### Avisos
+
+- Fuente: **Revista Análisis de las Prácticas**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **educación, sociología, política**
+- Puntaje estratégico: **82**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **a (2026-11-01)**
+- Enlace: https://portalrevistas.unipe.edu.ar/index.php/analisispracticas/announcement#pkp_content_main
+
+Avisos | Revista Análisis de las Prácticas Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos Avisos Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas…
+
+### Avisos
+
+- Fuente: **Revista Análisis de las Prácticas**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **educación, sociología, política**
+- Puntaje estratégico: **82**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **a (2026-11-01)**
+- Enlace: https://portalrevistas.unipe.edu.ar/index.php/analisispracticas/announcement#siteNav
+
+Avisos | Revista Análisis de las Prácticas Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos Avisos Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas…
+
+### Avisos
+
+- Fuente: **Revista Análisis de las Prácticas**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **educación, sociología, política**
+- Puntaje estratégico: **82**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **a (2026-11-01)**
+- Enlace: https://portalrevistas.unipe.edu.ar/index.php/analisispracticas/announcement#pkp_content_footer
+
+Avisos | Revista Análisis de las Prácticas Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos Avisos Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas…
+
+### Avisos
+
+- Fuente: **Revista Análisis de las Prácticas**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **educación, sociología, política**
+- Puntaje estratégico: **82**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **a (2026-11-01)**
+- Enlace: https://portalrevistas.unipe.edu.ar/index.php/analisispracticas/user/setLocale/es_ES?source=%2Findex.php%2Fanalisispracticas%2Fannouncement
+
+Avisos | Revista Análisis de las Prácticas Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos Avisos Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas…
+
+### Clío & Asociados. La historia enseñada
+
+- Fuente: **Clío y Asociados**
+- País / ciudad: **Argentina / Santa Fe**
+- Temas: **educación, política, humanidades**
+- Puntaje estratégico: **82**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **2026 (2026-11-01)**
+- Enlace: https://bibliotecavirtual.unl.edu.ar/publicaciones/index.php/ClioyAsociados/index
+
+Clío & Asociados. La historia enseñada Ir al contenido principal Ir al menú de navegación principal Ir al número actual Ir al pie de página del sitio Open Menu Clío & Asociados. La historia enseñada Clío & Asociados. La historia enseñada Último número Números anteriores Acerca de La Revista Equipo editorial Evaluación Evaluadores Guía de buenas prácticas editoriales Bases de datos e índices Instituciones editoras…
+
+### Convocatoria Dossier Desigualdades urbano-ambientales en el marco de la crisis socioecológica. Debates teóricos, metodológicos y políticos
+
+- Fuente: **De Prácticas y Discursos**
+- País / ciudad: **Argentina / Corrientes**
+- Temas: **educación, sociología, política, ciencias sociales**
+- Puntaje estratégico: **82**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **y (2026-11-01)**
+- Enlace: https://revistas.unne.edu.ar/index.php/dpd/announcement/view/36
+
+Convocatoria Dossier Desigualdades urbano-ambientales en el marco de la crisis socioecológica. Debates teóricos, metodológicos y políticos | De Prácticas y Discursos Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos…
+
+### Convocatoria a Dossier temático “La dimensión colectiva del trabajo docente”
+
+- Fuente: **Revista Análisis de las Prácticas**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **educación, sociología, política**
+- Puntaje estratégico: **82**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **a (2026-11-01)**
+- Enlace: https://portalrevistas.unipe.edu.ar/index.php/analisispracticas/announcement/view/13
+
+Convocatoria a Dossier temático “La dimensión colectiva del trabajo docente” | Revista Análisis de las Prácticas Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos / Convocatoria a Dossier temático “La dimensión…
+
+### Convocatoria Dossier "Educación y arraigo en los territorios rurales de América Latina. Pedagogías colaborativas, re existencias y acciones colectivas para la construcción de futuros viables"
+
+- Fuente: **De Prácticas y Discursos**
+- País / ciudad: **Argentina / Corrientes**
+- Temas: **educación, sociología, política, humanidades, ciencias sociales**
+- Puntaje estratégico: **82**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **a (2026-11-01)**
+- Enlace: https://revistas.unne.edu.ar/index.php/dpd/announcement/view/30
+
+Convocatoria Dossier "Educación y arraigo en los territorios rurales de América Latina. Pedagogías colaborativas, re existencias y acciones colectivas para la construcción de futuros viables" | De Prácticas y Discursos Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de…
+
+### https://fh.mdp.edu.ar/revistas/index.php/r_educ/about/submissions#authorGuidelines
+
+- Fuente: **Revista de educación (Mar del Plata)**
+- País / ciudad: **Argentina / Mar del Plata**
+- Temas: **educación**
+- Puntaje estratégico: **68**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **y (2026-11-01)**
+- Enlace: https://fh.mdp.edu.ar/revistas/index.php/r_educ/about/submissions#authorGuidelines
+
+Envíos Usuario/a Nombre de usuario/a Contraseña No cerrar sesión Notificaciones Vista Suscribirse Contenido de la revista Buscar Ámbito de la búsqueda Todo Autores/as Título Resumen Términos de la indexación Texto completo Examinar Por número Por autor/a Por título Otras revistas Categorías Palabras clave Argentina aprendizaje didáctica docencia educación educación superior enseñanza escuela secundaria evaluación…
+
+### Próximos números
+
+- Fuente: **Revista Latinoamericana de Estudios Educativos**
+- País / ciudad: **Colombia / Manizales**
+- Temas: **educación, sociología, política, humanidades, ciencias sociales**
+- Puntaje estratégico: **74**
+- Estado: **abierta**
+- Cierre: **a (2026-11-01)**
+- Enlace: https://revistasojs.ucaldas.edu.co/index.php/latinoamericana/calls
+
+Próximos números | Latinoamericana de Estudios Educativos toggle menu Registrarse Entrar Inicio Portal Inicio Revista Número actual Números anteriores Acerca de Sobre la revista Equipo editorial Orientación para los autores Políticas éticas Patrocinadores Contacto Métricas, estadísticas y analíticas Métricas locales Estadísticas de la revista Analíticas Tasa de rechazo Convocatorias Próximos números Novedades…
+
+### Forum. Revista Departamento de Ciencia Política
+
+- Fuente: **Forum. Revista Departamento de Ciencia Política**
+- País / ciudad: **Colombia / Bogotá**
+- Temas: **sociología, política**
+- Puntaje estratégico: **72**
+- Estado: **abierta**
+- Cierre: **a (2026-11-01)**
+- Enlace: https://revistas.unal.edu.co/index.php/forum/about/submissions
+
+Submissions | Forum. Revista Departamento de Ciencia Política Portal de revistas Universidad Nacional de Colombia Estamos preparando el portal para usted. Nacional / Bibliotecas Sedes UNAL Bogotá Medellín Manizales Palmira La Paz Amazonía Orinoquía Tumaco Caribe Menú Calendario académico Correo institucional Estructura UNAL ♙ Comunidad UNAL Buscar Servicios EN Spanish Buscar en las revistas UNAL Buscar Inicio…
 
 ### REVISTA SAAP
 
@@ -16,7 +193,7 @@ No aparecieron convocatorias nuevas respecto del historial guardado.
 - Puntaje estratégico: **82**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **y noviembre (2026-11-01)**
+- Cierre: **año (2026-11-01)**
 - Enlace: https://revista.saap.org.ar/
 
 REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
@@ -29,10 +206,47 @@ REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir a
 - Puntaje estratégico: **82**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **y noviembre (2026-11-01)**
+- Cierre: **año (2026-11-01)**
 - Enlace: https://revista.saap.org.ar/#homepageAnnouncements
 
 REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
+
+### Nuevas convocatorias
+
+- Fuente: **CLACSO Convocatorias**
+- País / ciudad: **México / Ciudad de México**
+- Temas: **educación, sociología, política, humanidades, ciencias sociales**
+- Puntaje estratégico: **74**
+- Estado: **abierta**
+- Cierre: **y (2026-11-01)**
+- Enlace: https://www.clacso.org/becas/concursos/
+
+Nuevas convocatorias - CLACSO Ir al contenido Saltar al contenido Inicio Secretaría Ejecutiva Institucional ¿Qué es CLACSO? Actividades de la SE Autoridades Centros asociados Mundo CLACSO: Los Centros Miembros se presentan Asociaciones Comunicados del Comité Directivo CLACSO Actas e informes de gestión Actualización del Estatuto de CLACSO Grupos de Trabajo Producciones y contenidos [2026 – 2028] Producciones y…
+
+### Convocatoria Dossier: “Estudios críticos de la Gestión. Perspectivas y dimensiones”
+
+- Fuente: **De Prácticas y Discursos**
+- País / ciudad: **Argentina / Corrientes**
+- Temas: **educación, sociología, ciencias sociales**
+- Puntaje estratégico: **82**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **y (2026-11-01)**
+- Enlace: https://revistas.unne.edu.ar/index.php/dpd/announcement/view/18
+
+Convocatoria Dossier: “Estudios críticos de la Gestión. Perspectivas y dimensiones” | De Prácticas y Discursos Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos / Convocatoria Dossier: “Estudios críticos de la…
+
+### Envíos | Latinoamericana de Estudios Educativos
+
+- Fuente: **Revista Latinoamericana de Estudios Educativos**
+- País / ciudad: **Colombia / Manizales**
+- Temas: **educación, política, humanidades, ciencias sociales**
+- Puntaje estratégico: **74**
+- Estado: **abierta**
+- Cierre: **y (2026-11-01)**
+- Enlace: https://revistasojs.ucaldas.edu.co/index.php/latinoamericana/about/submissions
+
+Envíos | Latinoamericana de Estudios Educativos toggle menu Registrarse Entrar Inicio Portal Inicio Revista Número actual Números anteriores Acerca de Sobre la revista Equipo editorial Orientación para los autores Políticas éticas Patrocinadores Contacto Métricas, estadísticas y analíticas Métricas locales Estadísticas de la revista Analíticas Tasa de rechazo Convocatorias Próximos números Novedades VICERRECTORÍA…
 
 ### Envíos
 
@@ -41,10 +255,61 @@ REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir a
 - Temas: **educación, política, humanidades, ciencias sociales**
 - Puntaje estratégico: **74**
 - Estado: **abierta**
-- Cierre: **su (2026-11-01)**
+- Cierre: **y (2026-11-01)**
 - Enlace: https://seer.ufrgs.br/index.php/Poled/about/submissions
 
 Envíos | Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Envíos Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para comprobar el estado de los envíos…
+
+### Prórroga del Dossier "Experiencias formativas en la pospandemia: avances y desafíos para las carreras universitarias en salud"
+
+- Fuente: **De Prácticas y Discursos**
+- País / ciudad: **Argentina / Corrientes**
+- Temas: **educación, sociología, humanidades, ciencias sociales**
+- Puntaje estratégico: **82**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **a (2026-11-01)**
+- Enlace: https://revistas.unne.edu.ar/index.php/dpd/announcement/view/34
+
+Prórroga del Dossier "Experiencias formativas en la pospandemia: avances y desafíos para las carreras universitarias en salud" | De Prácticas y Discursos Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos / Prórroga…
+
+### Envíos
+
+- Fuente: **Sociohistórica**
+- País / ciudad: **Argentina / La Plata**
+- Temas: **educación, sociología, política, humanidades, ciencias sociales**
+- Puntaje estratégico: **82**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **y (2026-11-01)**
+- Enlace: https://www.sociohistorica.fahce.unlp.edu.ar/about/submissions
+
+Envíos | Sociohistórica Navegación principal Contenido principal Barra lateral Registrarse Entrar Toggle navigation Sociohistórica Revistas de la FaHCE Actual Avisos Archivos Acerca de Sobre la revista Envíos Equipo editorial Contacto Buscar Inicio Envíos Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para comprobar el estado de los envíos recientes. Ir a Iniciar sesión a…
+
+### Prórroga Dossier "El desafío actual de los riesgos psicosociales en el trabajo"
+
+- Fuente: **De Prácticas y Discursos**
+- País / ciudad: **Argentina / Corrientes**
+- Temas: **educación, sociología, política, humanidades, ciencias sociales**
+- Puntaje estratégico: **82**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **y (2026-11-01)**
+- Enlace: https://revistas.unne.edu.ar/index.php/dpd/announcement/view/24
+
+Prórroga Dossier "El desafío actual de los riesgos psicosociales en el trabajo" | De Prácticas y Discursos Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos / Prórroga Dossier "El desafío actual de los riesgos…
+
+### ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años
+
+- Fuente: **Políticas Educativas – PolEd**
+- País / ciudad: **Brasil / Porto Alegre**
+- Temas: **educación, política, humanidades, ciencias sociales**
+- Puntaje estratégico: **71**
+- Estado: **abierta**
+- Cierre: **2026 (2026-11-01)**
+- Enlace: https://seer.ufrgs.br/index.php/Poled/announcement/view/2254
+
+¡Feliz cumpleaños, PolEd! 2006–2026: 20 años | Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos / ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años ¡Feliz cumpleaños, PolEd! 2006–2026: 20…
 
 ### Submissão
 
@@ -53,7 +318,7 @@ Envíos | Políticas Educativas – PolEd Ir al contenido principal Ir al menú 
 - Temas: **educación, política**
 - Puntaje estratégico: **64**
 - Estado: **abierta**
-- Cierre: **de do (2026-11-01)**
+- Cierre: **a (2026-11-01)**
 - Enlace: https://periodicos.ufmg.br/index.php/edrevista/about/submissions
 
 Submissão | Educação em Revista Ir para o conteúdo principal Ir para o menu de navegação principal Ir para o rodapé Open Menu Sobre Histórico Comissão Editorial Política Editorial Atual Edições anteriores Submissões Templates Edições para impressão Notícias Contato Pareceristas Ad Hoc Buscar Cadastro Acesso Início / Submissão Submissão O cadastro no sistema e posterior acesso, por meio de login e senha, são…
@@ -65,7 +330,7 @@ Submissão | Educação em Revista Ir para o conteúdo principal Ir para o menu 
 - Temas: **sociología, política, humanidades**
 - Puntaje estratégico: **66**
 - Estado: **abierta**
-- Cierre: **do (2026-11-01)**
+- Cierre: **a (2026-11-01)**
 - Enlace: https://revistas.unal.edu.co/index.php/hisysoc/about/submissions
 
 Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colombia Estamos preparando el portal para usted. Nacional / Bibliotecas Sedes UNAL Bogotá Medellín Manizales Palmira La Paz Amazonía Orinoquía Tumaco Caribe Menú Calendario académico Correo institucional Estructura UNAL ♙ Comunidad UNAL Buscar Servicios PT_BR Inglês Espanhol Buscar en las revistas UNAL Buscar Inicio Revistas Buscar…
@@ -77,7 +342,7 @@ Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colo
 - Temas: **sociología, política, humanidades**
 - Puntaje estratégico: **66**
 - Estado: **abierta**
-- Cierre: **do (2026-11-01)**
+- Cierre: **a (2026-11-01)**
 - Enlace: https://revistas.unal.edu.co/index.php/hisysoc/about/submissions#authorGuidelines
 
 Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colombia Estamos preparando el portal para usted. Nacional / Bibliotecas Sedes UNAL Bogotá Medellín Manizales Palmira La Paz Amazonía Orinoquía Tumaco Caribe Menú Calendario académico Correo institucional Estructura UNAL ♙ Comunidad UNAL Buscar Servicios PT_BR Inglês Espanhol Buscar en las revistas UNAL Buscar Inicio Revistas Buscar…
@@ -89,7 +354,7 @@ Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colo
 - Temas: **sociología, política, humanidades**
 - Puntaje estratégico: **66**
 - Estado: **abierta**
-- Cierre: **do (2026-11-01)**
+- Cierre: **a (2026-11-01)**
 - Enlace: https://revistas.unal.edu.co/index.php/hisysoc/about/submissions#privacyStatement
 
 Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colombia Estamos preparando el portal para usted. Nacional / Bibliotecas Sedes UNAL Bogotá Medellín Manizales Palmira La Paz Amazonía Orinoquía Tumaco Caribe Menú Calendario académico Correo institucional Estructura UNAL ♙ Comunidad UNAL Buscar Servicios PT_BR Inglês Espanhol Buscar en las revistas UNAL Buscar Inicio Revistas Buscar…
@@ -101,101 +366,124 @@ Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colo
 - Temas: **sociología, política, humanidades**
 - Puntaje estratégico: **66**
 - Estado: **abierta**
-- Cierre: **do (2026-11-01)**
+- Cierre: **a (2026-11-01)**
 - Enlace: https://revistas.unal.edu.co/index.php/hisysoc/about/submissions#onlineSubmissions
 
 Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colombia Estamos preparando el portal para usted. Nacional / Bibliotecas Sedes UNAL Bogotá Medellín Manizales Palmira La Paz Amazonía Orinoquía Tumaco Caribe Menú Calendario académico Correo institucional Estructura UNAL ♙ Comunidad UNAL Buscar Servicios PT_BR Inglês Espanhol Buscar en las revistas UNAL Buscar Inicio Revistas Buscar…
 
-### Prórroga del Dossier "Experiencias formativas en la pospandemia: avances y desafíos para las carreras universitarias en salud"
+### Envíos
+
+- Fuente: **Revista SAAP**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **educación, política**
+- Puntaje estratégico: **72**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **y (2026-11-01)**
+- Enlace: https://revista.saap.org.ar/index.php/revista/about/submissions
+
+Envíos | REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP Buscar Registrarse Entrar Inicio / Envíos Envíos El registro y el inicio de…
+
+### Envíos
+
+- Fuente: **Archivos de Ciencias de la Educación**
+- País / ciudad: **Argentina / La Plata**
+- Temas: **educación, política, humanidades**
+- Puntaje estratégico: **71**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **y (2026-11-01)**
+- Enlace: https://www.archivosdeciencias.fahce.unlp.edu.ar/about/submissions
+
+Envíos | Archivos de Ciencias de la Educación Navegación principal Contenido principal Barra lateral Registrarse Entrar Toggle navigation Archivos de Ciencias de la Educación Revistas de la FaHCE Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Historia de la revista Contacto Buscar Inicio Envíos Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para…
+
+### Educação & Sociedade
+
+- Fuente: **Educação & Sociedade**
+- País / ciudad: **Brasil / Campinas**
+- Temas: **educación, sociología, política, humanidades, ciencias sociales**
+- Puntaje estratégico: **61**
+- Estado: **abierta**
+- Cierre: **a (2026-11-01)**
+- Enlace: https://www.scielo.br/j/es/
+
+Educação & Sociedade menu Menu Brasil Lista alfabética de revistas Lista temática de revistas Buscar Métricas (abre em nova aba) Sobre o SciELO Brasil Contactos Notificar error SciELO.org - Rede SciELO (abre em nova aba) Colecciones nacionales y temáticas (abre em nova aba) Lista alfabética de revistas (abre em nova aba) Lista de revistas por asunto (abre em nova aba) Buscar (abre em nova aba) Métricas (abre em…
+
+### Envíos
 
 - Fuente: **De Prácticas y Discursos**
 - País / ciudad: **Argentina / Corrientes**
-- Temas: **educación, sociología, humanidades, ciencias sociales**
-- Puntaje estratégico: **79**
+- Temas: **educación, sociología, política, ciencias sociales**
+- Puntaje estratégico: **69**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **15 de noviembre del 2026 (2026-11-15)**
-- Enlace: https://revistas.unne.edu.ar/index.php/dpd/announcement/view/34
+- Cierre: **y (2026-11-01)**
+- Enlace: https://revistas.unne.edu.ar/index.php/dpd/about/submissions
 
-Prórroga del Dossier "Experiencias formativas en la pospandemia: avances y desafíos para las carreras universitarias en salud" | De Prácticas y Discursos Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos / Prórroga…
+Envíos | De Prácticas y Discursos Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Envíos Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para comprobar el estado de los envíos…
 
-### Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas educativas”
+### Convocatorias
+
+- Fuente: **Traslaciones / convocatoria UNCuyo**
+- País / ciudad: **Argentina / Mendoza**
+- Temas: **educación, política, humanidades**
+- Puntaje estratégico: **61**
+- Estado: **abierta**
+- Cierre: **a (2026-11-01)**
+- Enlace: https://educacion.uncuyo.edu.ar/convocatorias-a-becas-y-proyectos-de-investigacion-y-posgrado
+
+Convocatorias - Facultad de Educación Saltar a contenido principal UNCUYO UNCUYO Facultades | Escuelas | Institutos Secretarías Ingresantes Buscar Buscar Buscar Facultad de Educación Buscar Buscar Institucional Institucional La Facultad Organización Institucional Secretarías y Dependencias Departamento de Comunicación Consejo Directivo Ordenanzas y Resoluciones La Facultad en los medios Plan Estratégico 2030…
+
+### Envíos
 
 - Fuente: **Revista Análisis de las Prácticas**
 - País / ciudad: **Argentina / Buenos Aires**
-- Temas: **educación, sociología, política, humanidades**
+- Temas: **educación, política**
+- Puntaje estratégico: **61**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **y (2026-11-01)**
+- Enlace: https://portalrevistas.unipe.edu.ar/index.php/analisispracticas/about/submissions
+
+Envíos | Revista Análisis de las Prácticas Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Envíos Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para comprobar el estado de los…
+
+### La Incubadora de Empresas UNCuyo abre una nueva convocatoria para transformar ideas en empresas
+
+- Fuente: **Traslaciones / convocatoria UNCuyo**
+- País / ciudad: **Argentina / Mendoza**
+- Temas: **educación, política, humanidades**
+- Puntaje estratégico: **55**
+- Estado: **abierta**
+- Cierre: **de 2026 (2026-11-01)**
+- Enlace: https://educacion.uncuyo.edu.ar/la-incubadora-de-empresas-uncuyo-abre-una-nueva-convocatoria-para-transformar-ideas-en-empresas
+
+La Incubadora de Empresas UNCuyo abre una nueva convocatoria para transformar ideas en empresas - Facultad de Educación Saltar a contenido principal UNCUYO UNCUYO Facultades | Escuelas | Institutos Secretarías Ingresantes Buscar Buscar Buscar Facultad de Educación Buscar Buscar Institucional Institucional La Facultad Organización Institucional Secretarías y Dependencias Departamento de Comunicación Consejo…
+
+### Envíos
+
+- Fuente: **Clío y Asociados**
+- País / ciudad: **Argentina / Santa Fe**
+- Temas: **educación, política, humanidades**
+- Puntaje estratégico: **61**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **y (2026-11-01)**
+- Enlace: https://bibliotecavirtual.unl.edu.ar/publicaciones/index.php/ClioyAsociados/es/about/submissions
+
+Envíos | Clío & Asociados. La historia enseñada Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Clío & Asociados. La historia enseñada Último número Números anteriores Acerca de La Revista Equipo editorial Evaluación Evaluadores Guía de buenas prácticas editoriales Bases de datos e índices Instituciones editoras Para autores Normas editoriales Envíos Llamados y…
+
+### Agendas emergentes y enfoques situados en los estudios sobre la evaluación académica y de la investigación: introducción al dosier
+
+- Fuente: **Archivos de Ciencias de la Educación**
+- País / ciudad: **Argentina / La Plata**
+- Temas: **educación, sociología, política, humanidades, ciencias sociales**
 - Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **11 de diciembre de 2026 (2026-12-11)**
-- Enlace: https://portalrevistas.unipe.edu.ar/index.php/analisispracticas/announcement/view/20
+- Cierre: **29 (2026 (2026-11-29)**
+- Enlace: https://www.archivosdeciencias.fahce.unlp.edu.ar/article/view/Archivose181
 
-Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas educativas” | Revista Análisis de las Prácticas Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos /…
-
-### Avisos
-
-- Fuente: **Revista Análisis de las Prácticas**
-- País / ciudad: **Argentina / Buenos Aires**
-- Temas: **educación, sociología, política**
-- Puntaje estratégico: **79**
-- Estado: **abierta**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **11 de diciembre de 2026 (2026-12-11)**
-- Enlace: https://portalrevistas.unipe.edu.ar/index.php/analisispracticas/announcement
-
-Avisos | Revista Análisis de las Prácticas Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos Avisos Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas…
-
-### Avisos
-
-- Fuente: **Revista Análisis de las Prácticas**
-- País / ciudad: **Argentina / Buenos Aires**
-- Temas: **educación, sociología, política**
-- Puntaje estratégico: **79**
-- Estado: **abierta**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **11 de diciembre de 2026 (2026-12-11)**
-- Enlace: https://portalrevistas.unipe.edu.ar/index.php/analisispracticas/announcement#pkp_content_main
-
-Avisos | Revista Análisis de las Prácticas Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos Avisos Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas…
-
-### Avisos
-
-- Fuente: **Revista Análisis de las Prácticas**
-- País / ciudad: **Argentina / Buenos Aires**
-- Temas: **educación, sociología, política**
-- Puntaje estratégico: **79**
-- Estado: **abierta**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **11 de diciembre de 2026 (2026-12-11)**
-- Enlace: https://portalrevistas.unipe.edu.ar/index.php/analisispracticas/announcement#siteNav
-
-Avisos | Revista Análisis de las Prácticas Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos Avisos Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas…
-
-### Avisos
-
-- Fuente: **Revista Análisis de las Prácticas**
-- País / ciudad: **Argentina / Buenos Aires**
-- Temas: **educación, sociología, política**
-- Puntaje estratégico: **79**
-- Estado: **abierta**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **11 de diciembre de 2026 (2026-12-11)**
-- Enlace: https://portalrevistas.unipe.edu.ar/index.php/analisispracticas/announcement#pkp_content_footer
-
-Avisos | Revista Análisis de las Prácticas Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos Avisos Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas…
-
-### Avisos
-
-- Fuente: **Revista Análisis de las Prácticas**
-- País / ciudad: **Argentina / Buenos Aires**
-- Temas: **educación, sociología, política**
-- Puntaje estratégico: **79**
-- Estado: **abierta**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **11 de diciembre de 2026 (2026-12-11)**
-- Enlace: https://portalrevistas.unipe.edu.ar/index.php/analisispracticas/user/setLocale/es_ES?source=%2Findex.php%2Fanalisispracticas%2Fannouncement
-
-Avisos | Revista Análisis de las Prácticas Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos Avisos Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas…
+Agendas emergentes y enfoques situados en los estudios sobre la evaluación académica y de la investigación: introducción al dosier | Archivos de Ciencias de la Educación Navegación principal Contenido principal Barra lateral Registrarse Entrar Toggle navigation Archivos de Ciencias de la Educación Revistas de la FaHCE Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Historia de la revista…
 
 ### Announcements
 
@@ -283,96 +571,6 @@ DOSSIER TEMÁTICO nº 01/2027- La reforma de la educación secundaria: desafíos
 
 Avisos | Revista Iberoamericana de Educación Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Convocatorias Acerca de Sobre la revista Políticas de la editorial Código ético Equipo editorial Evaluadores 2025 Evaluadores 2024 Envíos Contacto Indexada Suscripción Buscar Boletín de la RIE Entrar Inicio / Avisos Avisos Convocatoria para el monográfico…
 
-### Envíos | Latinoamericana de Estudios Educativos
-
-- Fuente: **Revista Latinoamericana de Estudios Educativos**
-- País / ciudad: **Colombia / Manizales**
-- Temas: **educación, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **68**
-- Estado: **abierta**
-- Cierre: **a una (2027-01-01)**
-- Enlace: https://revistasojs.ucaldas.edu.co/index.php/latinoamericana/about/submissions
-
-Envíos | Latinoamericana de Estudios Educativos toggle menu Registrarse Entrar Inicio Portal Inicio Revista Número actual Números anteriores Acerca de Sobre la revista Equipo editorial Orientación para los autores Políticas éticas Patrocinadores Contacto Métricas, estadísticas y analíticas Métricas locales Estadísticas de la revista Analíticas Tasa de rechazo Convocatorias Próximos números Novedades VICERRECTORÍA…
-
-### Envíos
-
-- Fuente: **Sociohistórica**
-- País / ciudad: **Argentina / La Plata**
-- Temas: **educación, sociología, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **76**
-- Estado: **abierta**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **a una (2027-01-01)**
-- Enlace: https://www.sociohistorica.fahce.unlp.edu.ar/about/submissions
-
-Envíos | Sociohistórica Navegación principal Contenido principal Barra lateral Registrarse Entrar Toggle navigation Sociohistórica Revistas de la FaHCE Actual Avisos Archivos Acerca de Sobre la revista Envíos Equipo editorial Contacto Buscar Inicio Envíos Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para comprobar el estado de los envíos recientes. Ir a Iniciar sesión a…
-
-### Envíos
-
-- Fuente: **Revista SAAP**
-- País / ciudad: **Argentina / Buenos Aires**
-- Temas: **educación, política**
-- Puntaje estratégico: **66**
-- Estado: **abierta**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **a una (2027-01-01)**
-- Enlace: https://revista.saap.org.ar/index.php/revista/about/submissions
-
-Envíos | REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP Buscar Registrarse Entrar Inicio / Envíos Envíos El registro y el inicio de…
-
-### Envíos
-
-- Fuente: **Archivos de Ciencias de la Educación**
-- País / ciudad: **Argentina / La Plata**
-- Temas: **educación, política, humanidades**
-- Puntaje estratégico: **65**
-- Estado: **abierta**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **a una (2027-01-01)**
-- Enlace: https://www.archivosdeciencias.fahce.unlp.edu.ar/about/submissions
-
-Envíos | Archivos de Ciencias de la Educación Navegación principal Contenido principal Barra lateral Registrarse Entrar Toggle navigation Archivos de Ciencias de la Educación Revistas de la FaHCE Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Historia de la revista Contacto Buscar Inicio Envíos Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para…
-
-### Envíos
-
-- Fuente: **De Prácticas y Discursos**
-- País / ciudad: **Argentina / Corrientes**
-- Temas: **educación, sociología, política, ciencias sociales**
-- Puntaje estratégico: **63**
-- Estado: **abierta**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **a una (2027-01-01)**
-- Enlace: https://revistas.unne.edu.ar/index.php/dpd/about/submissions
-
-Envíos | De Prácticas y Discursos Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Envíos Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para comprobar el estado de los envíos…
-
-### Envíos
-
-- Fuente: **Revista Análisis de las Prácticas**
-- País / ciudad: **Argentina / Buenos Aires**
-- Temas: **educación, política**
-- Puntaje estratégico: **55**
-- Estado: **abierta**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **a una (2027-01-01)**
-- Enlace: https://portalrevistas.unipe.edu.ar/index.php/analisispracticas/about/submissions
-
-Envíos | Revista Análisis de las Prácticas Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Envíos Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para comprobar el estado de los…
-
-### Envíos
-
-- Fuente: **Clío y Asociados**
-- País / ciudad: **Argentina / Santa Fe**
-- Temas: **educación, política, humanidades**
-- Puntaje estratégico: **55**
-- Estado: **abierta**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **a una (2027-01-01)**
-- Enlace: https://bibliotecavirtual.unl.edu.ar/publicaciones/index.php/ClioyAsociados/es/about/submissions
-
-Envíos | Clío & Asociados. La historia enseñada Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Clío & Asociados. La historia enseñada Último número Números anteriores Acerca de La Revista Equipo editorial Evaluación Evaluadores Guía de buenas prácticas editoriales Bases de datos e índices Instituciones editoras Para autores Normas editoriales Envíos Llamados y…
-
 ### Propuestas de Dossier Temático
 
 - Fuente: **Revista SAAP**
@@ -385,19 +583,6 @@ Envíos | Clío & Asociados. La historia enseñada Ir al contenido principal Ir 
 - Enlace: https://revista.saap.org.ar/index.php/revista/propuestas-dossier
 
 Propuestas de Dossier Temático | REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP Buscar Registrarse Entrar Inicio / Propuestas de Dossier…
-
-### Convocatoria a Dossier temático “La dimensión colectiva del trabajo docente”
-
-- Fuente: **Revista Análisis de las Prácticas**
-- País / ciudad: **Argentina / Buenos Aires**
-- Temas: **educación, sociología, política**
-- Puntaje estratégico: **76**
-- Estado: **abierta**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **05-06 (2027-05-06)**
-- Enlace: https://portalrevistas.unipe.edu.ar/index.php/analisispracticas/announcement/view/13
-
-Convocatoria a Dossier temático “La dimensión colectiva del trabajo docente” | Revista Análisis de las Prácticas Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos / Convocatoria a Dossier temático “La dimensión…
 
 ### Convocatoria al Dossier Perspectivas y Desafíos en la Investigación Cualitativa: Método y Experiencias.
 
@@ -450,17 +635,104 @@ Convocatoria Dossier temático. La escuela secundaria: problemas, experiencias y
 
 Convocatorias - Facultad de Educación Saltar a contenido principal UNCUYO UNCUYO Facultades | Escuelas | Institutos Secretarías Ingresantes Buscar Buscar Buscar Facultad de Educación Buscar Buscar Institucional Institucional La Facultad Organización Institucional Secretarías y Dependencias Departamento de Comunicación Consejo Directivo Ordenanzas y Resoluciones La Facultad en los medios Plan Estratégico 2030…
 
-### La Incubadora de Empresas UNCuyo abre una nueva convocatoria para transformar ideas en empresas
+### Convocatorias
 
-- Fuente: **Traslaciones / convocatoria UNCuyo**
-- País / ciudad: **Argentina / Mendoza**
-- Temas: **educación, política, humanidades**
-- Puntaje estratégico: **49**
-- Estado: **abierta**
-- Cierre: **25 de octubre (2027-10-25)**
-- Enlace: https://educacion.uncuyo.edu.ar/la-incubadora-de-empresas-uncuyo-abre-una-nueva-convocatoria-para-transformar-ideas-en-empresas
+- Fuente: **Raigal**
+- País / ciudad: **Argentina / Villa María**
+- Temas: **educación, sociología, política, humanidades, ciencias sociales**
+- Puntaje estratégico: **70**
+- Estado: **permanente**
+- Cierre: **y (2026-11-01)**
+- Enlace: https://raigal.unvm.edu.ar/ojs/index.php/raigal/convocatorias
 
-La Incubadora de Empresas UNCuyo abre una nueva convocatoria para transformar ideas en empresas - Facultad de Educación Saltar a contenido principal UNCUYO UNCUYO Facultades | Escuelas | Institutos Secretarías Ingresantes Buscar Buscar Buscar Facultad de Educación Buscar Buscar Institucional Institucional La Facultad Organización Institucional Secretarías y Dependencias Departamento de Comunicación Consejo…
+Convocatorias | Raigal Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Anteriores Acerca de Equipo editorial Sobre la revista Envíos Declaración de privacidad Preservación y archivo Contacto Indexada en... Convocatorias Avisos Buscar Registrarse Entrar Inicio / Convocatorias Convocatorias Llamado para el dossier temático de Raigal N°13 “Inteligencia…
+
+### Sobre la revista
+
+- Fuente: **Cuadernos del CIESAL**
+- País / ciudad: **Argentina / Rosario**
+- Temas: **política, humanidades, ciencias sociales**
+- Puntaje estratégico: **70**
+- Estado: **permanente**
+- Cierre: **y (2026-11-01)**
+- Enlace: https://cuadernosdelciesal.unr.edu.ar/index.php/inicio/about
+
+Sobre la revista | Cuadernos del Ciesal Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Entrar Inicio / Sobre la revista Sobre la revista Enfoque y Alcance Cuadernos del CIESAL es una revista de periodicidad semestral (enero a junio y julio a diciembre) y…
+
+### Anuario de Historia de la Educación
+
+- Fuente: **Historia de la Educación. Anuario**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **educación, sociología, política, humanidades, ciencias sociales**
+- Puntaje estratégico: **78**
+- Estado: **permanente**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **y (2026-11-01)**
+- Enlace: https://www.saiehe.org.ar/anuario/revista
+
+Anuario de Historia de la Educación Historia de la Educación Anuario Investigación Sociedad Argentina de Investigación y Enseñanza en Historia de la Educación Ir al contenido principal Ir al menú de navegación principal Ir al número actual Ir al pie de página del sitio Open Menu Anuario de Historia de la Educación Anuario de Historia de la Educación Actual Archivos Avisos Envíos Política editorial Acceso abierto,…
+
+### Announcements
+
+- Fuente: **Contextos de Educación**
+- País / ciudad: **Argentina / Río Cuarto**
+- Temas: **educación, política**
+- Puntaje estratégico: **68**
+- Estado: **permanente**
+- Cierre: **y (2026-11-01)**
+- Enlace: https://www2.hum.unrc.edu.ar/ojs/index.php/contextos/user/setLocale/en?source=%2Fojs%2Findex.php%2Fcontextos%2Fannouncement
+
+Announcements | CONTEXTOS DE EDUCACION Skip to main content Skip to main navigation menu Skip to site footer Open Menu Current Announcements Archives Submissions Privacy Statement Política de acceso abierto Política de cargos para autores y autoras Licencia y Términos de uso Uso de herramientas de inteligencia artificial About About the Journal Editorial Team Contact Previous issues Search Register Login Home /…
+
+### Sobre la revista
+
+- Fuente: **Delito y Sociedad**
+- País / ciudad: **Argentina / Santa Fe**
+- Temas: **sociología, política, ciencias sociales**
+- Puntaje estratégico: **78**
+- Estado: **permanente**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **y (2026-11-01)**
+- Enlace: https://bibliotecavirtual.unl.edu.ar/publicaciones/index.php/DelitoySociedad/about/index
+
+Sobre la revista | Delito y Sociedad Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Delito y Sociedad Último número Números anteriores Acerca de Sobre la revista Estructura editorial Contacto Indexaciones Envíos Buscar Registrarse Entrar Inicio / Sobre la revista Sobre la revista Delito y Sociedad. Revista de Ciencias Sociales es una publicación semestral,…
+
+### Para autores
+
+- Fuente: **El Taco en la Brea**
+- País / ciudad: **Argentina / Santa Fe**
+- Temas: **política, humanidades**
+- Puntaje estratégico: **64**
+- Estado: **permanente**
+- Cierre: **del a (2026-11-01)**
+- Enlace: https://bibliotecavirtual.unl.edu.ar/publicaciones/index.php/ElTacoenlaBrea/autores/index
+
+Para autores | El Taco en la Brea Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu El Taco en la Brea Último número Números anteriores Acerca de La Revista Buenas Prácticas Editoriales Cabecera editorial Contacto Estructura editorial Para autores Recepción de trabajos Normas de evaluación Indizaciones Buscar Registrarse Entrar Inicio / Para autores Para autores…
+
+### Anúncios
+
+- Fuente: **Revista Exitus**
+- País / ciudad: **Brasil / Santarém**
+- Temas: **educación, política**
+- Puntaje estratégico: **55**
+- Estado: **permanente**
+- Cierre: **2026 (2026-11-01)**
+- Enlace: https://portaldeperiodicos.ufopa.edu.br/index.php/revistaexitus/announcement
+
+Anúncios | Revista Exitus Ir para o conteúdo principal Ir para o menu de navegação principal Ir para o rodapé Open Menu Atual Arquivos Indexadores Avaliadores ad hoc 2026 2025 2024 2023 2022 2021 2020 2019 Template Anúncios Sobre Sobre a Revista Ética e boas práticas na publicação Submissões Equipe Editorial Declaração de Privacidade Contato Buscar Cadastro Acesso Início / Anúncios Anúncios Suspensão de novas…
+
+### Sobre la revista
+
+- Fuente: **Documentos y Aportes en Administración Pública y Gestión Estatal**
+- País / ciudad: **Argentina / Santa Fe**
+- Temas: **política, humanidades, ciencias sociales**
+- Puntaje estratégico: **57**
+- Estado: **permanente**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **y (2026-11-01)**
+- Enlace: https://bibliotecavirtual.unl.edu.ar/publicaciones/index.php/DocumentosyAportes/about/index
+
+Sobre la revista | Documentos y Aportes en Administración Pública y Gestión Estatal Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Documentos y Aportes en Administración Pública y Gestión Estatal Último número Números anteriores Acerca de Sobre la revista Estructura editorial Evaluación Contacto Envíos Avisos Buscar Registrarse Entrar Inicio / Sobre la revista…
 
 ### Historia y sociedad
 
@@ -474,42 +746,6 @@ La Incubadora de Empresas UNCuyo abre una nueva convocatoria para transformar id
 
 Avisos | Historia y sociedad Portal de revistas Universidad Nacional de Colombia Estamos preparando el portal para usted. Nacional / Bibliotecas Sedes UNAL Bogotá Medellín Manizales Palmira La Paz Amazonía Orinoquía Tumaco Caribe Menú Calendario académico Correo institucional Estructura UNAL ♙ Comunidad UNAL Buscar Servicios ES Inglés Portugués Buscar en las revistas UNAL Buscar Inicio Revistas Buscar Bibliotecas…
 
-### Recepción continua para la edición N° 18 de la revista “del Prudente saber…”
-
-- Fuente: **Del prudente Saber**
-- País / ciudad: **Argentina / Paraná**
-- Temas: **dirección escolar, educación, humanidades, ciencias sociales**
-- Puntaje estratégico: **70**
-- Estado: **permanente**
-- Cierre: **diciembre (2026-12-01)**
-- Enlace: https://www.fcedu.uner.edu.ar/recepcion-continua-para-la-edicion-n-18-de-la-revista-del-prudente-saber/
-
-Recepción continua para la edición N° 18 de la revista "del Prudente saber..." - Facultad de Ciencias de la Educación | UNER Saltar al contenido Universidad Nacional de Entre Ríos Facultad de Ciencias de la Educación | UNER Sitio oficial de la Facultad de Ciencias de la Educación Inicio Institucional Carreras Académica Investigación Extensión Estudiantes Buscar: Inicio Institucional Carreras Académica Investigación…
-
-### Sobre la revista
-
-- Fuente: **Cuadernos del CIESAL**
-- País / ciudad: **Argentina / Rosario**
-- Temas: **política, humanidades, ciencias sociales**
-- Puntaje estratégico: **70**
-- Estado: **permanente**
-- Cierre: **December (2026-12-01)**
-- Enlace: https://cuadernosdelciesal.unr.edu.ar/index.php/inicio/about
-
-Sobre la revista | Cuadernos del Ciesal Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Entrar Inicio / Sobre la revista Sobre la revista Enfoque y Alcance Cuadernos del CIESAL es una revista de periodicidad semestral (enero a junio y julio a diciembre) y…
-
-### Anúncios
-
-- Fuente: **Revista Exitus**
-- País / ciudad: **Brasil / Santarém**
-- Temas: **educación, política**
-- Puntaje estratégico: **55**
-- Estado: **permanente**
-- Cierre: **15 (2 (2027-02-15)**
-- Enlace: https://portaldeperiodicos.ufopa.edu.br/index.php/revistaexitus/announcement
-
-Anúncios | Revista Exitus Ir para o conteúdo principal Ir para o menu de navegação principal Ir para o rodapé Open Menu Atual Arquivos Indexadores Avaliadores ad hoc 2026 2025 2024 2023 2022 2021 2020 2019 Template Anúncios Sobre Sobre a Revista Ética e boas práticas na publicação Submissões Equipe Editorial Declaração de Privacidade Contato Buscar Cadastro Acesso Início / Anúncios Anúncios Suspensão de novas…
-
 ### Envíos
 
 - Fuente: **Chuy. Revista de Estudios Literarios Latinoamericanos**
@@ -517,21 +753,10 @@ Anúncios | Revista Exitus Ir para o conteúdo principal Ir para o menu de naveg
 - Temas: **política, humanidades, ciencias sociales**
 - Puntaje estratégico: **67**
 - Estado: **permanente**
-- Cierre: **5000 (5000-10-01)**
+- Cierre: **5000 (5000-11-01)**
 - Enlace: https://revistas.untref.edu.ar/index.php/chuy/about/submissions
 
 Envíos | Chuy. Revista de Estudios Literarios Latinoamericanos Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Pelcc Buscar Buscar Registrarse Entrar Inicio / Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para comprobar el…
-
-### Convocatorias
-
-- Fuente: **Raigal**
-- País / ciudad: **Argentina / Villa María**
-- Temas: **educación, sociología, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **70**
-- Estado: **permanente**
-- Enlace: https://raigal.unvm.edu.ar/ojs/index.php/raigal/convocatorias
-
-Convocatorias | Raigal Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Anteriores Acerca de Equipo editorial Sobre la revista Envíos Declaración de privacidad Preservación y archivo Contacto Indexada en... Convocatorias Avisos Buscar Registrarse Entrar Inicio / Convocatorias Convocatorias Llamado para el dossier temático de Raigal N°13 “Inteligencia…
 
 ### https://fh.mdp.edu.ar/revistas/index.php/r_educ/index
 
@@ -544,49 +769,3 @@ Convocatorias | Raigal Ir al contenido principal Ir al menú de navegación prin
 - Enlace: https://fh.mdp.edu.ar/revistas/index.php/r_educ/index
 
 UNMDP > Facultad de Humanidades > Publicaciones > Revistas Revista de Educación Usuario/a Nombre de usuario/a Contraseña No cerrar sesión Notificaciones Vista Suscribirse Contenido de la revista Buscar Ámbito de la búsqueda Todo Autores/as Título Resumen Términos de la indexación Texto completo Examinar Por número Por autor/a Por título Otras revistas Categorías Palabras clave Argentina aprendizaje didáctica…
-
-### Announcements
-
-- Fuente: **Contextos de Educación**
-- País / ciudad: **Argentina / Río Cuarto**
-- Temas: **educación, política**
-- Puntaje estratégico: **68**
-- Estado: **permanente**
-- Enlace: https://www2.hum.unrc.edu.ar/ojs/index.php/contextos/user/setLocale/en?source=%2Fojs%2Findex.php%2Fcontextos%2Fannouncement
-
-Announcements | CONTEXTOS DE EDUCACION Skip to main content Skip to main navigation menu Skip to site footer Open Menu Current Announcements Archives Submissions Privacy Statement Política de acceso abierto Política de cargos para autores y autoras Licencia y Términos de uso Uso de herramientas de inteligencia artificial About About the Journal Editorial Team Contact Previous issues Search Register Login Home /…
-
-### Sobre la revista
-
-- Fuente: **Delito y Sociedad**
-- País / ciudad: **Argentina / Santa Fe**
-- Temas: **sociología, política, ciencias sociales**
-- Puntaje estratégico: **78**
-- Estado: **permanente**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Enlace: https://bibliotecavirtual.unl.edu.ar/publicaciones/index.php/DelitoySociedad/about/index
-
-Sobre la revista | Delito y Sociedad Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Delito y Sociedad Último número Números anteriores Acerca de Sobre la revista Estructura editorial Contacto Indexaciones Envíos Buscar Registrarse Entrar Inicio / Sobre la revista Sobre la revista Delito y Sociedad. Revista de Ciencias Sociales es una publicación semestral,…
-
-### Para autores
-
-- Fuente: **El Taco en la Brea**
-- País / ciudad: **Argentina / Santa Fe**
-- Temas: **política, humanidades**
-- Puntaje estratégico: **64**
-- Estado: **permanente**
-- Enlace: https://bibliotecavirtual.unl.edu.ar/publicaciones/index.php/ElTacoenlaBrea/autores/index
-
-Para autores | El Taco en la Brea Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu El Taco en la Brea Último número Números anteriores Acerca de La Revista Buenas Prácticas Editoriales Cabecera editorial Contacto Estructura editorial Para autores Recepción de trabajos Normas de evaluación Indizaciones Buscar Registrarse Entrar Inicio / Para autores Para autores…
-
-### Sobre la revista
-
-- Fuente: **Documentos y Aportes en Administración Pública y Gestión Estatal**
-- País / ciudad: **Argentina / Santa Fe**
-- Temas: **política, humanidades, ciencias sociales**
-- Puntaje estratégico: **57**
-- Estado: **permanente**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Enlace: https://bibliotecavirtual.unl.edu.ar/publicaciones/index.php/DocumentosyAportes/about/index
-
-Sobre la revista | Documentos y Aportes en Administración Pública y Gestión Estatal Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Documentos y Aportes en Administración Pública y Gestión Estatal Último número Números anteriores Acerca de Sobre la revista Estructura editorial Evaluación Contacto Envíos Avisos Buscar Registrarse Entrar Inicio / Sobre la revista…
