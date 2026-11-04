@@ -1,6 +1,6 @@
-# Dossier diario de convocatorias | 2026-11-03
+# Dossier diario de convocatorias | 2026-11-04
 
-- Nuevas: **0** | Total relevantes: **50**
+- Nuevas: **0** | Total relevantes: **49**
 
 ## Novedades del día
 
@@ -106,19 +106,6 @@ Avisos | Anuario de Historia de la Educación Historia de la Educación Anuario 
 
 Prórroga del Dossier "Experiencias formativas en la pospandemia: avances y desafíos para las carreras universitarias en salud" | De Prácticas y Discursos Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos / Prórroga…
 
-### Agendas emergentes y enfoques situados en los estudios sobre la evaluación académica y de la investigación: introducción al dosier
-
-- Fuente: **Archivos de Ciencias de la Educación**
-- País / ciudad: **Argentina / La Plata**
-- Temas: **educación, sociología, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **79**
-- Estado: **abierta**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **29 (2026 (2026-11-29)**
-- Enlace: https://www.archivosdeciencias.fahce.unlp.edu.ar/article/view/Archivose181
-
-Agendas emergentes y enfoques situados en los estudios sobre la evaluación académica y de la investigación: introducción al dosier | Archivos de Ciencias de la Educación Navegación principal Contenido principal Barra lateral Registrarse Entrar Toggle navigation Archivos de Ciencias de la Educación Revistas de la FaHCE Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Historia de la revista…
-
 ### REVISTA SAAP
 
 - Fuente: **Revista SAAP**
@@ -127,7 +114,7 @@ Agendas emergentes y enfoques situados en los estudios sobre la evaluación acad
 - Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **29% Días (2026-12-02)**
+- Cierre: **29% Días (2026-12-03)**
 - Enlace: https://revista.saap.org.ar/
 
 REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
@@ -140,7 +127,7 @@ REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir a
 - Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **29% Días (2026-12-02)**
+- Cierre: **29% Días (2026-12-03)**
 - Enlace: https://revista.saap.org.ar/#homepageAnnouncements
 
 REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
@@ -524,18 +511,6 @@ Recepción continua para la edición N° 18 de la revista "del Prudente saber...
 
 Sobre la revista | Cuadernos del Ciesal Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Entrar Inicio / Sobre la revista Sobre la revista Enfoque y Alcance Cuadernos del CIESAL es una revista de periodicidad semestral (enero a junio y julio a diciembre) y…
 
-### Anúncios
-
-- Fuente: **Revista Exitus**
-- País / ciudad: **Brasil / Santarém**
-- Temas: **educación, política**
-- Puntaje estratégico: **55**
-- Estado: **permanente**
-- Cierre: **15 (2 (2027-02-15)**
-- Enlace: https://portaldeperiodicos.ufopa.edu.br/index.php/revistaexitus/announcement
-
-Anúncios | Revista Exitus Ir para o conteúdo principal Ir para o menu de navegação principal Ir para o rodapé Open Menu Atual Arquivos Indexadores Avaliadores ad hoc 2026 2025 2024 2023 2022 2021 2020 2019 Template Anúncios Sobre Sobre a Revista Ética e boas práticas na publicação Submissões Equipe Editorial Declaração de Privacidade Contato Buscar Cadastro Acesso Início / Anúncios Anúncios Suspensão de novas…
-
 ### Envíos
 
 - Fuente: **Chuy. Revista de Estudios Literarios Latinoamericanos**
@@ -616,6 +591,17 @@ Sobre la revista | Delito y Sociedad Ir al contenido principal Ir al menú de na
 - Enlace: https://bibliotecavirtual.unl.edu.ar/publicaciones/index.php/ElTacoenlaBrea/autores/index
 
 Para autores | El Taco en la Brea Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu El Taco en la Brea Último número Números anteriores Acerca de La Revista Buenas Prácticas Editoriales Cabecera editorial Contacto Estructura editorial Para autores Recepción de trabajos Normas de evaluación Indizaciones Buscar Registrarse Entrar Inicio / Para autores Para autores…
+
+### Anúncios
+
+- Fuente: **Revista Exitus**
+- País / ciudad: **Brasil / Santarém**
+- Temas: **educación, política**
+- Puntaje estratégico: **55**
+- Estado: **permanente**
+- Enlace: https://portaldeperiodicos.ufopa.edu.br/index.php/revistaexitus/announcement
+
+Anúncios | Revista Exitus Ir para o conteúdo principal Ir para o menu de navegação principal Ir para o rodapé Open Menu Atual Arquivos Indexadores Avaliadores ad hoc 2026 2025 2024 2023 2022 2021 2020 2019 Template Anúncios Sobre Sobre a Revista Ética e boas práticas na publicação Submissões Equipe Editorial Declaração de Privacidade Contato Buscar Cadastro Acesso Início / Anúncios Anúncios Suspensão de novas…
 
 ### Sobre la revista
 
