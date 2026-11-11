@@ -1,25 +1,12 @@
-# Dossier diario de convocatorias | 2026-11-10
+# Dossier diario de convocatorias | 2026-11-11
 
-- Nuevas: **0** | Total relevantes: **50**
+- Nuevas: **0** | Total relevantes: **51**
 
 ## Novedades del día
 
 No aparecieron convocatorias nuevas respecto del historial guardado.
 
 ## Convocatorias de esta corrida
-
-### Avisos
-
-- Fuente: **Historia de la Educación. Anuario**
-- País / ciudad: **Argentina / Buenos Aires**
-- Temas: **educación, sociología, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **82**
-- Estado: **abierta**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **11/11 (2026-11-11)**
-- Enlace: https://www.saiehe.org.ar/anuario/revista/announcement
-
-Avisos | Anuario de Historia de la Educación Historia de la Educación Anuario Investigación Sociedad Argentina de Investigación y Enseñanza en Historia de la Educación Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Anuario de Historia de la Educación Actual Archivos Avisos Envíos Política editorial Acceso abierto, derechos de autor y gratuidad Revisión por pares…
 
 ### Envíos
 
@@ -31,7 +18,7 @@ Avisos | Anuario de Historia de la Educación Historia de la Educación Anuario 
 - Cierre: **su (2026-11-15)**
 - Enlace: https://seer.ufrgs.br/index.php/Poled/about/submissions
 
-Envíos | Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Envíos Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para comprobar el estado de los envíos…
+Envíos | Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Entrar Inicio / Envíos Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para comprobar el estado de los envíos recientes.…
 
 ### Prórroga del Dossier "Experiencias formativas en la pospandemia: avances y desafíos para las carreras universitarias en salud"
 
@@ -106,6 +93,19 @@ Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colo
 
 Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colombia Estamos preparando el portal para usted. Nacional / Bibliotecas Sedes UNAL Bogotá Medellín Manizales Palmira La Paz Amazonía Orinoquía Tumaco Caribe Menú Calendario académico Correo institucional Estructura UNAL ♙ Comunidad UNAL Buscar Servicios PT_BR Inglês Espanhol Buscar en las revistas UNAL Buscar Inicio Revistas Buscar…
 
+### Avisos
+
+- Fuente: **Historia de la Educación. Anuario**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **educación, sociología, política, humanidades, ciencias sociales**
+- Puntaje estratégico: **82**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **25/11 (2026-11-25)**
+- Enlace: https://www.saiehe.org.ar/anuario/revista/announcement
+
+Avisos | Anuario de Historia de la Educación Historia de la Educación Anuario Investigación Sociedad Argentina de Investigación y Enseñanza en Historia de la Educación Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Anuario de Historia de la Educación Actual Archivos Avisos Envíos Política editorial Acceso abierto, derechos de autor y gratuidad Revisión por pares…
+
 ### Resultados para "convocatoria"
 
 - Fuente: **Traslaciones / convocatoria UNCuyo**
@@ -126,7 +126,7 @@ Facultad de Educación Saltar a contenido principal UNCUYO UNCUYO Facultades | E
 - Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **29% Días (2026-12-09)**
+- Cierre: **29% Días (2026-12-10)**
 - Enlace: https://revista.saap.org.ar/
 
 REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
@@ -139,7 +139,7 @@ REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir a
 - Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **29% Días (2026-12-09)**
+- Cierre: **29% Días (2026-12-10)**
 - Enlace: https://revista.saap.org.ar/#homepageAnnouncements
 
 REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
@@ -258,7 +258,7 @@ Anúncios | Revista Análisis de las Prácticas Ir para o conteúdo principal Ir
 - Cierre: **01/2027 (2027-01-01)**
 - Enlace: https://seer.ufrgs.br/poled
 
-Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos DOSSIER TEMÁTICO nº 01/2027- La reforma de la educación secundaria: desafíos y…
+Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Entrar Avisos DOSSIER TEMÁTICO nº 01/2027- La reforma de la educación secundaria: desafíos y…
 
 ### Políticas Educativas – PolEd
 
@@ -270,7 +270,7 @@ Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegac
 - Cierre: **01/2027 (2027-01-01)**
 - Enlace: https://seer.ufrgs.br/poled#homepageAnnouncements
 
-Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Avisos DOSSIER TEMÁTICO nº 01/2027- La reforma de la educación secundaria: desafíos y…
+Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu Políticas Educativas – PolEd Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Entrar Avisos DOSSIER TEMÁTICO nº 01/2027- La reforma de la educación secundaria: desafíos y…
 
 ### Avisos
 
@@ -282,7 +282,7 @@ Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegac
 - Cierre: **01/2027 (2027-01-01)**
 - Enlace: https://seer.ufrgs.br/index.php/Poled/announcement
 
-Avisos | Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos Avisos DOSSIER TEMÁTICO nº 01/2027- La reforma de la educación secundaria: desafíos y contradicciones 2026-10-29 COMITÉ…
+Avisos | Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Entrar Inicio / Avisos Avisos DOSSIER TEMÁTICO nº 01/2027- La reforma de la educación secundaria: desafíos y contradicciones 2026-10-29 COMITÉ ORGANIZADOR Dra.…
 
 ### DOSSIER TEMÁTICO nº 01/2027- La reforma de la educación secundaria: desafíos y contradicciones
 
@@ -294,7 +294,7 @@ Avisos | Políticas Educativas – PolEd Ir al contenido principal Ir al menú d
 - Cierre: **01/2027 (2027-01-01)**
 - Enlace: https://seer.ufrgs.br/index.php/Poled/announcement/view/2258
 
-DOSSIER TEMÁTICO nº 01/2027- La reforma de la educación secundaria: desafíos y contradicciones | Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos / DOSSIER TEMÁTICO nº 01/2027- La…
+DOSSIER TEMÁTICO nº 01/2027- La reforma de la educación secundaria: desafíos y contradicciones | Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Entrar Inicio / Avisos / DOSSIER TEMÁTICO nº 01/2027- La reforma de la…
 
 ### Avisos
 
@@ -487,6 +487,18 @@ Convocatorias - Facultad de Educación Saltar a contenido principal UNCUYO UNCUY
 
 La Incubadora de Empresas UNCuyo abre una nueva convocatoria para transformar ideas en empresas - Facultad de Educación Saltar a contenido principal UNCUYO UNCUYO Facultades | Escuelas | Institutos Secretarías Ingresantes Buscar Buscar Buscar Facultad de Educación Buscar Buscar Institucional Institucional La Facultad Organización Institucional Secretarías y Dependencias Departamento de Comunicación Consejo…
 
+### ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años
+
+- Fuente: **Políticas Educativas – PolEd**
+- País / ciudad: **Brasil / Porto Alegre**
+- Temas: **educación, política, humanidades, ciencias sociales**
+- Puntaje estratégico: **65**
+- Estado: **abierta**
+- Cierre: **2006–2026: 20 años (2046-11-01)**
+- Enlace: https://seer.ufrgs.br/index.php/Poled/announcement/view/2254
+
+¡Feliz cumpleaños, PolEd! 2006–2026: 20 años | Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Entrar Inicio / Avisos / ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años 2026-10-01…
+
 ### Historia y sociedad
 
 - Fuente: **Historia y Sociedad**
@@ -535,17 +547,6 @@ Sobre la revista | Cuadernos del Ciesal Ir al contenido principal Ir al menú de
 
 Envíos | Chuy. Revista de Estudios Literarios Latinoamericanos Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Pelcc Buscar Buscar Registrarse Entrar Inicio / Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para comprobar el…
 
-### Convocatorias
-
-- Fuente: **Raigal**
-- País / ciudad: **Argentina / Villa María**
-- Temas: **educación, sociología, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **70**
-- Estado: **permanente**
-- Enlace: https://raigal.unvm.edu.ar/ojs/index.php/raigal/convocatorias
-
-Convocatorias | Raigal Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Anteriores Acerca de Equipo editorial Sobre la revista Envíos Declaración de privacidad Preservación y archivo Contacto Indexada en... Convocatorias Avisos Buscar Registrarse Entrar Inicio / Convocatorias Convocatorias Llamado para el dossier temático de Raigal N°13 “Inteligencia…
-
 ### https://fh.mdp.edu.ar/revistas/index.php/r_educ/index
 
 - Fuente: **Revista de educación (Mar del Plata)**
@@ -556,7 +557,18 @@ Convocatorias | Raigal Ir al contenido principal Ir al menú de navegación prin
 - Calidad: **NBRA** · CAICYT-CONICET
 - Enlace: https://fh.mdp.edu.ar/revistas/index.php/r_educ/index
 
-UNMDP > Facultad de Humanidades > Publicaciones > Revistas Revista de Educación Usuario/a Nombre de usuario/a Contraseña No cerrar sesión Notificaciones Vista Suscribirse Contenido de la revista Buscar Ámbito de la búsqueda Todo Autores/as Título Resumen Términos de la indexación Texto completo Examinar Por número Por autor/a Por título Otras revistas Categorías Palabras clave Argentina aprendizaje didáctica…
+UNMDP > Facultad de Humanidades > Publicaciones > Revistas Revista de Educación Usuario/a Nombre de usuario/a Contraseña No cerrar sesión Notificaciones Vista Suscribirse Contenido de la revista Buscar Ámbito de la búsqueda Todo Autores/as Título Resumen Términos de la indexación Texto completo Examinar Por número Por autor/a Por título Otras revistas Categorías Palabras clave aprendizaje didáctica docencia…
+
+### Convocatorias
+
+- Fuente: **Raigal**
+- País / ciudad: **Argentina / Villa María**
+- Temas: **educación, sociología, política, humanidades, ciencias sociales**
+- Puntaje estratégico: **70**
+- Estado: **permanente**
+- Enlace: https://raigal.unvm.edu.ar/ojs/index.php/raigal/convocatorias
+
+Convocatorias | Raigal Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Anteriores Acerca de Equipo editorial Sobre la revista Envíos Declaración de privacidad Preservación y archivo Contacto Indexada en... Convocatorias Avisos Buscar Registrarse Entrar Inicio / Convocatorias Convocatorias Llamado para el dossier temático de Raigal N°13 “Inteligencia…
 
 ### Anuario de Historia de la Educación
 
