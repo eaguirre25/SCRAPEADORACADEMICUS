@@ -1,6 +1,6 @@
-# Dossier diario de convocatorias | 2026-11-11
+# Dossier diario de convocatorias | 2026-11-12
 
-- Nuevas: **0** | Total relevantes: **51**
+- Nuevas: **0** | Total relevantes: **48**
 
 ## Novedades del día
 
@@ -93,19 +93,6 @@ Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colo
 
 Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colombia Estamos preparando el portal para usted. Nacional / Bibliotecas Sedes UNAL Bogotá Medellín Manizales Palmira La Paz Amazonía Orinoquía Tumaco Caribe Menú Calendario académico Correo institucional Estructura UNAL ♙ Comunidad UNAL Buscar Servicios PT_BR Inglês Espanhol Buscar en las revistas UNAL Buscar Inicio Revistas Buscar…
 
-### Avisos
-
-- Fuente: **Historia de la Educación. Anuario**
-- País / ciudad: **Argentina / Buenos Aires**
-- Temas: **educación, sociología, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **82**
-- Estado: **abierta**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **25/11 (2026-11-25)**
-- Enlace: https://www.saiehe.org.ar/anuario/revista/announcement
-
-Avisos | Anuario de Historia de la Educación Historia de la Educación Anuario Investigación Sociedad Argentina de Investigación y Enseñanza en Historia de la Educación Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Anuario de Historia de la Educación Actual Archivos Avisos Envíos Política editorial Acceso abierto, derechos de autor y gratuidad Revisión por pares…
-
 ### Resultados para "convocatoria"
 
 - Fuente: **Traslaciones / convocatoria UNCuyo**
@@ -117,32 +104,6 @@ Avisos | Anuario de Historia de la Educación Historia de la Educación Anuario 
 - Enlace: https://educacion.uncuyo.edu.ar/buscar_tag/index/?tag=convocatoria
 
 Facultad de Educación Saltar a contenido principal UNCUYO UNCUYO Facultades | Escuelas | Institutos Secretarías Ingresantes Buscar Buscar Buscar Facultad de Educación Buscar Buscar Institucional Institucional La Facultad Organización Institucional Secretarías y Dependencias Departamento de Comunicación Consejo Directivo Ordenanzas y Resoluciones La Facultad en los medios Plan Estratégico 2030 Carreras Carreras…
-
-### REVISTA SAAP
-
-- Fuente: **Revista SAAP**
-- País / ciudad: **Argentina / Buenos Aires**
-- Temas: **sociología, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **79**
-- Estado: **abierta**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **29% Días (2026-12-10)**
-- Enlace: https://revista.saap.org.ar/
-
-REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
-
-### REVISTA SAAP
-
-- Fuente: **Revista SAAP**
-- País / ciudad: **Argentina / Buenos Aires**
-- Temas: **sociología, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **79**
-- Estado: **abierta**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **29% Días (2026-12-10)**
-- Enlace: https://revista.saap.org.ar/#homepageAnnouncements
-
-REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
 
 ### Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas educativas”
 
@@ -248,6 +209,32 @@ Announcements | Revista Análisis de las Prácticas Skip to main content Skip to
 
 Anúncios | Revista Análisis de las Prácticas Ir para o conteúdo principal Ir para o menu de navegação principal Ir para o rodapé Open Menu Atual Arquivos Anúncios Sobre Sobre a Revista Submissões Equipe Editorial Declaração de Privacidade Contato Buscar Cadastro Acesso Início / Anúncios Anúncios Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas…
 
+### REVISTA SAAP
+
+- Fuente: **Revista SAAP**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **sociología, política, humanidades, ciencias sociales**
+- Puntaje estratégico: **79**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **29% Días (2026-12-11)**
+- Enlace: https://revista.saap.org.ar/
+
+REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
+
+### REVISTA SAAP
+
+- Fuente: **Revista SAAP**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **sociología, política, humanidades, ciencias sociales**
+- Puntaje estratégico: **79**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **29% Días (2026-12-11)**
+- Enlace: https://revista.saap.org.ar/#homepageAnnouncements
+
+REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
+
 ### Políticas Educativas – PolEd
 
 - Fuente: **Políticas Educativas – PolEd**
@@ -295,18 +282,6 @@ Avisos | Políticas Educativas – PolEd Ir al contenido principal Ir al menú d
 - Enlace: https://seer.ufrgs.br/index.php/Poled/announcement/view/2258
 
 DOSSIER TEMÁTICO nº 01/2027- La reforma de la educación secundaria: desafíos y contradicciones | Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Entrar Inicio / Avisos / DOSSIER TEMÁTICO nº 01/2027- La reforma de la…
-
-### Avisos
-
-- Fuente: **Revista Iberoamericana de Educación**
-- País / ciudad: **España / Madrid**
-- Temas: **educación, política, ciencias sociales**
-- Puntaje estratégico: **68**
-- Estado: **abierta**
-- Cierre: **ene (2027-01-01)**
-- Enlace: https://rieoei.org/RIE/announcement
-
-Avisos | Revista Iberoamericana de Educación Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Convocatorias Acerca de Sobre la revista Políticas de la editorial Código ético Equipo editorial Evaluadores 2025 Evaluadores 2024 Envíos Contacto Indexada Suscripción Buscar Boletín de la RIE Entrar Inicio / Avisos Avisos Convocatoria para el monográfico…
 
 ### Envíos | Latinoamericana de Estudios Educativos
 
@@ -569,18 +544,6 @@ UNMDP > Facultad de Humanidades > Publicaciones > Revistas Revista de Educación
 - Enlace: https://raigal.unvm.edu.ar/ojs/index.php/raigal/convocatorias
 
 Convocatorias | Raigal Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Anteriores Acerca de Equipo editorial Sobre la revista Envíos Declaración de privacidad Preservación y archivo Contacto Indexada en... Convocatorias Avisos Buscar Registrarse Entrar Inicio / Convocatorias Convocatorias Llamado para el dossier temático de Raigal N°13 “Inteligencia…
-
-### Anuario de Historia de la Educación
-
-- Fuente: **Historia de la Educación. Anuario**
-- País / ciudad: **Argentina / Buenos Aires**
-- Temas: **educación, sociología, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **78**
-- Estado: **permanente**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Enlace: https://www.saiehe.org.ar/anuario/revista
-
-Anuario de Historia de la Educación Historia de la Educación Anuario Investigación Sociedad Argentina de Investigación y Enseñanza en Historia de la Educación Ir al contenido principal Ir al menú de navegación principal Ir al número actual Ir al pie de página del sitio Open Menu Anuario de Historia de la Educación Anuario de Historia de la Educación Actual Archivos Avisos Envíos Política editorial Acceso abierto,…
 
 ### Announcements
 
