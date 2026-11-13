@@ -1,4 +1,4 @@
-# Dossier diario de convocatorias | 2026-11-12
+# Dossier diario de convocatorias | 2026-11-13
 
 - Nuevas: **0** | Total relevantes: **48**
 
@@ -217,7 +217,7 @@ Anúncios | Revista Análisis de las Prácticas Ir para o conteúdo principal Ir
 - Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **29% Días (2026-12-11)**
+- Cierre: **29% Días (2026-12-12)**
 - Enlace: https://revista.saap.org.ar/
 
 REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
@@ -230,7 +230,7 @@ REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir a
 - Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **29% Días (2026-12-11)**
+- Cierre: **29% Días (2026-12-12)**
 - Enlace: https://revista.saap.org.ar/#homepageAnnouncements
 
 REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
@@ -508,7 +508,7 @@ Recepción continua para la edición N° 18 de la revista "del Prudente saber...
 - Cierre: **December (2026-12-01)**
 - Enlace: https://cuadernosdelciesal.unr.edu.ar/index.php/inicio/about
 
-Sobre la revista | Cuadernos del Ciesal Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Entrar Inicio / Sobre la revista Sobre la revista Enfoque y Alcance Cuadernos del CIESAL es una revista de periodicidad semestral (enero a junio y julio a diciembre) y…
+Sobre la revista | Cuadernos del Ciesal Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Acerca de Sobre la revista Envíos Cabecera editorial Declaración de privacidad Contacto Buscar Entrar Inicio / Sobre la revista Sobre la revista Enfoque y Alcance Cuadernos del CIESAL es una revista de periodicidad semestral (enero a junio y julio a diciembre)…
 
 ### Envíos
 
