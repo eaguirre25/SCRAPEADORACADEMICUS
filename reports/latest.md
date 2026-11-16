@@ -1,25 +1,12 @@
-# Dossier diario de convocatorias | 2026-11-15
+# Dossier diario de convocatorias | 2026-11-16
 
-- Nuevas: **0** | Total relevantes: **49**
+- Nuevas: **0** | Total relevantes: **48**
 
 ## Novedades del día
 
 No aparecieron convocatorias nuevas respecto del historial guardado.
 
 ## Convocatorias de esta corrida
-
-### Prórroga del Dossier "Experiencias formativas en la pospandemia: avances y desafíos para las carreras universitarias en salud"
-
-- Fuente: **De Prácticas y Discursos**
-- País / ciudad: **Argentina / Corrientes**
-- Temas: **educación, sociología, humanidades, ciencias sociales**
-- Puntaje estratégico: **82**
-- Estado: **abierta**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **15 de noviembre del 2026 (2026-11-15)**
-- Enlace: https://revistas.unne.edu.ar/index.php/dpd/announcement/view/34
-
-Prórroga del Dossier "Experiencias formativas en la pospandemia: avances y desafíos para las carreras universitarias en salud" | De Prácticas y Discursos Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos / Prórroga…
 
 ### Envíos
 
@@ -65,18 +52,6 @@ Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colo
 - Puntaje estratégico: **66**
 - Estado: **abierta**
 - Cierre: **do (2026-11-22)**
-- Enlace: https://revistas.unal.edu.co/index.php/hisysoc/about/submissions#authorGuidelines
-
-Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colombia Estamos preparando el portal para usted. Nacional / Bibliotecas Sedes UNAL Bogotá Medellín Manizales Palmira La Paz Amazonía Orinoquía Tumaco Caribe Menú Calendario académico Correo institucional Estructura UNAL ♙ Comunidad UNAL Buscar Servicios PT_BR Inglês Espanhol Buscar en las revistas UNAL Buscar Inicio Revistas Buscar…
-
-### Historia y sociedad
-
-- Fuente: **Historia y Sociedad**
-- País / ciudad: **Colombia / Medellín**
-- Temas: **sociología, política, humanidades**
-- Puntaje estratégico: **66**
-- Estado: **abierta**
-- Cierre: **do (2026-11-22)**
 - Enlace: https://revistas.unal.edu.co/index.php/hisysoc/about/submissions#privacyStatement
 
 Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colombia Estamos preparando el portal para usted. Nacional / Bibliotecas Sedes UNAL Bogotá Medellín Manizales Palmira La Paz Amazonía Orinoquía Tumaco Caribe Menú Calendario académico Correo institucional Estructura UNAL ♙ Comunidad UNAL Buscar Servicios PT_BR Inglês Espanhol Buscar en las revistas UNAL Buscar Inicio Revistas Buscar…
@@ -93,12 +68,37 @@ Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colo
 
 Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colombia Estamos preparando el portal para usted. Nacional / Bibliotecas Sedes UNAL Bogotá Medellín Manizales Palmira La Paz Amazonía Orinoquía Tumaco Caribe Menú Calendario académico Correo institucional Estructura UNAL ♙ Comunidad UNAL Buscar Servicios PT_BR Inglês Espanhol Buscar en las revistas UNAL Buscar Inicio Revistas Buscar…
 
+### Historia y sociedad
+
+- Fuente: **Historia y Sociedad**
+- País / ciudad: **Colombia / Medellín**
+- Temas: **sociología, política, humanidades**
+- Puntaje estratégico: **66**
+- Estado: **abierta**
+- Cierre: **do (2026-11-22)**
+- Enlace: https://revistas.unal.edu.co/index.php/hisysoc/about/submissions#authorGuidelines
+
+Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colombia Estamos preparando el portal para usted. Nacional / Bibliotecas Sedes UNAL Bogotá Medellín Manizales Palmira La Paz Amazonía Orinoquía Tumaco Caribe Menú Calendario académico Correo institucional Estructura UNAL ♙ Comunidad UNAL Buscar Servicios PT_BR Inglês Espanhol Buscar en las revistas UNAL Buscar Inicio Revistas Buscar…
+
+### Avisos
+
+- Fuente: **Historia de la Educación. Anuario**
+- País / ciudad: **Argentina / Buenos Aires**
+- Temas: **educación, sociología, política, humanidades, ciencias sociales**
+- Puntaje estratégico: **82**
+- Estado: **abierta**
+- Calidad: **NBRA** · CAICYT-CONICET
+- Cierre: **25/11 (2026-11-25)**
+- Enlace: https://www.saiehe.org.ar/anuario/revista/announcement
+
+Avisos | Anuario de Historia de la Educación Historia de la Educación Anuario Investigación Sociedad Argentina de Investigación y Enseñanza en Historia de la Educación Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Anuario de Historia de la Educación Actual Archivos Avisos Envíos Política editorial Acceso abierto, derechos de autor y gratuidad Revisión por pares…
+
 ### Resultados para "convocatoria"
 
 - Fuente: **Traslaciones / convocatoria UNCuyo**
 - País / ciudad: **Argentina / Mendoza**
 - Temas: **educación, política, humanidades**
-- Puntaje estratégico: **60**
+- Puntaje estratégico: **63**
 - Estado: **abierta**
 - Cierre: **lunes 30 de noviembre a (2026-11-30)**
 - Enlace: https://educacion.uncuyo.edu.ar/buscar_tag/index/?tag=convocatoria
@@ -217,7 +217,7 @@ Anúncios | Revista Análisis de las Prácticas Ir para o conteúdo principal Ir
 - Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **29% Días (2026-12-14)**
+- Cierre: **29% Días (2026-12-15)**
 - Enlace: https://revista.saap.org.ar/
 
 REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
@@ -230,7 +230,7 @@ REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir a
 - Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **29% Días (2026-12-14)**
+- Cierre: **29% Días (2026-12-15)**
 - Enlace: https://revista.saap.org.ar/#homepageAnnouncements
 
 REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
@@ -474,18 +474,6 @@ La Incubadora de Empresas UNCuyo abre una nueva convocatoria para transformar id
 
 ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años | Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Entrar Inicio / Avisos / ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años 2026-10-01…
 
-### Historia y sociedad
-
-- Fuente: **Historia y Sociedad**
-- País / ciudad: **Colombia / Medellín**
-- Temas: **sociología, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **70**
-- Estado: **permanente**
-- Cierre: **16 de noviembre de 2026 (2026-11-16)**
-- Enlace: https://revistas.unal.edu.co/index.php/hisysoc/announcement
-
-Avisos | Historia y sociedad Portal de revistas Universidad Nacional de Colombia Estamos preparando el portal para usted. Nacional / Bibliotecas Sedes UNAL Bogotá Medellín Manizales Palmira La Paz Amazonía Orinoquía Tumaco Caribe Menú Calendario académico Correo institucional Estructura UNAL ♙ Comunidad UNAL Buscar Servicios ES Inglés Portugués Buscar en las revistas UNAL Buscar Inicio Revistas Buscar Bibliotecas…
-
 ### Recepción continua para la edición N° 18 de la revista “del Prudente saber…”
 
 - Fuente: **Del prudente Saber**
@@ -497,18 +485,6 @@ Avisos | Historia y sociedad Portal de revistas Universidad Nacional de Colombia
 - Enlace: https://www.fcedu.uner.edu.ar/recepcion-continua-para-la-edicion-n-18-de-la-revista-del-prudente-saber/
 
 Recepción continua para la edición N° 18 de la revista "del Prudente saber..." - Facultad de Ciencias de la Educación | UNER Saltar al contenido Universidad Nacional de Entre Ríos Facultad de Ciencias de la Educación | UNER Sitio oficial de la Facultad de Ciencias de la Educación Inicio Institucional Carreras Académica Investigación Extensión Estudiantes Buscar: Inicio Institucional Carreras Académica Investigación…
-
-### Sobre la revista
-
-- Fuente: **Cuadernos del CIESAL**
-- País / ciudad: **Argentina / Rosario**
-- Temas: **política, humanidades, ciencias sociales**
-- Puntaje estratégico: **70**
-- Estado: **permanente**
-- Cierre: **December (2026-12-01)**
-- Enlace: https://cuadernosdelciesal.unr.edu.ar/index.php/inicio/about
-
-Sobre la revista | Cuadernos del Ciesal Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Acerca de Sobre la revista Envíos Cabecera editorial Declaración de privacidad Contacto Buscar Entrar Inicio / Sobre la revista Sobre la revista Enfoque y Alcance Cuadernos del CIESAL es una revista de periodicidad semestral (enero a junio y julio a diciembre)…
 
 ### Envíos
 
@@ -556,6 +532,17 @@ Convocatorias | Raigal Ir al contenido principal Ir al menú de navegación prin
 - Enlace: https://www.saiehe.org.ar/anuario/revista
 
 Anuario de Historia de la Educación Historia de la Educación Anuario Investigación Sociedad Argentina de Investigación y Enseñanza en Historia de la Educación Ir al contenido principal Ir al menú de navegación principal Ir al número actual Ir al pie de página del sitio Open Menu Anuario de Historia de la Educación Anuario de Historia de la Educación Actual Archivos Avisos Envíos Política editorial Acceso abierto,…
+
+### Historia y sociedad
+
+- Fuente: **Historia y Sociedad**
+- País / ciudad: **Colombia / Medellín**
+- Temas: **educación, sociología, política, humanidades, ciencias sociales**
+- Puntaje estratégico: **70**
+- Estado: **permanente**
+- Enlace: https://revistas.unal.edu.co/index.php/hisysoc/announcement
+
+Avisos | Historia y sociedad Portal de revistas Universidad Nacional de Colombia Estamos preparando el portal para usted. Nacional / Bibliotecas Sedes UNAL Bogotá Medellín Manizales Palmira La Paz Amazonía Orinoquía Tumaco Caribe Menú Calendario académico Correo institucional Estructura UNAL ♙ Comunidad UNAL Buscar Servicios ES Inglés Portugués Buscar en las revistas UNAL Buscar Inicio Revistas Buscar Bibliotecas…
 
 ### Announcements
 
