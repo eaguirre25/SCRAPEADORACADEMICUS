@@ -1,4 +1,4 @@
-# Dossier diario de convocatorias | 2026-11-16
+# Dossier diario de convocatorias | 2026-11-17
 
 - Nuevas: **0** | Total relevantes: **48**
 
@@ -19,18 +19,6 @@ No aparecieron convocatorias nuevas respecto del historial guardado.
 - Enlace: https://seer.ufrgs.br/index.php/Poled/about/submissions
 
 Envíos | Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Entrar Inicio / Envíos Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para comprobar el estado de los envíos recientes.…
-
-### Submissão
-
-- Fuente: **Educação em Revista**
-- País / ciudad: **Brasil / Belo Horizonte**
-- Temas: **educación, política**
-- Puntaje estratégico: **64**
-- Estado: **abierta**
-- Cierre: **de do (2026-11-22)**
-- Enlace: https://periodicos.ufmg.br/index.php/edrevista/about/submissions
-
-Submissão | Educação em Revista Ir para o conteúdo principal Ir para o menu de navegação principal Ir para o rodapé Open Menu Sobre Histórico Comissão Editorial Política Editorial Atual Edições anteriores Submissões Templates Edições para impressão Notícias Contato Pareceristas Ad Hoc Buscar Cadastro Acesso Início / Submissão Submissão O cadastro no sistema e posterior acesso, por meio de login e senha, são…
 
 ### Historia y sociedad
 
@@ -217,7 +205,7 @@ Anúncios | Revista Análisis de las Prácticas Ir para o conteúdo principal Ir
 - Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **29% Días (2026-12-15)**
+- Cierre: **29% Días (2026-12-16)**
 - Enlace: https://revista.saap.org.ar/
 
 REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
@@ -230,7 +218,7 @@ REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir a
 - Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **29% Días (2026-12-15)**
+- Cierre: **29% Días (2026-12-16)**
 - Enlace: https://revista.saap.org.ar/#homepageAnnouncements
 
 REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
@@ -240,7 +228,7 @@ REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir a
 - Fuente: **Políticas Educativas – PolEd**
 - País / ciudad: **Brasil / Porto Alegre**
 - Temas: **educación, sociología, política, ciencias sociales**
-- Puntaje estratégico: **68**
+- Puntaje estratégico: **71**
 - Estado: **abierta**
 - Cierre: **01/2027 (2027-01-01)**
 - Enlace: https://seer.ufrgs.br/poled
@@ -252,7 +240,7 @@ Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegac
 - Fuente: **Políticas Educativas – PolEd**
 - País / ciudad: **Brasil / Porto Alegre**
 - Temas: **educación, sociología, política, ciencias sociales**
-- Puntaje estratégico: **68**
+- Puntaje estratégico: **71**
 - Estado: **abierta**
 - Cierre: **01/2027 (2027-01-01)**
 - Enlace: https://seer.ufrgs.br/poled#homepageAnnouncements
@@ -264,7 +252,7 @@ Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegac
 - Fuente: **Políticas Educativas – PolEd**
 - País / ciudad: **Brasil / Porto Alegre**
 - Temas: **educación, política, ciencias sociales**
-- Puntaje estratégico: **68**
+- Puntaje estratégico: **71**
 - Estado: **abierta**
 - Cierre: **01/2027 (2027-01-01)**
 - Enlace: https://seer.ufrgs.br/index.php/Poled/announcement
@@ -276,7 +264,7 @@ Avisos | Políticas Educativas – PolEd Ir al contenido principal Ir al menú d
 - Fuente: **Políticas Educativas – PolEd**
 - País / ciudad: **Brasil / Porto Alegre**
 - Temas: **educación, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **68**
+- Puntaje estratégico: **71**
 - Estado: **abierta**
 - Cierre: **01/2027 (2027-01-01)**
 - Enlace: https://seer.ufrgs.br/index.php/Poled/announcement/view/2258
@@ -288,7 +276,7 @@ DOSSIER TEMÁTICO nº 01/2027- La reforma de la educación secundaria: desafíos
 - Fuente: **Revista Latinoamericana de Estudios Educativos**
 - País / ciudad: **Colombia / Manizales**
 - Temas: **educación, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **68**
+- Puntaje estratégico: **71**
 - Estado: **abierta**
 - Cierre: **a una (2027-01-01)**
 - Enlace: https://revistasojs.ucaldas.edu.co/index.php/latinoamericana/about/submissions
@@ -300,7 +288,7 @@ Envíos | Latinoamericana de Estudios Educativos toggle menu Registrarse Entrar 
 - Fuente: **Sociohistórica**
 - País / ciudad: **Argentina / La Plata**
 - Temas: **educación, sociología, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **76**
+- Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
 - Cierre: **a una (2027-01-01)**
@@ -313,7 +301,7 @@ Envíos | Sociohistórica Navegación principal Contenido principal Barra latera
 - Fuente: **Revista SAAP**
 - País / ciudad: **Argentina / Buenos Aires**
 - Temas: **educación, política**
-- Puntaje estratégico: **66**
+- Puntaje estratégico: **69**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
 - Cierre: **a una (2027-01-01)**
@@ -326,7 +314,7 @@ Envíos | REVISTA SAAP Ir al contenido principal Ir al menú de navegación prin
 - Fuente: **Archivos de Ciencias de la Educación**
 - País / ciudad: **Argentina / La Plata**
 - Temas: **educación, política, humanidades**
-- Puntaje estratégico: **65**
+- Puntaje estratégico: **68**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
 - Cierre: **a una (2027-01-01)**
@@ -339,7 +327,7 @@ Envíos | Archivos de Ciencias de la Educación Navegación principal Contenido 
 - Fuente: **De Prácticas y Discursos**
 - País / ciudad: **Argentina / Corrientes**
 - Temas: **educación, sociología, política, ciencias sociales**
-- Puntaje estratégico: **63**
+- Puntaje estratégico: **66**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
 - Cierre: **a una (2027-01-01)**
@@ -352,7 +340,7 @@ Envíos | De Prácticas y Discursos Ir al contenido principal Ir al menú de nav
 - Fuente: **Revista Análisis de las Prácticas**
 - País / ciudad: **Argentina / Buenos Aires**
 - Temas: **educación, política**
-- Puntaje estratégico: **55**
+- Puntaje estratégico: **58**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
 - Cierre: **a una (2027-01-01)**
@@ -365,7 +353,7 @@ Envíos | Revista Análisis de las Prácticas Ir al contenido principal Ir al me
 - Fuente: **Clío y Asociados**
 - País / ciudad: **Argentina / Santa Fe**
 - Temas: **educación, política, humanidades**
-- Puntaje estratégico: **55**
+- Puntaje estratégico: **58**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
 - Cierre: **a una (2027-01-01)**
@@ -485,6 +473,18 @@ La Incubadora de Empresas UNCuyo abre una nueva convocatoria para transformar id
 - Enlace: https://www.fcedu.uner.edu.ar/recepcion-continua-para-la-edicion-n-18-de-la-revista-del-prudente-saber/
 
 Recepción continua para la edición N° 18 de la revista "del Prudente saber..." - Facultad de Ciencias de la Educación | UNER Saltar al contenido Universidad Nacional de Entre Ríos Facultad de Ciencias de la Educación | UNER Sitio oficial de la Facultad de Ciencias de la Educación Inicio Institucional Carreras Académica Investigación Extensión Estudiantes Buscar: Inicio Institucional Carreras Académica Investigación…
+
+### Sobre la revista
+
+- Fuente: **Cuadernos del CIESAL**
+- País / ciudad: **Argentina / Rosario**
+- Temas: **política, humanidades, ciencias sociales**
+- Puntaje estratégico: **70**
+- Estado: **permanente**
+- Cierre: **December (2026-12-01)**
+- Enlace: https://cuadernosdelciesal.unr.edu.ar/index.php/inicio/about
+
+Sobre la revista | Cuadernos del Ciesal Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Acerca de Sobre la revista Envíos Cabecera editorial Declaración de privacidad Contacto Buscar Entrar Inicio / Sobre la revista Sobre la revista Enfoque y Alcance Cuadernos del CIESAL es una revista de periodicidad semestral (enero a junio y julio a diciembre)…
 
 ### Envíos
 
