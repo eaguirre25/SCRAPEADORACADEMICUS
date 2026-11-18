@@ -1,6 +1,6 @@
-# Dossier diario de convocatorias | 2026-11-17
+# Dossier diario de convocatorias | 2026-11-18
 
-- Nuevas: **0** | Total relevantes: **48**
+- Nuevas: **0** | Total relevantes: **49**
 
 ## Novedades del día
 
@@ -19,6 +19,18 @@ No aparecieron convocatorias nuevas respecto del historial guardado.
 - Enlace: https://seer.ufrgs.br/index.php/Poled/about/submissions
 
 Envíos | Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Entrar Inicio / Envíos Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para comprobar el estado de los envíos recientes.…
+
+### Submissão
+
+- Fuente: **Educação em Revista**
+- País / ciudad: **Brasil / Belo Horizonte**
+- Temas: **educación, política**
+- Puntaje estratégico: **64**
+- Estado: **abierta**
+- Cierre: **de do (2026-11-22)**
+- Enlace: https://periodicos.ufmg.br/index.php/edrevista/about/submissions
+
+Submissão | Educação em Revista Ir para o conteúdo principal Ir para o menu de navegação principal Ir para o rodapé Open Menu Sobre Histórico Comissão Editorial Política Editorial Atual Edições anteriores Submissões Templates Edições para impressão Notícias Contato Pareceristas Ad Hoc Buscar Cadastro Acesso Início / Submissão Submissão O cadastro no sistema e posterior acesso, por meio de login e senha, são…
 
 ### Historia y sociedad
 
@@ -80,18 +92,6 @@ Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colo
 - Enlace: https://www.saiehe.org.ar/anuario/revista/announcement
 
 Avisos | Anuario de Historia de la Educación Historia de la Educación Anuario Investigación Sociedad Argentina de Investigación y Enseñanza en Historia de la Educación Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Anuario de Historia de la Educación Actual Archivos Avisos Envíos Política editorial Acceso abierto, derechos de autor y gratuidad Revisión por pares…
-
-### Resultados para "convocatoria"
-
-- Fuente: **Traslaciones / convocatoria UNCuyo**
-- País / ciudad: **Argentina / Mendoza**
-- Temas: **educación, política, humanidades**
-- Puntaje estratégico: **63**
-- Estado: **abierta**
-- Cierre: **lunes 30 de noviembre a (2026-11-30)**
-- Enlace: https://educacion.uncuyo.edu.ar/buscar_tag/index/?tag=convocatoria
-
-Facultad de Educación Saltar a contenido principal UNCUYO UNCUYO Facultades | Escuelas | Institutos Secretarías Ingresantes Buscar Buscar Buscar Facultad de Educación Buscar Buscar Institucional Institucional La Facultad Organización Institucional Secretarías y Dependencias Departamento de Comunicación Consejo Directivo Ordenanzas y Resoluciones La Facultad en los medios Plan Estratégico 2030 Carreras Carreras…
 
 ### Convocatoria a Dossier temático “Políticas públicas y discursos sobre la escuela interpretados desde las prácticas educativas”
 
@@ -205,7 +205,7 @@ Anúncios | Revista Análisis de las Prácticas Ir para o conteúdo principal Ir
 - Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **29% Días (2026-12-16)**
+- Cierre: **29% Días (2026-12-17)**
 - Enlace: https://revista.saap.org.ar/
 
 REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
@@ -218,7 +218,7 @@ REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir a
 - Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **29% Días (2026-12-16)**
+- Cierre: **29% Días (2026-12-17)**
 - Enlace: https://revista.saap.org.ar/#homepageAnnouncements
 
 REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
@@ -426,18 +426,6 @@ CONVOCATORIA PARA PROPUESTAS DE DOSSIER - REVISTA SAAP | REVISTA SAAP Ir al cont
 
 Convocatoria Dossier temático. La escuela secundaria: problemas, experiencias y perspectivas. | Revista Análisis de las Prácticas Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Avisos / Convocatoria Dossier temático. La…
 
-### Convocatorias
-
-- Fuente: **Traslaciones / convocatoria UNCuyo**
-- País / ciudad: **Argentina / Mendoza**
-- Temas: **educación, política, humanidades**
-- Puntaje estratégico: **49**
-- Estado: **abierta**
-- Cierre: **lunes 5 de octubre (2027-10-05)**
-- Enlace: https://educacion.uncuyo.edu.ar/categorias/index/convocatorias
-
-Convocatorias - Facultad de Educación Saltar a contenido principal UNCUYO UNCUYO Facultades | Escuelas | Institutos Secretarías Ingresantes Buscar Buscar Buscar Facultad de Educación Buscar Buscar Institucional Institucional La Facultad Organización Institucional Secretarías y Dependencias Departamento de Comunicación Consejo Directivo Ordenanzas y Resoluciones La Facultad en los medios Plan Estratégico 2030…
-
 ### La Incubadora de Empresas UNCuyo abre una nueva convocatoria para transformar ideas en empresas
 
 - Fuente: **Traslaciones / convocatoria UNCuyo**
@@ -461,6 +449,30 @@ La Incubadora de Empresas UNCuyo abre una nueva convocatoria para transformar id
 - Enlace: https://seer.ufrgs.br/index.php/Poled/announcement/view/2254
 
 ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años | Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Entrar Inicio / Avisos / ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años ¡Feliz cumpleaños, PolEd! 2006–2026: 20 años 2026-10-01…
+
+### Resultados para "convocatoria"
+
+- Fuente: **Traslaciones / convocatoria UNCuyo**
+- País / ciudad: **Argentina / Mendoza**
+- Temas: **educación, política, humanidades**
+- Puntaje estratégico: **57**
+- Estado: **abierta**
+- Cierre: **jueves 3 de diciembre a las 13 (2113-12-03)**
+- Enlace: https://educacion.uncuyo.edu.ar/buscar_tag/index/?tag=convocatoria
+
+Facultad de Educación Saltar a contenido principal UNCUYO UNCUYO Facultades | Escuelas | Institutos Secretarías Ingresantes Buscar Buscar Buscar Facultad de Educación Buscar Buscar Institucional Institucional La Facultad Organización Institucional Secretarías y Dependencias Departamento de Comunicación Consejo Directivo Ordenanzas y Resoluciones La Facultad en los medios Plan Estratégico 2030 Carreras Carreras…
+
+### Convocatorias
+
+- Fuente: **Traslaciones / convocatoria UNCuyo**
+- País / ciudad: **Argentina / Mendoza**
+- Temas: **educación, política, humanidades**
+- Puntaje estratégico: **49**
+- Estado: **abierta**
+- Cierre: **jueves 3 de diciembre a las 13 (2113-12-03)**
+- Enlace: https://educacion.uncuyo.edu.ar/categorias/index/convocatorias
+
+Convocatorias - Facultad de Educación Saltar a contenido principal UNCUYO UNCUYO Facultades | Escuelas | Institutos Secretarías Ingresantes Buscar Buscar Buscar Facultad de Educación Buscar Buscar Institucional Institucional La Facultad Organización Institucional Secretarías y Dependencias Departamento de Comunicación Consejo Directivo Ordenanzas y Resoluciones La Facultad en los medios Plan Estratégico 2030…
 
 ### Recepción continua para la edición N° 18 de la revista “del Prudente saber…”
 
