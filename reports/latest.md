@@ -1,6 +1,6 @@
-# Dossier diario de convocatorias | 2026-11-18
+# Dossier diario de convocatorias | 2026-11-19
 
-- Nuevas: **0** | Total relevantes: **49**
+- Nuevas: **0** | Total relevantes: **45**
 
 ## Novedades del día
 
@@ -205,7 +205,7 @@ Anúncios | Revista Análisis de las Prácticas Ir para o conteúdo principal Ir
 - Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **29% Días (2026-12-17)**
+- Cierre: **29% Días (2026-12-18)**
 - Enlace: https://revista.saap.org.ar/
 
 REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
@@ -218,7 +218,7 @@ REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir a
 - Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **29% Días (2026-12-17)**
+- Cierre: **29% Días (2026-12-18)**
 - Enlace: https://revista.saap.org.ar/#homepageAnnouncements
 
 REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
@@ -347,19 +347,6 @@ Envíos | De Prácticas y Discursos Ir al contenido principal Ir al menú de nav
 - Enlace: https://portalrevistas.unipe.edu.ar/index.php/analisispracticas/about/submissions
 
 Envíos | Revista Análisis de las Prácticas Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Registrarse Entrar Inicio / Envíos Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para comprobar el estado de los…
-
-### Envíos
-
-- Fuente: **Clío y Asociados**
-- País / ciudad: **Argentina / Santa Fe**
-- Temas: **educación, política, humanidades**
-- Puntaje estratégico: **58**
-- Estado: **abierta**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **a una (2027-01-01)**
-- Enlace: https://bibliotecavirtual.unl.edu.ar/publicaciones/index.php/ClioyAsociados/es/about/submissions
-
-Envíos | Clío & Asociados. La historia enseñada Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Clío & Asociados. La historia enseñada Último número Números anteriores Acerca de La Revista Equipo editorial Evaluación Evaluadores Guía de buenas prácticas editoriales Bases de datos e índices Instituciones editoras Para autores Normas editoriales Envíos Llamados y…
 
 ### Propuestas de Dossier Temático
 
@@ -567,29 +554,6 @@ Avisos | Historia y sociedad Portal de revistas Universidad Nacional de Colombia
 
 Announcements | CONTEXTOS DE EDUCACION Skip to main content Skip to main navigation menu Skip to site footer Open Menu Current Announcements Archives Submissions Privacy Statement Política de acceso abierto Política de cargos para autores y autoras Licencia y Términos de uso Uso de herramientas de inteligencia artificial About About the Journal Editorial Team Contact Previous issues Search Register Login Home /…
 
-### Sobre la revista
-
-- Fuente: **Delito y Sociedad**
-- País / ciudad: **Argentina / Santa Fe**
-- Temas: **sociología, política, ciencias sociales**
-- Puntaje estratégico: **78**
-- Estado: **permanente**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Enlace: https://bibliotecavirtual.unl.edu.ar/publicaciones/index.php/DelitoySociedad/about/index
-
-Sobre la revista | Delito y Sociedad Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Delito y Sociedad Último número Números anteriores Acerca de Sobre la revista Estructura editorial Contacto Indexaciones Envíos Buscar Registrarse Entrar Inicio / Sobre la revista Sobre la revista Delito y Sociedad. Revista de Ciencias Sociales es una publicación semestral,…
-
-### Para autores
-
-- Fuente: **El Taco en la Brea**
-- País / ciudad: **Argentina / Santa Fe**
-- Temas: **política, humanidades**
-- Puntaje estratégico: **64**
-- Estado: **permanente**
-- Enlace: https://bibliotecavirtual.unl.edu.ar/publicaciones/index.php/ElTacoenlaBrea/autores/index
-
-Para autores | El Taco en la Brea Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu El Taco en la Brea Último número Números anteriores Acerca de La Revista Buenas Prácticas Editoriales Cabecera editorial Contacto Estructura editorial Para autores Recepción de trabajos Normas de evaluación Indizaciones Buscar Registrarse Entrar Inicio / Para autores Para autores…
-
 ### Anúncios
 
 - Fuente: **Revista Exitus**
@@ -600,15 +564,3 @@ Para autores | El Taco en la Brea Ir al contenido principal Ir al menú de naveg
 - Enlace: https://portaldeperiodicos.ufopa.edu.br/index.php/revistaexitus/announcement
 
 Anúncios | Revista Exitus Ir para o conteúdo principal Ir para o menu de navegação principal Ir para o rodapé Open Menu Atual Arquivos Indexadores Avaliadores ad hoc 2026 2025 2024 2023 2022 2021 2020 2019 Template Anúncios Sobre Sobre a Revista Ética e boas práticas na publicação Submissões Equipe Editorial Declaração de Privacidade Contato Buscar Cadastro Acesso Início / Anúncios Anúncios Suspensão de novas…
-
-### Sobre la revista
-
-- Fuente: **Documentos y Aportes en Administración Pública y Gestión Estatal**
-- País / ciudad: **Argentina / Santa Fe**
-- Temas: **política, humanidades, ciencias sociales**
-- Puntaje estratégico: **57**
-- Estado: **permanente**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Enlace: https://bibliotecavirtual.unl.edu.ar/publicaciones/index.php/DocumentosyAportes/about/index
-
-Sobre la revista | Documentos y Aportes en Administración Pública y Gestión Estatal Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Documentos y Aportes en Administración Pública y Gestión Estatal Último número Números anteriores Acerca de Sobre la revista Estructura editorial Evaluación Contacto Envíos Avisos Buscar Registrarse Entrar Inicio / Sobre la revista…
