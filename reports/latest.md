@@ -1,4 +1,4 @@
-# Dossier diario de convocatorias | 2026-11-20
+# Dossier diario de convocatorias | 2026-11-21
 
 - Nuevas: **0** | Total relevantes: **43**
 
@@ -192,7 +192,7 @@ Anúncios | Revista Análisis de las Prácticas Ir para o conteúdo principal Ir
 - Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **29% Días (2026-12-19)**
+- Cierre: **29% Días (2026-12-20)**
 - Enlace: https://revista.saap.org.ar/
 
 REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
@@ -205,7 +205,7 @@ REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir a
 - Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **29% Días (2026-12-19)**
+- Cierre: **29% Días (2026-12-20)**
 - Enlace: https://revista.saap.org.ar/#homepageAnnouncements
 
 REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
