@@ -1,4 +1,4 @@
-# Dossier diario de convocatorias | 2026-11-21
+# Dossier diario de convocatorias | 2026-11-22
 
 - Nuevas: **0** | Total relevantes: **43**
 
@@ -15,7 +15,7 @@ No aparecieron convocatorias nuevas respecto del historial guardado.
 - Temas: **educación, política, humanidades, ciencias sociales**
 - Puntaje estratégico: **74**
 - Estado: **abierta**
-- Cierre: **su (2026-11-22)**
+- Cierre: **su (2026-11-29)**
 - Enlace: https://seer.ufrgs.br/index.php/Poled/about/submissions
 
 Envíos | Políticas Educativas – PolEd Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Archivos Avisos Acerca de Sobre la revista Envíos Equipo editorial Declaración de privacidad Contacto Buscar Entrar Inicio / Envíos Envíos El registro y el inicio de sesión son necesarios para enviar elementos en línea y para comprobar el estado de los envíos recientes.…
@@ -27,7 +27,7 @@ Envíos | Políticas Educativas – PolEd Ir al contenido principal Ir al menú 
 - Temas: **educación, política**
 - Puntaje estratégico: **64**
 - Estado: **abierta**
-- Cierre: **de do (2026-11-22)**
+- Cierre: **de do (2026-11-29)**
 - Enlace: https://periodicos.ufmg.br/index.php/edrevista/about/submissions
 
 Submissão | Educação em Revista Ir para o conteúdo principal Ir para o menu de navegação principal Ir para o rodapé Open Menu Sobre Histórico Comissão Editorial Política Editorial Atual Edições anteriores Submissões Templates Edições para impressão Notícias Contato Pareceristas Ad Hoc Buscar Cadastro Acesso Início / Submissão Submissão O cadastro no sistema e posterior acesso, por meio de login e senha, são…
@@ -39,7 +39,7 @@ Submissão | Educação em Revista Ir para o conteúdo principal Ir para o menu 
 - Temas: **sociología, política, humanidades**
 - Puntaje estratégico: **66**
 - Estado: **abierta**
-- Cierre: **do (2026-11-22)**
+- Cierre: **do (2026-11-29)**
 - Enlace: https://revistas.unal.edu.co/index.php/hisysoc/about/submissions
 
 Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colombia Estamos preparando el portal para usted. Nacional / Bibliotecas Sedes UNAL Bogotá Medellín Manizales Palmira La Paz Amazonía Orinoquía Tumaco Caribe Menú Calendario académico Correo institucional Estructura UNAL ♙ Comunidad UNAL Buscar Servicios PT_BR Inglês Espanhol Buscar en las revistas UNAL Buscar Inicio Revistas Buscar…
@@ -51,7 +51,7 @@ Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colo
 - Temas: **sociología, política, humanidades**
 - Puntaje estratégico: **66**
 - Estado: **abierta**
-- Cierre: **do (2026-11-22)**
+- Cierre: **do (2026-11-29)**
 - Enlace: https://revistas.unal.edu.co/index.php/hisysoc/about/submissions#privacyStatement
 
 Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colombia Estamos preparando el portal para usted. Nacional / Bibliotecas Sedes UNAL Bogotá Medellín Manizales Palmira La Paz Amazonía Orinoquía Tumaco Caribe Menú Calendario académico Correo institucional Estructura UNAL ♙ Comunidad UNAL Buscar Servicios PT_BR Inglês Espanhol Buscar en las revistas UNAL Buscar Inicio Revistas Buscar…
@@ -63,7 +63,7 @@ Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colo
 - Temas: **sociología, política, humanidades**
 - Puntaje estratégico: **66**
 - Estado: **abierta**
-- Cierre: **do (2026-11-22)**
+- Cierre: **do (2026-11-29)**
 - Enlace: https://revistas.unal.edu.co/index.php/hisysoc/about/submissions#onlineSubmissions
 
 Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colombia Estamos preparando el portal para usted. Nacional / Bibliotecas Sedes UNAL Bogotá Medellín Manizales Palmira La Paz Amazonía Orinoquía Tumaco Caribe Menú Calendario académico Correo institucional Estructura UNAL ♙ Comunidad UNAL Buscar Servicios PT_BR Inglês Espanhol Buscar en las revistas UNAL Buscar Inicio Revistas Buscar…
@@ -75,7 +75,7 @@ Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colo
 - Temas: **sociología, política, humanidades**
 - Puntaje estratégico: **66**
 - Estado: **abierta**
-- Cierre: **do (2026-11-22)**
+- Cierre: **do (2026-11-29)**
 - Enlace: https://revistas.unal.edu.co/index.php/hisysoc/about/submissions#authorGuidelines
 
 Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colombia Estamos preparando el portal para usted. Nacional / Bibliotecas Sedes UNAL Bogotá Medellín Manizales Palmira La Paz Amazonía Orinoquía Tumaco Caribe Menú Calendario académico Correo institucional Estructura UNAL ♙ Comunidad UNAL Buscar Servicios PT_BR Inglês Espanhol Buscar en las revistas UNAL Buscar Inicio Revistas Buscar…
@@ -192,10 +192,10 @@ Anúncios | Revista Análisis de las Prácticas Ir para o conteúdo principal Ir
 - Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **29% Días (2026-12-20)**
+- Cierre: **29% Días (2026-12-21)**
 - Enlace: https://revista.saap.org.ar/
 
-REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
+REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP Buscar Registrarse…
 
 ### REVISTA SAAP
 
@@ -205,10 +205,10 @@ REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir a
 - Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **29% Días (2026-12-20)**
+- Cierre: **29% Días (2026-12-21)**
 - Enlace: https://revista.saap.org.ar/#homepageAnnouncements
 
-REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
+REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP Buscar Registrarse…
 
 ### Políticas Educativas – PolEd
 
