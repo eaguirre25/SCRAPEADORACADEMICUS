@@ -1,25 +1,12 @@
-# Dossier diario de convocatorias | 2026-11-24
+# Dossier diario de convocatorias | 2026-11-25
 
-- Nuevas: **0** | Total relevantes: **45**
+- Nuevas: **0** | Total relevantes: **43**
 
 ## Novedades del día
 
 No aparecieron convocatorias nuevas respecto del historial guardado.
 
 ## Convocatorias de esta corrida
-
-### Avisos
-
-- Fuente: **Historia de la Educación. Anuario**
-- País / ciudad: **Argentina / Buenos Aires**
-- Temas: **educación, sociología, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **82**
-- Estado: **abierta**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **25/11 (2026-11-25)**
-- Enlace: https://www.saiehe.org.ar/anuario/revista/announcement
-
-Avisos | Anuario de Historia de la Educación Historia de la Educación Anuario Investigación Sociedad Argentina de Investigación y Enseñanza en Historia de la Educación Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Anuario de Historia de la Educación Actual Archivos Avisos Envíos Política editorial Acceso abierto, derechos de autor y gratuidad Revisión por pares…
 
 ### Envíos
 
@@ -205,7 +192,7 @@ Anúncios | Revista Análisis de las Prácticas Ir para o conteúdo principal Ir
 - Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **29% Días (2026-12-23)**
+- Cierre: **29% Días (2026-12-24)**
 - Enlace: https://revista.saap.org.ar/
 
 REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP Buscar Registrarse…
@@ -218,7 +205,7 @@ REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir a
 - Puntaje estratégico: **79**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **29% Días (2026-12-23)**
+- Cierre: **29% Días (2026-12-24)**
 - Enlace: https://revista.saap.org.ar/#homepageAnnouncements
 
 REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP Buscar Registrarse…
@@ -465,7 +452,7 @@ Convocatorias - Facultad de Educación Saltar a contenido principal UNCUYO UNCUY
 
 - Fuente: **Del prudente Saber**
 - País / ciudad: **Argentina / Paraná**
-- Temas: **dirección escolar, educación, humanidades, ciencias sociales**
+- Temas: **dirección escolar, educación, política, humanidades, ciencias sociales**
 - Puntaje estratégico: **70**
 - Estado: **permanente**
 - Cierre: **diciembre (2026-12-01)**
@@ -507,7 +494,7 @@ Envíos | Chuy. Revista de Estudios Literarios Latinoamericanos Ir al contenido 
 - Calidad: **NBRA** · CAICYT-CONICET
 - Enlace: https://fh.mdp.edu.ar/revistas/index.php/r_educ/index
 
-UNMDP > Facultad de Humanidades > Publicaciones > Revistas Revista de Educación Usuario/a Nombre de usuario/a Contraseña No cerrar sesión Notificaciones Vista Suscribirse Contenido de la revista Buscar Ámbito de la búsqueda Todo Autores/as Título Resumen Términos de la indexación Texto completo Examinar Por número Por autor/a Por título Otras revistas Categorías Palabras clave aprendizaje didáctica docencia…
+UNMDP > Facultad de Humanidades > Publicaciones > Revistas Revista de Educación Usuario/a Nombre de usuario/a Contraseña No cerrar sesión Notificaciones Vista Suscribirse Contenido de la revista Buscar Ámbito de la búsqueda Todo Autores/as Título Resumen Términos de la indexación Texto completo Examinar Por número Por autor/a Por título Otras revistas Categorías Palabras clave Argentina didáctica docencia educación…
 
 ### Convocatorias
 
@@ -519,18 +506,6 @@ UNMDP > Facultad de Humanidades > Publicaciones > Revistas Revista de Educación
 - Enlace: https://raigal.unvm.edu.ar/ojs/index.php/raigal/convocatorias
 
 Convocatorias | Raigal Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Anteriores Acerca de Equipo editorial Sobre la revista Envíos Declaración de privacidad Preservación y archivo Contacto Indexada en... Convocatorias Avisos Buscar Registrarse Entrar Inicio / Convocatorias Convocatorias Llamado para el dossier temático de Raigal N°13 “Inteligencia…
-
-### Anuario de Historia de la Educación
-
-- Fuente: **Historia de la Educación. Anuario**
-- País / ciudad: **Argentina / Buenos Aires**
-- Temas: **educación, sociología, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **78**
-- Estado: **permanente**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Enlace: https://www.saiehe.org.ar/anuario/revista
-
-Anuario de Historia de la Educación Historia de la Educación Anuario Investigación Sociedad Argentina de Investigación y Enseñanza en Historia de la Educación Ir al contenido principal Ir al menú de navegación principal Ir al número actual Ir al pie de página del sitio Open Menu Anuario de Historia de la Educación Anuario de Historia de la Educación Actual Archivos Avisos Envíos Política editorial Acceso abierto,…
 
 ### Historia y sociedad
 
