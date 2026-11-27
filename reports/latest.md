@@ -1,6 +1,6 @@
-# Dossier diario de convocatorias | 2026-11-26
+# Dossier diario de convocatorias | 2026-11-27
 
-- Nuevas: **0** | Total relevantes: **43**
+- Nuevas: **0** | Total relevantes: **41**
 
 ## Novedades del día
 
@@ -85,7 +85,7 @@ Submissão | Historia y sociedad Portal de revistas Universidad Nacional de Colo
 - Fuente: **Revista Análisis de las Prácticas**
 - País / ciudad: **Argentina / Buenos Aires**
 - Temas: **educación, sociología, política, humanidades**
-- Puntaje estratégico: **79**
+- Puntaje estratégico: **82**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
 - Cierre: **11 de diciembre de 2026 (2026-12-11)**
@@ -98,7 +98,7 @@ Convocatoria a Dossier temático “Políticas públicas y discursos sobre la es
 - Fuente: **Revista Análisis de las Prácticas**
 - País / ciudad: **Argentina / Buenos Aires**
 - Temas: **educación, sociología, política**
-- Puntaje estratégico: **79**
+- Puntaje estratégico: **82**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
 - Cierre: **11 de diciembre de 2026 (2026-12-11)**
@@ -111,7 +111,7 @@ Avisos | Revista Análisis de las Prácticas Ir al contenido principal Ir al men
 - Fuente: **Revista Análisis de las Prácticas**
 - País / ciudad: **Argentina / Buenos Aires**
 - Temas: **educación, sociología, política**
-- Puntaje estratégico: **79**
+- Puntaje estratégico: **82**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
 - Cierre: **11 de diciembre de 2026 (2026-12-11)**
@@ -124,7 +124,7 @@ Avisos | Revista Análisis de las Prácticas Ir al contenido principal Ir al men
 - Fuente: **Revista Análisis de las Prácticas**
 - País / ciudad: **Argentina / Buenos Aires**
 - Temas: **educación, sociología, política**
-- Puntaje estratégico: **79**
+- Puntaje estratégico: **82**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
 - Cierre: **11 de diciembre de 2026 (2026-12-11)**
@@ -137,7 +137,7 @@ Avisos | Revista Análisis de las Prácticas Ir al contenido principal Ir al men
 - Fuente: **Revista Análisis de las Prácticas**
 - País / ciudad: **Argentina / Buenos Aires**
 - Temas: **educación, sociología, política**
-- Puntaje estratégico: **79**
+- Puntaje estratégico: **82**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
 - Cierre: **11 de diciembre de 2026 (2026-12-11)**
@@ -150,7 +150,7 @@ Avisos | Revista Análisis de las Prácticas Ir al contenido principal Ir al men
 - Fuente: **Revista Análisis de las Prácticas**
 - País / ciudad: **Argentina / Buenos Aires**
 - Temas: **educación, sociología, política**
-- Puntaje estratégico: **79**
+- Puntaje estratégico: **82**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
 - Cierre: **11 de diciembre de 2026 (2026-12-11)**
@@ -163,7 +163,7 @@ Avisos | Revista Análisis de las Prácticas Ir al contenido principal Ir al men
 - Fuente: **Revista Análisis de las Prácticas**
 - País / ciudad: **Argentina / Buenos Aires**
 - Temas: **educación, sociología, política**
-- Puntaje estratégico: **79**
+- Puntaje estratégico: **82**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
 - Cierre: **11 de diciembre de 2026 (2026-12-11)**
@@ -176,7 +176,7 @@ Announcements | Revista Análisis de las Prácticas Skip to main content Skip to
 - Fuente: **Revista Análisis de las Prácticas**
 - País / ciudad: **Argentina / Buenos Aires**
 - Temas: **educación, sociología, política**
-- Puntaje estratégico: **79**
+- Puntaje estratégico: **82**
 - Estado: **abierta**
 - Calidad: **NBRA** · CAICYT-CONICET
 - Cierre: **11 de diciembre de 2026 (2026-12-11)**
@@ -425,7 +425,7 @@ Convocatorias - Facultad de Educación Saltar a contenido principal UNCUYO UNCUY
 
 - Fuente: **Del prudente Saber**
 - País / ciudad: **Argentina / Paraná**
-- Temas: **dirección escolar, educación, humanidades, ciencias sociales**
+- Temas: **dirección escolar, educación, política, humanidades, ciencias sociales**
 - Puntaje estratégico: **70**
 - Estado: **permanente**
 - Cierre: **diciembre (2026-12-01)**
@@ -453,7 +453,7 @@ Sobre la revista | Cuadernos del Ciesal Ir al contenido principal Ir al menú de
 - Puntaje estratégico: **78**
 - Estado: **permanente**
 - Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **29% Días (2026-12-25)**
+- Cierre: **29% Días (2026-12-26)**
 - Enlace: https://revista.saap.org.ar/
 
 REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
@@ -480,7 +480,7 @@ Envíos | Chuy. Revista de Estudios Literarios Latinoamericanos Ir al contenido 
 - Calidad: **NBRA** · CAICYT-CONICET
 - Enlace: https://fh.mdp.edu.ar/revistas/index.php/r_educ/index
 
-UNMDP > Facultad de Humanidades > Publicaciones > Revistas Revista de Educación Usuario/a Nombre de usuario/a Contraseña No cerrar sesión Notificaciones Vista Suscribirse Contenido de la revista Buscar Ámbito de la búsqueda Todo Autores/as Título Resumen Términos de la indexación Texto completo Examinar Por número Por autor/a Por título Otras revistas Categorías Palabras clave Argentina didáctica docencia educación…
+UNMDP > Facultad de Humanidades > Publicaciones > Revistas Revista de Educación Usuario/a Nombre de usuario/a Contraseña No cerrar sesión Notificaciones Vista Suscribirse Contenido de la revista Buscar Ámbito de la búsqueda Todo Autores/as Título Resumen Términos de la indexación Texto completo Examinar Por número Por autor/a Por título Otras revistas Categorías Palabras clave Argentina aprendizaje didáctica…
 
 ### Convocatorias
 
@@ -492,18 +492,6 @@ UNMDP > Facultad de Humanidades > Publicaciones > Revistas Revista de Educación
 - Enlace: https://raigal.unvm.edu.ar/ojs/index.php/raigal/convocatorias
 
 Convocatorias | Raigal Ir al contenido principal Ir al menú de navegación principal Ir al pie de página del sitio Open Menu Actual Anteriores Acerca de Equipo editorial Sobre la revista Envíos Declaración de privacidad Preservación y archivo Contacto Indexada en... Convocatorias Avisos Buscar Registrarse Entrar Inicio / Convocatorias Convocatorias Llamado para el dossier temático de Raigal N°13 “Inteligencia…
-
-### Anuario de Historia de la Educación
-
-- Fuente: **Historia de la Educación. Anuario**
-- País / ciudad: **Argentina / Buenos Aires**
-- Temas: **educación, sociología, política, humanidades, ciencias sociales**
-- Puntaje estratégico: **78**
-- Estado: **permanente**
-- Calidad: **NBRA** · CAICYT-CONICET
-- Enlace: https://www.saiehe.org.ar/anuario/revista
-
-Anuario de Historia de la Educación Historia de la Educación Anuario Investigación Sociedad Argentina de Investigación y Enseñanza en Historia de la Educación Ir al contenido principal Ir al menú de navegación principal Ir al número actual Ir al pie de página del sitio Open Menu Anuario de Historia de la Educación Anuario de Historia de la Educación Actual Archivos Avisos Envíos Política editorial Acceso abierto,…
 
 ### Historia y sociedad
 
@@ -526,14 +514,3 @@ Avisos | Historia y sociedad Portal de revistas Universidad Nacional de Colombia
 - Enlace: https://www2.hum.unrc.edu.ar/ojs/index.php/contextos/user/setLocale/en?source=%2Fojs%2Findex.php%2Fcontextos%2Fannouncement
 
 Announcements | CONTEXTOS DE EDUCACION Skip to main content Skip to main navigation menu Skip to site footer Open Menu Current Announcements Archives Submissions Privacy Statement Política de acceso abierto Política de cargos para autores y autoras Licencia y Términos de uso Uso de herramientas de inteligencia artificial About About the Journal Editorial Team Contact Previous issues Search Register Login Home /…
-
-### Anúncios
-
-- Fuente: **Revista Exitus**
-- País / ciudad: **Brasil / Santarém**
-- Temas: **educación, política**
-- Puntaje estratégico: **55**
-- Estado: **permanente**
-- Enlace: https://portaldeperiodicos.ufopa.edu.br/index.php/revistaexitus/announcement
-
-Anúncios | Revista Exitus Ir para o conteúdo principal Ir para o menu de navegação principal Ir para o rodapé Open Menu Atual Arquivos Indexadores Avaliadores ad hoc 2026 2025 2024 2023 2022 2021 2020 2019 Template Anúncios Sobre Sobre a Revista Ética e boas práticas na publicação Submissões Equipe Editorial Declaração de Privacidade Contato Buscar Cadastro Acesso Início / Anúncios Anúncios Suspensão de novas…
