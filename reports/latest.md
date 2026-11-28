@@ -1,6 +1,6 @@
-# Dossier diario de convocatorias | 2026-11-27
+# Dossier diario de convocatorias | 2026-11-28
 
-- Nuevas: **0** | Total relevantes: **41**
+- Nuevas: **0** | Total relevantes: **42**
 
 ## Novedades del día
 
@@ -453,7 +453,7 @@ Sobre la revista | Cuadernos del Ciesal Ir al contenido principal Ir al menú de
 - Puntaje estratégico: **78**
 - Estado: **permanente**
 - Calidad: **NBRA** · CAICYT-CONICET
-- Cierre: **29% Días (2026-12-26)**
+- Cierre: **29% Días (2026-12-27)**
 - Enlace: https://revista.saap.org.ar/
 
 REVISTA SAAP Ir al contenido principal Ir al menú de navegación principal Ir al apartado "Acerca de la revista" Saltar a avisos Ir al número actual Ir al pie de página del sitio Open Menu REVISTA SAAP Último número Todos los números Acerca de Equipo editorial Contacto Publica en Revista SAAP Guía para autoras/es Derechos de autor Ética de la revista Propuestas de Dossier Temático Política de acceso abierto SAAP…
@@ -514,3 +514,14 @@ Avisos | Historia y sociedad Portal de revistas Universidad Nacional de Colombia
 - Enlace: https://www2.hum.unrc.edu.ar/ojs/index.php/contextos/user/setLocale/en?source=%2Fojs%2Findex.php%2Fcontextos%2Fannouncement
 
 Announcements | CONTEXTOS DE EDUCACION Skip to main content Skip to main navigation menu Skip to site footer Open Menu Current Announcements Archives Submissions Privacy Statement Política de acceso abierto Política de cargos para autores y autoras Licencia y Términos de uso Uso de herramientas de inteligencia artificial About About the Journal Editorial Team Contact Previous issues Search Register Login Home /…
+
+### Anúncios
+
+- Fuente: **Revista Exitus**
+- País / ciudad: **Brasil / Santarém**
+- Temas: **educación, política**
+- Puntaje estratégico: **55**
+- Estado: **permanente**
+- Enlace: https://portaldeperiodicos.ufopa.edu.br/index.php/revistaexitus/announcement
+
+Anúncios | Revista Exitus Ir para o conteúdo principal Ir para o menu de navegação principal Ir para o rodapé Open Menu Atual Arquivos Indexadores Avaliadores ad hoc 2026 2025 2024 2023 2022 2021 2020 2019 Template Anúncios Sobre Sobre a Revista Ética e boas práticas na publicação Submissões Equipe Editorial Declaração de Privacidade Contato Buscar Cadastro Acesso Início / Anúncios Anúncios Suspensão de novas…
